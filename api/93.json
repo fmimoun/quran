@@ -1,0 +1,83 @@
+{
+    "sura": 93,
+    "nombre_versets": 11,
+    "versets": [
+        {
+            "index": 6080,
+            "sura": 93,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ وَالضُّحَىٰ",
+            "text_fr": "Par le matin,"
+        },
+        {
+            "index": 6081,
+            "sura": 93,
+            "aya": 2,
+            "text": "وَاللَّيْلِ إِذَا سَجَىٰ",
+            "text_fr": "et par la nuit quand elle se répand,"
+        },
+        {
+            "index": 6082,
+            "sura": 93,
+            "aya": 3,
+            "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+            "text_fr": "ton Seigneur ne t'A ni Abandonné, ni Pris en aversion."
+        },
+        {
+            "index": 6083,
+            "sura": 93,
+            "aya": 4,
+            "text": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ",
+            "text_fr": "Et la vie Future est sûrement meilleure, pour toi, que la vie première."
+        },
+        {
+            "index": 6084,
+            "sura": 93,
+            "aya": 5,
+            "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+            "text_fr": "Etton Seigneur te Donnera sûrement, et tu seras satisfait."
+        },
+        {
+            "index": 6085,
+            "sura": 93,
+            "aya": 6,
+            "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+            "text_fr": "Ne t'A-t-Il pas Trouvé orphelin et Il t'Abrita ?"
+        },
+        {
+            "index": 6086,
+            "sura": 93,
+            "aya": 7,
+            "text": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+            "text_fr": "Et1Il t'A Trouvé égaré, et te Guida ?"
+        },
+        {
+            "index": 6087,
+            "sura": 93,
+            "aya": 8,
+            "text": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+            "text_fr": "Et1l t'A Trouvé ayant à nourrir, et Il t'A Enrichi ?"
+        },
+        {
+            "index": 6088,
+            "sura": 93,
+            "aya": 9,
+            "text": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+            "text_fr": "Quant à l'orphelin, ne le réprime point,"
+        },
+        {
+            "index": 6089,
+            "sura": 93,
+            "aya": 10,
+            "text": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+            "text_fr": "et quant au nécessiteux, ne le repousse point,"
+        },
+        {
+            "index": 6090,
+            "sura": 93,
+            "aya": 11,
+            "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux et quant aux bienfaits de ton Seigneur, alors parles-en. —n H—"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "sura": 110,
+    "nombre_versets": 3,
+    "versets": [
+        {
+            "index": 6214,
+            "sura": 110,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+            "text_fr": "Quand auront lieu la Victoire d'Allah et l'Ouverture divine,"
+        },
+        {
+            "index": 6215,
+            "sura": 110,
+            "aya": 2,
+            "text": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+            "text_fr": "et que tu verras les gens entrer dans la religion d'Allah, en masses,"
+        },
+        {
+            "index": 6216,
+            "sura": 110,
+            "aya": 3,
+            "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux exalte alors la Grâce de ton Seigneur et implore-Le d'Absoudre. Il A toujours Été Rémissif. —N ——"
+        }
+    ]
+}

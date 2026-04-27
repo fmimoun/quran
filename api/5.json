@@ -1,0 +1,846 @@
+{
+    "sura": 5,
+    "nombre_versets": 120,
+    "versets": [
+        {
+            "index": 670,
+            "sura": 5,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ ۚ أُحِلَّتْ لَكُمْ بَهِيمَةُ الْأَنْعَامِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي الصَّيْدِ وَأَنْتُمْ حُرُمٌ ۗ إِنَّ اللَّهَ يَحْكُمُ مَا يُرِيدُ",
+            "text_fr": "O vous qui devîntes croyants, acquittez-vous entièrement de vos engagements. Vous est licite la bête du bétail, sauf ce qui vous sera récité, et ne vous permettez pas la chasse quand vous êtes en ihräm.* Certes, Allah Décide ce qu'Il Veut."
+        },
+        {
+            "index": 671,
+            "sura": 5,
+            "aya": 2,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِنْ رَبِّهِمْ وَرِضْوَانًا ۚ وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا ۘ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+            "text_fr": "O vous qui devîntes croyants, ne profanez point les rites d'Allah, ni le mois sacré, ni les offrandes à immoler, ni les enguirlandées, ni ceux qui se dirigent vers la Maison Sacrée, aspirant à une munificence de leur Seigneur et à un agrément. Et lorsque vous vous déliez de l'ihräm, vous pourrez chasser. Que la haine contre les gens qui vous rebutaient de la Mosquée Sacrée, ne vous pousse point à agresser. Entraidez-vous à la justice et à la piété. ** ; Le mot al-mä'idah <LJ en arabe, désigne la table et la nourriture dont elle est garnie. L'événement de la descente d'une table du ciel, de laquelle Jésus a mangé avec ses apôtres, représente le dernier repas, connu sous le nom de « la Cène », bien que le sens et les détails qui se trouvent dans le Qur'ân ne soient point comme le sens et les détails qui se trouvent dans le Nouveau Testament Le mot Cène, ici, est le terme le plus proche pour le sens du terme en arabe. *1 \/ i-e. en état et en vêtements de sacralisation pour effectuer le pèlerinage et la visite pieuse (le Haÿj et la ‘Umra). —‘sp———'Æ'€— Ne vous entraidez point au péché et à l'agression. Craignez Allah. Certes, Allah Punit sévèrement."
+        },
+        {
+            "index": 672,
+            "sura": 5,
+            "aya": 3,
+            "text": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِ ۚ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ ۙ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+            "text_fr": "Vous ont été interdits : la bête morte, le sang, la viande de porc*, ce qui a été immolé à un autre qu'Allah, la bête étouffée, l'assommée, l'écroulée, l'encornée, ce qu'a dévoré un carnassier - sauf ce que vous arrivez à égorger, et ce qui a été immolé sur les autels - et de consulter le sort avec les fiches. Cela serait de la perversité. Aujourd'hui, ceux qui devinrent mécréants ont désespéré de votre religion, ne les craignez donc plus et craignez Moi. Aujourd'hui, J'Ai Parachevé pour vous votre religion, J'Ai Parfait ma Grâce envers vous, et J'Ai Agréé pour vous l'Islam comme religion. Mais quiconque sera contraint, lors d'une famine, sans se laisser aberrer par péché, Allah alors Est sûrement Absoluteur, Miséricordieux."
+        },
+        {
+            "index": 673,
+            "sura": 5,
+            "aya": 4,
+            "text": "يَسْأَلُونَكَ مَاذَا أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۙ وَمَا عَلَّمْتُمْ مِنَ الْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ اللَّهُ ۖ فَكُلُوا مِمَّا أَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+            "text_fr": "ls t'interrogent sur ce qui leur est licite. Dis : « Vous sont licites les bonnes choses, et des rapaces que vous avez dressés comme les chiens de chasse. Vous leur enseignez de ce qu'Allah vous A Enseigné ; mangez alors des proies qu'ils ont saisies pour vous, et *3 Ila été prouvé récemment que le passage des colibacilles de l'intestin, dans le sang et les muscles, rendent la viande du porc impropre à la consommation Déjà depuis 1872, il est connu que le bacille est un micro-organisme du groupe des bactéries en forme de bâtonnet. La plupart des bacilles sont pathogènes et provoquent : charbon, botulisme, brucellose, coli-bacillose, coqueluche, diphtérie, lèpre, tuberculose, typhoïde. Et certains bacilles sont des agents de fermentation. —[ 169 ]— prononcez sur elles le Nom d'Allah ». Craignez Allah. Certes, Allah Est Prompt à demander compte."
+        },
+        {
+            "index": 674,
+            "sura": 5,
+            "aya": 5,
+            "text": "الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۖ وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَكُمْ وَطَعَامُكُمْ حِلٌّ لَهُمْ ۖ وَالْمُحْصَنَاتُ مِنَ الْمُؤْمِنَاتِ وَالْمُحْصَنَاتُ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَافِحِينَ وَلَا مُتَّخِذِي أَخْدَانٍ ۗ وَمَنْ يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ",
+            "text_fr": "Aujourd'hui vous ont été rendues licites les bonnes choses. La nourriture de ceux auxquels le Livre a été Révélé vous est licite, et votre nourriture leur est licite. Et les femmes vertueuses parmi les croyantes, et les femmes vertueuses parmi ceux à qui le Livre a été Révélé avant vous, lorsque vous leur donnez leurs dots, en étant vertueux, et non en libertins ou en prenant des compagnes. Quiconque mécroit en la Foi, son œuvre sera sûrement vaine, et dans l'au-delà, il sera du nombre des perdus."
+        },
+        {
+            "index": 675,
+            "sura": 5,
+            "aya": 6,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ ۚ وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوا ۚ وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ مِنْهُ ۚ مَا يُرِيدُ اللَّهُ لِيَجْعَلَ عَلَيْكُمْ مِنْ حَرَجٍ وَلَـٰكِنْ يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+            "text_fr": "O vous qui devintes croyants, lorsque vous vous levez pour la prière, lavez-vous vos visages et vos mains jusqu'aux coudes, passez-vous les mains sur vos têtes et lavez-vous les pieds jusqu'aux chevilles. Et si vous êtes en état d'impureté*, purifiez-vous.*+* Et si vous êtes malades, ou en voyage, ou si l'un d'entre vous vient du lieu retiré, ou si vous avez touché*** les femmes et que vous ne trouviez point d'eau, alors faites des ablutions à sec avec ce qui couvre la terre en état pur : essuyez-vous- en vos visages et vos mains. Allah ne Veut point vous Imposer quelque gêne, mais Il Veut vous Purifier et *6 c-à-d. impureté légale, due au coît, à la masturbation ou à la pollution nocturne, à quoi s'ajoute pour la femme : les menstrues, l'état d'accouchement et le sang d'une parturiente. **Par la lotion ***voir note S.4, v. 43. —— 0H— Parfaire Sa Grâce envers vous, pour que vous deveniez reconnaissants."
+        },
+        {
+            "index": 676,
+            "sura": 5,
+            "aya": 7,
+            "text": "وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُمْ بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+            "text_fr": "Rappelez-vous la Grâce d'Allah envers vous et l'Alliance par laquelle Il vous A Engagés lorsque vous dites : « Nous avons écouté et nous avons obéi ». Craignez Allah. Certes, Allah Est Tout-Scient de l'essence des pensées."
+        },
+        {
+            "index": 677,
+            "sura": 5,
+            "aya": 8,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+            "text_fr": "O vous qui devintes croyants, forcez votre constance envers Allah. Soyez des témoins avec équité. Que la haine contre certaines gens ne vous pousse point à être injustes. Soyez justes, c'est plus proche de la piété. Craignez Allah. Certes, Allah Est Omniconnaissant ce que vous faites."
+        },
+        {
+            "index": 678,
+            "sura": 5,
+            "aya": 9,
+            "text": "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ۙ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+            "text_fr": "Allah A Promis à ceux qui devinrent croyants et ont fait les œuvres méritoires qu'ils auront une absolution et une immense rémunération."
+        },
+        {
+            "index": 679,
+            "sura": 5,
+            "aya": 10,
+            "text": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَـٰئِكَ أَصْحَابُ الْجَحِيمِ",
+            "text_fr": "Et ceux qui devinrent mécréants et ont démenti Nos Signes, ceux-là sont les damnés de l'Enfer."
+        },
+        {
+            "index": 680,
+            "sura": 5,
+            "aya": 11,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَنْ يَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنْكُمْ ۖ وَاتَّقُوا اللَّهَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+            "text_fr": "O vous qui devîintes croyants, rappelez-vous la Grâce d'Allah envers vous, lorsque des gens s'apprêtaient à tendre leurs mains sur vous, et Il Arrêta leurs nuisances loin de vous. Craignez Allah. Et que les croyants se fient à Allah."
+        },
+        {
+            "index": 681,
+            "sura": 5,
+            "aya": 12,
+            "text": "وَلَقَدْ أَخَذَ اللَّهُ مِيثَاقَ بَنِي إِسْرَائِيلَ وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَقِيبًا ۖ وَقَالَ اللَّهُ إِنِّي مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ الصَّلَاةَ وَآتَيْتُمُ الزَّكَاةَ وَآمَنْتُمْ بِرُسُلِي وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ اللَّهَ قَرْضًا حَسَنًا لَأُكَفِّرَنَّ عَنْكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ فَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ مِنْكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+            "text_fr": "Allah A Conclu, en fait, l'Alliance des fils d'Israël. Et Nous choisîmes douze chefs d'entre eux. Allah A Dit : « Je Suis avec vous : si vous accomplissez la prière, vous acquittez la Zakät, vous croyez en Mes Messagers, vous les secondez, et vous prêtez à Allah un prêt bénévole, J'Expierai sûrement vos mauvaises actions et vous Ferai Entrer dans des Paradis sous lesquels coulent les fleuves. ——n fs — Quiconque d'entre vous mécroit après cela, il s'est effectivement fourvoyé de la rectitude de la voie »."
+        },
+        {
+            "index": 682,
+            "sura": 5,
+            "aya": 13,
+            "text": "فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةً ۖ يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ ۙ وَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَائِنَةٍ مِنْهُمْ إِلَّا قَلِيلًا مِنْهُمْ ۖ فَاعْفُ عَنْهُمْ وَاصْفَحْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+            "text_fr": "Et comme ils ont rompu leur Alliance, Nous les Maudîmes et Nous Endurcîmes leurs cœurs : ils altèrent les mots de leur place, et oublièrent une part de ce qui leur fut rappelé. Et tu continues à constater quelque trahison de leur part, sauf peu nombreux d'entre eux. Pardonne-leur et fais grâce. Certes, Allah Aime ceux qui font le meilleur."
+        },
+        {
+            "index": 683,
+            "sura": 5,
+            "aya": 14,
+            "text": "وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ أَخَذْنَا مِيثَاقَهُمْ فَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ إِلَىٰ يَوْمِ الْقِيَامَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ اللَّهُ بِمَا كَانُوا يَصْنَعُونَ",
+            "text_fr": "Et avec ceux qui ont dit : «Nous sommes nazaréens », Nous Conclûmes leur Alliance, mais ils oublièrent une part de ce qui leur fut rappelé. Alors Nous Excitâmes entre eux l'animosité et la haine jusqu'au Jour de la Résurrection. Et Allah les Informera de ce qu'ils fabriquaient."
+        },
+        {
+            "index": 684,
+            "sura": 5,
+            "aya": 15,
+            "text": "يَا أَهْلَ الْكِتَابِ قَدْ جَاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِمَّا كُنْتُمْ تُخْفُونَ مِنَ الْكِتَابِ وَيَعْفُو عَنْ كَثِيرٍ ۚ قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ",
+            "text_fr": "O gens du Livre, Notre Messager vous est venu pour vous expliciter beaucoup de ce que vous cachiez du Livre, et passer sur beaucoup d'autres. Il vous est venu d'Allah, en fait, une Lumière et un Livre explicite,"
+        },
+        {
+            "index": 685,
+            "sura": 5,
+            "aya": 16,
+            "text": "يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+            "text_fr": "par lequel Allah Guide, quiconque suit Son agrément, sur les voies de la paix, et Il les Fait Sortir des ténèbres vers la lumière, par Son Vouloir, et les Guide vers un chemin de rectitude."
+        },
+        {
+            "index": 686,
+            "sura": 5,
+            "aya": 17,
+            "text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ ۚ قُلْ فَمَنْ يَمْلِكُ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ أَنْ يُهْلِكَ الْمَسِيحَ ابْنَ مَرْيَمَ وَأُمَّهُ وَمَنْ فِي الْأَرْضِ جَمِيعًا ۗ وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "text_fr": "Devinrent sûrement mécréants ceux qui ont dit: « Certes, Allah est le Messie fils de Marie ». Dis : «Qui donc a pouvoir sur Allah s'Il Voulait, en fait, Anéantir le Messie fils de Marie, sa mère, et ceux qui sont sur la terre en totalité ? » A Allah appartient le Règne des Cieux, et de la terre, et ce qui est entre les deux. Il Crée ce qu'II Veut. Allah Est Omnipuissant sur toute chose. ——n s——"
+        },
+        {
+            "index": 687,
+            "sura": 5,
+            "aya": 18,
+            "text": "وَقَالَتِ الْيَهُودُ وَالنَّصَارَىٰ نَحْنُ أَبْنَاءُ اللَّهِ وَأَحِبَّاؤُهُ ۚ قُلْ فَلِمَ يُعَذِّبُكُمْ بِذُنُوبِكُمْ ۖ بَلْ أَنْتُمْ بَشَرٌ مِمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ الْمَصِيرُ",
+            "text_fr": "Les Juifs et les Nazaréens ont dit : « Nous sommes les fils d'Allah et Ses bien-aimés » ! Dis : « Pourquoi alors vous Châtie-t-Il en raison de vos péchés ? » Bien au contraire, vous êtes des êtres humains de parmi ceux qu'Il À créés. Il Absout qui Il Veut et Il Châtie qui Il Veut ». A Allah Appartient le Règne des Cieux et de la terre, et ce qui est entre les deux. Et c'est vers Lui le Devenir."
+        },
+        {
+            "index": 688,
+            "sura": 5,
+            "aya": 19,
+            "text": "يَا أَهْلَ الْكِتَابِ قَدْ جَاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِنَ الرُّسُلِ أَنْ تَقُولُوا مَا جَاءَنَا مِنْ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَاءَكُمْ بَشِيرٌ وَنَذِيرٌ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "text_fr": "O gens du Livre, Notre Messager est venu, en fait, pour vous expliciter, après une absence de Messagers, afin que vous ne disiez point : « Il ne nous est venu nul annonciateur ni avertisseur ». Voilà qu'il vous est venu, en fait, un annonciateur et un avertisseur. Allah Est Omnipuissant sur toute chose."
+        },
+        {
+            "index": 689,
+            "sura": 5,
+            "aya": 20,
+            "text": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنْبِيَاءَ وَجَعَلَكُمْ مُلُوكًا وَآتَاكُمْ مَا لَمْ يُؤْتِ أَحَدًا مِنَ الْعَالَمِينَ",
+            "text_fr": "Lorsque Moïse dit à son peuple : « O mon peuple, rappelez-vous la grâce d'Allah envers vous, lorsqu'II Mit parmi vous des Prophètes, et Fit de vous des rois, et vous Accorda ce qu'Il n'A point Accordé à aucun des contemporains."
+        },
+        {
+            "index": 690,
+            "sura": 5,
+            "aya": 21,
+            "text": "يَا قَوْمِ ادْخُلُوا الْأَرْضَ الْمُقَدَّسَةَ الَّتِي كَتَبَ اللَّهُ لَكُمْ وَلَا تَرْتَدُّوا عَلَىٰ أَدْبَارِكُمْ فَتَنْقَلِبُوا خَاسِرِينَ",
+            "text_fr": "O mon peuple, entrez dans la Terre Sainte qu'Allah vous A Destinée, et ne revenez point sur vos pas, afin que vous ne vous inversiez point en perdus »."
+        },
+        {
+            "index": 691,
+            "sura": 5,
+            "aya": 22,
+            "text": "قَالُوا يَا مُوسَىٰ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَنْ نَدْخُلَهَا حَتَّىٰ يَخْرُجُوا مِنْهَا فَإِنْ يَخْرُجُوا مِنْهَا فَإِنَّا دَاخِلُونَ",
+            "text_fr": "Ils dirent : « O Moïse, il y a là des gens implacables et nous n'y entrerons point jusqu'à ce qu'ils en sortent. Alors nous y entrerons »."
+        },
+        {
+            "index": 692,
+            "sura": 5,
+            "aya": 23,
+            "text": "قَالَ رَجُلَانِ مِنَ الَّذِينَ يَخَافُونَ أَنْعَمَ اللَّهُ عَلَيْهِمَا ادْخُلُوا عَلَيْهِمُ الْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَالِبُونَ ۚ وَعَلَى اللَّهِ فَتَوَكَّلُوا إِنْ كُنْتُمْ مُؤْمِنِينَ",
+            "text_fr": "Deux hommes, de ceux qui redoutent Allah et qu'Il Avait Gratifiés, dirent: « Franchissez leur porte, et lorsque vous y pénétrerez vous serez vainqueurs. Fiez-vous à Allah, si vous êtes croyants ». ——s =—"
+        },
+        {
+            "index": 693,
+            "sura": 5,
+            "aya": 24,
+            "text": "قَالُوا يَا مُوسَىٰ إِنَّا لَنْ نَدْخُلَهَا أَبَدًا مَا دَامُوا فِيهَا ۖ فَاذْهَبْ أَنْتَ وَرَبُّكَ فَقَاتِلَا إِنَّا هَاهُنَا قَاعِدُونَ",
+            "text_fr": "Ils dirent : « O Moïse, nous n'y entrerons jamais tant qu'ils y seront. Va donc, toi et ton Seigneur, combattez tous deux. Quant à nous, nous restons ici même » !"
+        },
+        {
+            "index": 694,
+            "sura": 5,
+            "aya": 25,
+            "text": "قَالَ رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي ۖ فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ",
+            "text_fr": "Il dit : « Mon Seigneur, je ne dispose que de ma personne et de mon frère. Départage-nous de ces gens pervers »."
+        },
+        {
+            "index": 695,
+            "sura": 5,
+            "aya": 26,
+            "text": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ ۚ فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ",
+            "text_fr": "Il Dit : « Cette terre leur est interdite. Ils erreront quarante ans de par la terre. Ne te désole donc point pour les gens pervertis »."
+        },
+        {
+            "index": 696,
+            "sura": 5,
+            "aya": 27,
+            "text": "وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ",
+            "text_fr": "Raconte-leur, en toute vérité, l'histoire des deux fils d'Adam, lorsqu'ils firent une offrande et qu'elle fut acceptée de l'un d'entre eux et ne fut pas acceptée de l'autre. Celui-ci dit : « Je te tuerai sûrement ». Il dit: « Mais Allah n'Accepte que des pieux."
+        },
+        {
+            "index": 697,
+            "sura": 5,
+            "aya": 28,
+            "text": "لَئِنْ بَسَطْتَ إِلَيَّ يَدَكَ لِتَقْتُلَنِي مَا أَنَا بِبَاسِطٍ يَدِيَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ",
+            "text_fr": "Si jamais tu tends ta main vers moi pour me tuer, je ne tendrai point ma main vers toi pour te tuer. Je crains Allah, Seigneur des Univers."
+        },
+        {
+            "index": 698,
+            "sura": 5,
+            "aya": 29,
+            "text": "إِنِّي أُرِيدُ أَنْ تَبُوءَ بِإِثْمِي وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَابِ النَّارِ ۚ وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ",
+            "text_fr": "Je veux que tu supportes mon péché et ton péché, pour que tu sois des condamnés au Feu. Cela est la punition des injustes »."
+        },
+        {
+            "index": 699,
+            "sura": 5,
+            "aya": 30,
+            "text": "فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ أَخِيهِ فَقَتَلَهُ فَأَصْبَحَ مِنَ الْخَاسِرِينَ",
+            "text_fr": "Mais son ego l'inclina à tuer son frère, et il le tua. Alors il fut du nombre des perdus."
+        },
+        {
+            "index": 700,
+            "sura": 5,
+            "aya": 31,
+            "text": "فَبَعَثَ اللَّهُ غُرَابًا يَبْحَثُ فِي الْأَرْضِ لِيُرِيَهُ كَيْفَ يُوَارِي سَوْءَةَ أَخِيهِ ۚ قَالَ يَا وَيْلَتَىٰ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَـٰذَا الْغُرَابِ فَأُوَارِيَ سَوْءَةَ أَخِي ۖ فَأَصْبَحَ مِنَ النَّادِمِينَ",
+            "text_fr": "Puis Allah envoya un corbeau gratter le sol pour lui montrer comment ensevelir l'avarie de son frère. Il dit: « Malheur à moi! Ai-je donc été incapable d'être comme ce corbeau et ensevelir l'avarie de mon frère ! » Et il fut de ceux qui ont du remords."
+        },
+        {
+            "index": 701,
+            "sura": 5,
+            "aya": 32,
+            "text": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا ۚ وَلَقَدْ جَاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِ ثُمَّ إِنَّ كَثِيرًا مِنْهُمْ بَعْدَ ذَٰلِكَ فِي الْأَرْضِ لَمُسْرِفُونَ",
+            "text_fr": "En raison de cela Nous Avons Prescrit aux fils d'Israël que : « Quiconque tue une personne sans qu'elle ait tué ou corrompu de par la terre, serait comme s'il avait tué les hommes en totalité, mais quiconque la laisse vivre, —[ 174 }— serait comme s'il avait laissé vivre les hommes en totalité ». Nos Messagers leur sont venus, en fait, avec les évidences. Ensuite, beaucoup d'entre eux, après cela, sont des dissipateurs de par la terre."
+        },
+        {
+            "index": 702,
+            "sura": 5,
+            "aya": 33,
+            "text": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَنْ يُقَتَّلُوا أَوْ يُصَلَّبُوا أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُمْ مِنْ خِلَافٍ أَوْ يُنْفَوْا مِنَ الْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+            "text_fr": "Toutefois, la punition de ceux qui font la guerre à Allah et à Son Messager, et sèment la corruption de par la terre, est qu'ils soient massacrés, ou crucifiés, ou que soient coupés leurs mains et leurs pieds opposés, ou qu'ils soient bannis du pays. Cela sera pour eux un avilissement dans le monde ; et dans l'au-delà, ils auront un immense châtiment."
+        },
+        {
+            "index": 703,
+            "sura": 5,
+            "aya": 34,
+            "text": "إِلَّا الَّذِينَ تَابُوا مِنْ قَبْلِ أَنْ تَقْدِرُوا عَلَيْهِمْ ۖ فَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+            "text_fr": "Sauf ceux qui se sont repentis avant que vous n'ayez pouvoir sur eux. Sachez qu'Allah Est Absoluteur, Miséricordieux."
+        },
+        {
+            "index": 704,
+            "sura": 5,
+            "aya": 35,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ",
+            "text_fr": "O vous qui devîntes croyants, craignez Allah et aspirez au moyen d'obédience qui mène vers Lui. Luttez pour Sa Cause, afin que vous cultiviez."
+        },
+        {
+            "index": 705,
+            "sura": 5,
+            "aya": 36,
+            "text": "إِنَّ الَّذِينَ كَفَرُوا لَوْ أَنَّ لَهُمْ مَا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ عَذَابِ يَوْمِ الْقِيَامَةِ مَا تُقُبِّلَ مِنْهُمْ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+            "text_fr": "Certes, si ceux qui devinrent mécréants possédaient tout ce qui est sur la terre, et son équivalent encore, pour se racheter du châtiment du Jour de la Résurrection, ce ne sera point accepté de leur part, et ils auront un douloureux châtiment."
+        },
+        {
+            "index": 706,
+            "sura": 5,
+            "aya": 37,
+            "text": "يُرِيدُونَ أَنْ يَخْرُجُوا مِنَ النَّارِ وَمَا هُمْ بِخَارِجِينَ مِنْهَا ۖ وَلَهُمْ عَذَابٌ مُقِيمٌ",
+            "text_fr": "Ils voudront sortir du Feu et ils n'en sortiront point. Ils auront un châtiment permanent."
+        },
+        {
+            "index": 707,
+            "sura": 5,
+            "aya": 38,
+            "text": "وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+            "text_fr": "Le voleur et la voleuse : coupez-leur les mains, en punition de ce qu'ils ont acquis, comme exemple de la part d'Allah. Allah Est Invincible, Sage."
+        },
+        {
+            "index": 708,
+            "sura": 5,
+            "aya": 39,
+            "text": "فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+            "text_fr": "Quiconque se repent après son injustice et s'amende, Allah sans doute lui Fera Rémission, car Allah Est Absoluteur, Miséricordieux. —[ 175 }—"
+        },
+        {
+            "index": 709,
+            "sura": 5,
+            "aya": 40,
+            "text": "أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ يُعَذِّبُ مَنْ يَشَاءُ وَيَغْفِرُ لِمَنْ يَشَاءُ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "text_fr": "N'as-tu donc pas su qu'à Allah Appartient le Règne des Cieux et de la terre, qu'Il Châtie qui Il Veut et Absout qui Il Veut ? Allah Est Omnipuissant sur toute chose."
+        },
+        {
+            "index": 710,
+            "sura": 5,
+            "aya": 41,
+            "text": "يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ مِنَ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ تُؤْمِنْ قُلُوبُهُمْ ۛ وَمِنَ الَّذِينَ هَادُوا ۛ سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ آخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ الْكَلِمَ مِنْ بَعْدِ مَوَاضِعِهِ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَـٰذَا فَخُذُوهُ وَإِنْ لَمْ تُؤْتَوْهُ فَاحْذَرُوا ۚ وَمَنْ يُرِدِ اللَّهُ فِتْنَتَهُ فَلَنْ تَمْلِكَ لَهُ مِنَ اللَّهِ شَيْئًا ۚ أُولَـٰئِكَ الَّذِينَ لَمْ يُرِدِ اللَّهُ أَنْ يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+            "text_fr": "O Messager, ne t'afflige point de ceux qui s'empressent vers la mécréance parmi ceux qui dirent par leurs bouches : « Nous devînmes croyants », mais leurs cœurs n'ont point été croyants. Il en est, de ceux qui se judaïsèrent, qui sont écouteurs de mensonge, écouteurs d'autres gens qui ne sont pas venus à toi : ils falsifient les mots, une fois bien établis. Ils disent : « Si vous avez reçu ceci, prenez-le, et si vous ne l'avez pas reçu, méfiez-vous-en » ! Et quiconque Allah Veut Éprouver, tu ne pourras rien pour lui contre la Volonté d'Allah. Ceux- là sont ceux dont Allah n'A pas Voulu Purifier leurs cœurs. Ils auront un avilissement dans le monde, et auront dans la vie Future un immense châtiment."
+        },
+        {
+            "index": 711,
+            "sura": 5,
+            "aya": 42,
+            "text": "سَمَّاعُونَ لِلْكَذِبِ أَكَّالُونَ لِلسُّحْتِ ۚ فَإِنْ جَاءُوكَ فَاحْكُمْ بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ ۖ وَإِنْ تُعْرِضْ عَنْهُمْ فَلَنْ يَضُرُّوكَ شَيْئًا ۖ وَإِنْ حَكَمْتَ فَاحْكُمْ بَيْنَهُمْ بِالْقِسْطِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+            "text_fr": "Écouteurs de mensonge, mangeurs de choses illicites. S'ils viennent à toi, juge alors entre eux ou bien détourne-toi d'eux. Si tu te détournes d'eux, ils ne te nuiront en rien. Et quand tu juges, alors juge entre eux avec équité. Certes, Allah Aime les équitables."
+        },
+        {
+            "index": 712,
+            "sura": 5,
+            "aya": 43,
+            "text": "وَكَيْفَ يُحَكِّمُونَكَ وَعِنْدَهُمُ التَّوْرَاةُ فِيهَا حُكْمُ اللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنْ بَعْدِ ذَٰلِكَ ۚ وَمَا أُولَـٰئِكَ بِالْمُؤْمِنِينَ",
+            "text_fr": "Comment te prennent-ils pour arbitre alors qu'ils ont la Torah, contenant les Commandements d'Allah, puis ils s'écartent après cela. Ce ne sont pas ceux-là les croyants!"
+        },
+        {
+            "index": 713,
+            "sura": 5,
+            "aya": 44,
+            "text": "إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَـٰئِكَ هُمُ الْكَافِرُونَ",
+            "text_fr": "Nous Révélâmes la Torah contenant une Direction et une Lumière. Par elle, les Prophètes qui se sont islamisés, jugent ceux qui se judaïsèrent - de mêmes que les rabbins et les savants - avec ce qui leur était confié du Livre d'Allah, et ils en étaient témoins. Ne craignez donc pas les hommes et craignez-Moi. Et ne troquez pas Mes ——————€Ç rs H— Versets pour un vil prix. Quiconque n'a pas jugé avec ce qu'Allah Révéla, ceux-là sont les mécréants."
+        },
+        {
+            "index": 714,
+            "sura": 5,
+            "aya": 45,
+            "text": "وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَـٰئِكَ هُمُ الظَّالِمُونَ",
+            "text_fr": "Nous leur y Avons Prescrit : l'âme pour l'âme, l'œil pour l'œil, le nez pour le nez, l'oreille pour l'oreille, la dent pour la dent, et les blessures au talion. Quiconque y renonce, ce sera une expiation pour lui. Et quiconque n'a pas jugé selon ce qu'Allah Révéla, ceux-là alors sont les injustes."
+        },
+        {
+            "index": 715,
+            "sura": 5,
+            "aya": 46,
+            "text": "وَقَفَّيْنَا عَلَىٰ آثَارِهِمْ بِعِيسَى ابْنِ مَرْيَمَ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ ۖ وَآتَيْنَاهُ الْإِنْجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ وَهُدًى وَمَوْعِظَةً لِلْمُتَّقِينَ",
+            "text_fr": "Et Nous envoyâmes sur leurs pas, Jésus fils de Marie, corroborant ce qui le précéda de la Torah. Et Nous lui Donnâmes 1‘Évangile, contenant Direction et Lumière, corroborant ce qui le précéda de la Torah, Direction et exhortation pour les pieux."
+        },
+        {
+            "index": 716,
+            "sura": 5,
+            "aya": 47,
+            "text": "وَلْيَحْكُمْ أَهْلُ الْإِنْجِيلِ بِمَا أَنْزَلَ اللَّهُ فِيهِ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَـٰئِكَ هُمُ الْفَاسِقُونَ",
+            "text_fr": "Et que les gens de l'Évangile jugent d'après ce qu'Allah y Révéla. Quiconque n'a pas jugé d'après ce qu'Allah Révéla, ceux-là alors sont les pervertis."
+        },
+        {
+            "index": 717,
+            "sura": 5,
+            "aya": 48,
+            "text": "وَأَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَاحْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ عَمَّا جَاءَكَ مِنَ الْحَقِّ ۚ لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا ۚ وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَـٰكِنْ لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+            "text_fr": "Et Nous te Révélâmes le Livre en vérité, corroborant ce qui le précéda du Livre, et le contrôlant. Juge donc entre eux d'après ce qu'Allah A Révélé. Ne suis pas leurs passions au lieu de ce que tu as reçu de la Vérité. A chacun d'entre vous Nous Fîmes une Loi et une Méthode. Si Allah le Voulait, Il vous Aurait Fait une seule communauté, mais c'est pour vous éprouver en ce qu'Il vous A Donné. Concourez donc en œuvres de bienfaisance. Vers Allah sera votre retour en totalité. Il vous Informera alors sur ce dont vous divergiez."
+        },
+        {
+            "index": 718,
+            "sura": 5,
+            "aya": 49,
+            "text": "وَأَنِ احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ اللَّهُ إِلَيْكَ ۖ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يُرِيدُ اللَّهُ أَنْ يُصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِنَ النَّاسِ لَفَاسِقُونَ",
+            "text_fr": "Et que tu juges entre eux d'après ce qu'Allah Révéla, ne suis pas leurs passions, et méfie-toi qu'ils ne te séduisent d'une part de ce qu'Allah te Révéla. S'ils s'en écartent, sache donc qu'Allah Veut les Frapper en raison de —[ 177 }— certains de leurs péchés. Certes, beaucoup d'hommes sont des pervertis."
+        },
+        {
+            "index": 719,
+            "sura": 5,
+            "aya": 50,
+            "text": "أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ",
+            "text_fr": "Est-ce au jugement de la Barbarie* qu'ils aspirent ? Qui donc a meilleur jugement qu'Allah pour des gens foncièrement croyants ?"
+        },
+        {
+            "index": 720,
+            "sura": 5,
+            "aya": 51,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+            "text_fr": "O vous qui devîntes croyants, ne prenez point les Juifs et les Nazaréens comme protecteurs. Ils sont protecteurs les uns des autres. Quiconque d'entre vous les prendrait comme protecteur, il sera des leurs. Certes, Allah ne Guide point les gens injustes."
+        },
+        {
+            "index": 721,
+            "sura": 5,
+            "aya": 52,
+            "text": "فَتَرَى الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يُسَارِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰ أَنْ تُصِيبَنَا دَائِرَةٌ ۚ فَعَسَى اللَّهُ أَنْ يَأْتِيَ بِالْفَتْحِ أَوْ أَمْرٍ مِنْ عِنْدِهِ فَيُصْبِحُوا عَلَىٰ مَا أَسَرُّوا فِي أَنْفُسِهِمْ نَادِمِينَ",
+            "text_fr": "Ainsi, tu vois ceux qui ont une malveillance dans leurs cœurs s'empresser vers eux, disant : « Nous craignons qu'un malheur ne nous frappe ». Mais Allah Apportera la Victoire, ou une chose de Sa Part. Alors ils auront du remords pour ce qu'ils ont dissimulé dans leur for intérieur."
+        },
+        {
+            "index": 722,
+            "sura": 5,
+            "aya": 53,
+            "text": "وَيَقُولُ الَّذِينَ آمَنُوا أَهَـٰؤُلَاءِ الَّذِينَ أَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَالُهُمْ فَأَصْبَحُوا خَاسِرِينَ",
+            "text_fr": "Et ceux qui devinrent croyants disent : « Sont-ce ceux-là, ceux qui ont juré par Allah, de tous leurs serments, qu'ils sont avec vous ? ! » Vaines ont été leurs œuvres, alors ils furent des perdus."
+        },
+        {
+            "index": 723,
+            "sura": 5,
+            "aya": 54,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ ۚ ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+            "text_fr": "O vous qui devîntes croyants, quiconque d'entre vous renie sa Religion, Allah Fera venir des gens qu'II Aime et qui L'aiment, humbles à l'égard des croyants, fermes à l'égard des mécréants, qui luttent pour la Cause d'Allah et ne redoutent point le blâme d'un blâmeur. Cela est la Munificence d'Allah, Il l'Accorde à qui Il Veut. Allah Est Tout-Largesse, Tout-Scient. * 50 L'état des arabes avant l'Islam. —— 175 H—"
+        },
+        {
+            "index": 724,
+            "sura": 5,
+            "aya": 55,
+            "text": "إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ",
+            "text_fr": "Toutefois, votre Protecteur est Allah, son Messager et ceux qui devinrent croyants : ceux qui accomplissent la prière, qui s'acquittent de la Zakät, tout en étant modestes."
+        },
+        {
+            "index": 725,
+            "sura": 5,
+            "aya": 56,
+            "text": "وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ",
+            "text_fr": "Et quiconque prend comme Protecteur Allah, Son Messager et ceux qui devinrent croyants : c'est le Parti d'Allah qui sont les vainqueurs."
+        },
+        {
+            "index": 726,
+            "sura": 5,
+            "aya": 57,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الَّذِينَ اتَّخَذُوا دِينَكُمْ هُزُوًا وَلَعِبًا مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَالْكُفَّارَ أَوْلِيَاءَ ۚ وَاتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+            "text_fr": "O vous qui devîntes croyants, ne prenez point comme protecteurs ceux qui tournèrent votre religion en dérision et en moquerie, d'entre ceux à qui le Livre fut Révélé avant vous, ni les mécréants. Et craignez Allah, si vous êtes croyants."
+        },
+        {
+            "index": 727,
+            "sura": 5,
+            "aya": 58,
+            "text": "وَإِذَا نَادَيْتُمْ إِلَى الصَّلَاةِ اتَّخَذُوهَا هُزُوًا وَلَعِبًا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ",
+            "text_fr": "Et quand vous appelez à la prière, ils la tournent en dérision et en moquerie : cela, en raison de ce qu'ils sont des gens qui ne raisonnent point."
+        },
+        {
+            "index": 728,
+            "sura": 5,
+            "aya": 59,
+            "text": "قُلْ يَا أَهْلَ الْكِتَابِ هَلْ تَنْقِمُونَ مِنَّا إِلَّا أَنْ آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ مِنْ قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَاسِقُونَ",
+            "text_fr": "Dis : « O gens du Livre, nous gardez-vous rancune parce que nous croyons en Allah, en ce qui nous fut Révélé, en ce qui fut Révélé auparavant, et parce que la plupart d'entre vous sont des pervertis ?! »"
+        },
+        {
+            "index": 729,
+            "sura": 5,
+            "aya": 60,
+            "text": "قُلْ هَلْ أُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكَ مَثُوبَةً عِنْدَ اللَّهِ ۚ مَنْ لَعَنَهُ اللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ وَالْخَنَازِيرَ وَعَبَدَ الطَّاغُوتَ ۚ أُولَـٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ عَنْ سَوَاءِ السَّبِيلِ",
+            "text_fr": "Dis : « Vous annoncerai-je quelque chose de pire que cela en punition auprès d'Allah ? Celui qu'Allah A Maudit, A Frappé de Sa Colère, et dont Il A Fait des singes et des porcs, et qui adora le Täÿüt. Ceux-là auront la pire des places et sont plus fourvoyés de la rectitude de la voie. »"
+        },
+        {
+            "index": 730,
+            "sura": 5,
+            "aya": 61,
+            "text": "وَإِذَا جَاءُوكُمْ قَالُوا آمَنَّا وَقَدْ دَخَلُوا بِالْكُفْرِ وَهُمْ قَدْ خَرَجُوا بِهِ ۚ وَاللَّهُ أَعْلَمُ بِمَا كَانُوا يَكْتُمُونَ",
+            "text_fr": "Et quand ils viennent à vous, ils disent : « Nous devinmes croyants », mais ils sont entrés avec la mécréance, et ils sont sortis avec. Allah Est Plus-Scient de ce qu'ils taisaient. —— 19 }H———"
+        },
+        {
+            "index": 731,
+            "sura": 5,
+            "aya": 62,
+            "text": "وَتَرَىٰ كَثِيرًا مِنْهُمْ يُسَارِعُونَ فِي الْإِثْمِ وَالْعُدْوَانِ وَأَكْلِهِمُ السُّحْتَ ۚ لَبِئْسَ مَا كَانُوا يَعْمَلُونَ",
+            "text_fr": "Et tu vois beaucoup d'entre eux s'empresser au péché, à l'agression, et à manger des choses illicites. Qu'il est piètre ce qu'ils faisaient !"
+        },
+        {
+            "index": 732,
+            "sura": 5,
+            "aya": 63,
+            "text": "لَوْلَا يَنْهَاهُمُ الرَّبَّانِيُّونَ وَالْأَحْبَارُ عَنْ قَوْلِهِمُ الْإِثْمَ وَأَكْلِهِمُ السُّحْتَ ۚ لَبِئْسَ مَا كَانُوا يَصْنَعُونَ",
+            "text_fr": "Si les rabbins et les savants ne leur avaient interdit de dire le péché et de manger des choses illicites! Qu'il est piètre ce qu'ils fabriquaient !"
+        },
+        {
+            "index": 733,
+            "sura": 5,
+            "aya": 64,
+            "text": "وَقَالَتِ الْيَهُودُ يَدُ اللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا بِمَا قَالُوا ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنْفِقُ كَيْفَ يَشَاءُ ۚ وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا ۚ وَأَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ إِلَىٰ يَوْمِ الْقِيَامَةِ ۚ كُلَّمَا أَوْقَدُوا نَارًا لِلْحَرْبِ أَطْفَأَهَا اللَّهُ ۚ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا ۚ وَاللَّهُ لَا يُحِبُّ الْمُفْسِدِينَ",
+            "text_fr": "Et les Juifs ont dit : « La main d'Allah est enchaînée » ! Que leurs mains soient enchaînées et qu'ils soient maudits en raison de ce qu'ils dirent! Bien au contraire, Ses Mains sont largement ouvertes, Il Dépense comme Il Veut. Ce qui te fut Révélé de ton Seigneur augmentera sûrement un grand nombre d'entre eux en tyrannie et en mécréance. Nous Implantâmes entre eux l'animosité et la haine jusqu'au Jour de la Résurrection. Chaque fois qu'ils allument un feu pour la guerre, Allah l'Éteint. Et ils sèment la corruption de par la terre. Allah n'Aime point les corrupteurs."
+        },
+        {
+            "index": 734,
+            "sura": 5,
+            "aya": 65,
+            "text": "وَلَوْ أَنَّ أَهْلَ الْكِتَابِ آمَنُوا وَاتَّقَوْا لَكَفَّرْنَا عَنْهُمْ سَيِّئَاتِهِمْ وَلَأَدْخَلْنَاهُمْ جَنَّاتِ النَّعِيمِ",
+            "text_fr": "Si les gens du Livre avaient été croyants et avaient craint, Nous leur Aurions Expié leurs mauvaises actions, et les Aurions Fait Entrer aux Paradis de Félicité."
+        },
+        {
+            "index": 735,
+            "sura": 5,
+            "aya": 66,
+            "text": "وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَاةَ وَالْإِنْجِيلَ وَمَا أُنْزِلَ إِلَيْهِمْ مِنْ رَبِّهِمْ لَأَكَلُوا مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ أَرْجُلِهِمْ ۚ مِنْهُمْ أُمَّةٌ مُقْتَصِدَةٌ ۖ وَكَثِيرٌ مِنْهُمْ سَاءَ مَا يَعْمَلُونَ",
+            "text_fr": "Et s'ils avaient appliqué la Torah, l'Évangile, et ce qui leur fut Révélé de leur Seigneur, ils auraient vécu dans l'abondance d'au-dessus leurs têtes et d'en dessous leurs pieds. Il est parmi eux une communauté raisonnable. Et beaucoup d'entre eux vil est ce qu'ils font."
+        },
+        {
+            "index": 736,
+            "sura": 5,
+            "aya": 67,
+            "text": "يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ ۖ وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ۚ وَاللَّهُ يَعْصِمُكَ مِنَ النَّاسِ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+            "text_fr": "O Messager, transmets ce qui t'a été Révélé de ton Seigneur, et si tu ne le fais pas, tu n'auras point transmis Son Message. Allah te Sauvegardera des hommes. Certes, Allah ne Guide point les gens mécréants. œ 150 H—"
+        },
+        {
+            "index": 737,
+            "sura": 5,
+            "aya": 68,
+            "text": "قُلْ يَا أَهْلَ الْكِتَابِ لَسْتُمْ عَلَىٰ شَيْءٍ حَتَّىٰ تُقِيمُوا التَّوْرَاةَ وَالْإِنْجِيلَ وَمَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا ۖ فَلَا تَأْسَ عَلَى الْقَوْمِ الْكَافِرِينَ",
+            "text_fr": "Dis : « O gens du Livre, vous ne tenez sur rien jusqu'à ce que vous appliquiez la Torah, l'Évangile, et ce qui vous fut Révélé de votre Seigneur. Ce qui t'a été Révélé de ton Seigneur augmentera sûrement un grand nombre d'entre eux en tyrannie et en mécréance. Ne te désole donc pas pour les gens mécréants»."
+        },
+        {
+            "index": 738,
+            "sura": 5,
+            "aya": 69,
+            "text": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالصَّابِئُونَ وَالنَّصَارَىٰ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "text_fr": "Certes, ceux qui devinrent croyants, ceux qui se judaïsérent, les Sabéens, les Nazaréens, et quiconque eut foi en Allah, au Jour Dernier et fit œuvre méritoire : nulle crainte pour eux et ils ne seront point affligés."
+        },
+        {
+            "index": 739,
+            "sura": 5,
+            "aya": 70,
+            "text": "لَقَدْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ وَأَرْسَلْنَا إِلَيْهِمْ رُسُلًا ۖ كُلَّمَا جَاءَهُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنْفُسُهُمْ فَرِيقًا كَذَّبُوا وَفَرِيقًا يَقْتُلُونَ",
+            "text_fr": "En effet, Nous Avons Conclu l'Alliance des fils d'Israël et leur Envoyâmes des Messagers. Toutes les fois qu'un Messager leur apportait ce que leurs désirs repoussent : ils démentirent un groupe, et tuent un groupe."
+        },
+        {
+            "index": 740,
+            "sura": 5,
+            "aya": 71,
+            "text": "وَحَسِبُوا أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا وَصَمُّوا ثُمَّ تَابَ اللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا وَصَمُّوا كَثِيرٌ مِنْهُمْ ۚ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+            "text_fr": "Ils pensèrent qu'il n'y aurait pas de sédition, alors ils s'aveuglèrent et firent les sourds. Ensuite Allah leur A Fait Rémission. Puis, beaucoup d'entre eux s'aveuglèrent et firent les sourds! Mais Allah Omnivoit ce qu'ils font."
+        },
+        {
+            "index": 741,
+            "sura": 5,
+            "aya": 72,
+            "text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ ۖ وَقَالَ الْمَسِيحُ يَا بَنِي إِسْرَائِيلَ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ ۖ إِنَّهُ مَنْ يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَمَأْوَاهُ النَّارُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+            "text_fr": "Devinrent sûrement mécréants ceux qui dirent qu'Allah est le Messie fils de Marie. Le Messie a dit : « O fils d'Israël, adorez Allah mon Seigneur et votre Seigneur. Quiconque donne des associés à Allah, Allah sûrement lui Interdira le Paradis, et son refuge sera le Feu. Les injustes n'ont point de partisans »."
+        },
+        {
+            "index": 742,
+            "sura": 5,
+            "aya": 73,
+            "text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ وَمَا مِنْ إِلَـٰهٍ إِلَّا إِلَـٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ أَلِيمٌ",
+            "text_fr": "Devinrent sûrement mécréants ceux qui dirent qu'Allah est un des trois de la Trinité, alors qu'il n'y a de Dieu qu'un Dieu Unique. S'ils n'en finissent pas avec ce qu'ils disent, ceux qui devinrent mécréants d'entre eux seront atteints d'un douloureux châtiment. —— H—"
+        },
+        {
+            "index": 743,
+            "sura": 5,
+            "aya": 74,
+            "text": "أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+            "text_fr": "Que ne se repentent-ils donc pas à Allah et ne L'implorent-ils pas de les Absoudre ?! Allah Est Absoluteur, Miséricordieux."
+        },
+        {
+            "index": 744,
+            "sura": 5,
+            "aya": 75,
+            "text": "مَا الْمَسِيحُ ابْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ وَأُمُّهُ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ الطَّعَامَ ۗ انْظُرْ كَيْفَ نُبَيِّنُ لَهُمُ الْآيَاتِ ثُمَّ انْظُرْ أَنَّىٰ يُؤْفَكُونَ",
+            "text_fr": "Le Messie fils de Marie n'est autre qu'un Messager, tout comme les Messagers qui passèrent avant lui. Sa mère est véridique, et tous deux mangeaient la nourriture*. Regarde comment Nous leurs Explicitons les Versets, puis regarde comment ils louvoient!"
+        },
+        {
+            "index": 745,
+            "sura": 5,
+            "aya": 76,
+            "text": "قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا وَلَا نَفْعًا ۚ وَاللَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+            "text_fr": "Dis : « Adorerez-vous, à l'exclusion d'Allah, ce qui n'a aucun pouvoir sur vous en nuisance ni en utilité, tandis qu'Allah Est L'Omni-Audient, le Tout-Scient ? »."
+        },
+        {
+            "index": 746,
+            "sura": 5,
+            "aya": 77,
+            "text": "قُلْ يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ غَيْرَ الْحَقِّ وَلَا تَتَّبِعُوا أَهْوَاءَ قَوْمٍ قَدْ ضَلُّوا مِنْ قَبْلُ وَأَضَلُّوا كَثِيرًا وَضَلُّوا عَنْ سَوَاءِ السَّبِيلِ",
+            "text_fr": "Dis : « O gens du Livre, n'exagérez point dans votre religion par la contre-vérité. Ne suivez point les passions de quelques gens qui se sont déjà fourvoyés, qui ont beaucoup fourvoyé, et qui se fourvoyèrent de la rectitude de la voie."
+        },
+        {
+            "index": 747,
+            "sura": 5,
+            "aya": 78,
+            "text": "لُعِنَ الَّذِينَ كَفَرُوا مِنْ بَنِي إِسْرَائِيلَ عَلَىٰ لِسَانِ دَاوُودَ وَعِيسَى ابْنِ مَرْيَمَ ۚ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ",
+            "text_fr": "Maudits ont été ceux qui devinrent mécréants des fils d'Israël, par la bouche de David, et par Jésus, fils de Marie, et cela en raison de ce qu'ils se rebellaient et transgressaient."
+        },
+        {
+            "index": 748,
+            "sura": 5,
+            "aya": 79,
+            "text": "كَانُوا لَا يَتَنَاهَوْنَ عَنْ مُنْكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا يَفْعَلُونَ",
+            "text_fr": "Et ils ne s'interdisaient aucun (acte) répréhensible de ce qu'ils ont commis. Qu'il est piètre ce qu'ils comm- ettaient !"
+        },
+        {
+            "index": 749,
+            "sura": 5,
+            "aya": 80,
+            "text": "تَرَىٰ كَثِيرًا مِنْهُمْ يَتَوَلَّوْنَ الَّذِينَ كَفَرُوا ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنْفُسُهُمْ أَنْ سَخِطَ اللَّهُ عَلَيْهِمْ وَفِي الْعَذَابِ هُمْ خَالِدُونَ",
+            "text_fr": "Tu vois beaucoup d'entre eux prendre ceux qui devinrent mécréants comme protecteurs. Qu'il est piètre ce qu'ils #15 Cela sous-entend qu'ils étaient des êtres humains, qui mangeaient, qui éprouvaient les besoins normaux, alors qu'Allah Est Parfait et n'a besoin de rien. Ç s8 H— se sont proposé! Ils encourront le courroux d'Allah, et dans le châtiment ils seront éternisés."
+        },
+        {
+            "index": 750,
+            "sura": 5,
+            "aya": 81,
+            "text": "وَلَوْ كَانُوا يُؤْمِنُونَ بِاللَّهِ وَالنَّبِيِّ وَمَا أُنْزِلَ إِلَيْهِ مَا اتَّخَذُوهُمْ أَوْلِيَاءَ وَلَـٰكِنَّ كَثِيرًا مِنْهُمْ فَاسِقُونَ",
+            "text_fr": "S'ils avaient eu foi en Allah, au Prophète et en ce qui lui fut Révélé, ils ne les auraient pas pris comme protecteurs. Mais beaucoup d'entre eux sont des pervertis."
+        },
+        {
+            "index": 751,
+            "sura": 5,
+            "aya": 82,
+            "text": "لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا ۖ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+            "text_fr": "Tu constateras sûrement que les hommes les plus hostiles aux croyants sont les juifs et ceux qui devinrent polythéistes. Et tu constateras sûrement que les plus proches, en affection, envers les croyants sont ceux qui dirent : « Nous sommes nazaréens ». Cela, parce qu'il est parmi eux des prêtres et des moines qui ne s'enorgueillissent pas,"
+        },
+        {
+            "index": 752,
+            "sura": 5,
+            "aya": 83,
+            "text": "وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ ۖ يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+            "text_fr": "et s'ils entendent ce qui a été Révélé au Messager, tu vois leurs yeux déborder de larmes, de ce qu'ils ont connu concernant la vérité. Ils disent : « Notre Seigneur, nous devinmes croyants, Inscris-nous donc avec les témoins :"
+        },
+        {
+            "index": 753,
+            "sura": 5,
+            "aya": 84,
+            "text": "وَمَا لَنَا لَا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَنْ يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ",
+            "text_fr": "comment ne croirions-nous pas en Allah, et en ce qui nous est parvenu de Vrai, et n'aspirerions-nous pas à ce que notre Seigneur nous Fasse Entrer avec les gens vertueux ?! »"
+        },
+        {
+            "index": 754,
+            "sura": 5,
+            "aya": 85,
+            "text": "فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ",
+            "text_fr": "Alors Allah les Rétribua pour ce qu'ils ont dit : des Paradis sous lesquels coulent les fleuves où ils s'éterniseront. Cela est la récompense de ceux qui font le meilleur."
+        },
+        {
+            "index": 755,
+            "sura": 5,
+            "aya": 86,
+            "text": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَـٰئِكَ أَصْحَابُ الْجَحِيمِ",
+            "text_fr": "Et ceux qui devinrent mécréants et ont démenti Nos Versets, ceux-là sont les damnés de l'Enfer."
+        },
+        {
+            "index": 756,
+            "sura": 5,
+            "aya": 87,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحَرِّمُوا طَيِّبَاتِ مَا أَحَلَّ اللَّهُ لَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ",
+            "text_fr": "O vous qui devîntes croyants, n'interdisez point les bonnes choses qu'Allah vous A Rendue licites, et ne —[ 183 }— transgressez point. Certes, Allah n'Aime point les transgresseurs."
+        },
+        {
+            "index": 757,
+            "sura": 5,
+            "aya": 88,
+            "text": "وَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا ۚ وَاتَّقُوا اللَّهَ الَّذِي أَنْتُمْ بِهِ مُؤْمِنُونَ",
+            "text_fr": "Mangez de ce qu'Allah vous A Octroyé de licite, de bon. Craignez Allah, Celui en Lequel vous croyez."
+        },
+        {
+            "index": 758,
+            "sura": 5,
+            "aya": 89,
+            "text": "لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَـٰكِنْ يُؤَاخِذُكُمْ بِمَا عَقَّدْتُمُ الْأَيْمَانَ ۖ فَكَفَّارَتُهُ إِطْعَامُ عَشَرَةِ مَسَاكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ ۖ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ ۚ ذَٰلِكَ كَفَّارَةُ أَيْمَانِكُمْ إِذَا حَلَفْتُمْ ۚ وَاحْفَظُوا أَيْمَانَكُمْ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَشْكُرُونَ",
+            "text_fr": "Allah ne vous Condamnera pas pour la futilité de vos serments, mais vous Condamnera pour les serments de ferme propos. Son expiation : nourrir dix miséreux, de la moyenne de ce dont vous nourrissez vos familles, ou les vêtir, ou l'affranchissement d'un esclave. Quiconque ne trouve pas, alors le jeûne de trois jours. Cela est l'expiation de vos serments si vous avez juré. Observez vos serments. Ainsi Allah vous Démontre ses Versets, pour que vous deveniez reconnaissants!"
+        },
+        {
+            "index": 759,
+            "sura": 5,
+            "aya": 90,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
+            "text_fr": "O vous qui devintes croyants, les boissons alcoolisées, les jeux d'argent, les idoles et les fiches ne sont qu'infamies, de l'œuvre de Satan, évitez-les donc, afin que vous cultiviez."
+        },
+        {
+            "index": 760,
+            "sura": 5,
+            "aya": 91,
+            "text": "إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنْتُمْ مُنْتَهُونَ",
+            "text_fr": "Toutefois, Satan ne veut que semer parmi vous l'animosité et la haine dans les boissons alcoolisées, les jeux d'argent, vous rebuter de psalmodier le Nom d'Allah et de la prière. Ne finirez-vous donc pas ?!"
+        },
+        {
+            "index": 761,
+            "sura": 5,
+            "aya": 92,
+            "text": "وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَاحْذَرُوا ۚ فَإِنْ تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+            "text_fr": "Obéissez à Allah, obéissez au Messager, et prenez garde! Si jamais vous vous écartez, sachez qu'à Notre Messager n'incombe que la transmission évidente."
+        },
+        {
+            "index": 762,
+            "sura": 5,
+            "aya": 93,
+            "text": "لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا إِذَا مَا اتَّقَوْا وَآمَنُوا وَعَمِلُوا الصَّالِحَاتِ ثُمَّ اتَّقَوْا وَآمَنُوا ثُمَّ اتَّقَوْا وَأَحْسَنُوا ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+            "text_fr": "Nulle faute n'incombe à ceux qui devinrent croyants et ont fait les œuvres méritoires, en ce qu'ils se sont nourris, s'ils craignent Allah et font les œuvres méritoires, puis s'ils craignent Allah et croient, puis s'ils craignent Allah et font le meilleur. Allah Aime ceux qui font le meilleur. —[ 164 }—"
+        },
+        {
+            "index": 763,
+            "sura": 5,
+            "aya": 94,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُ أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ اللَّهُ مَنْ يَخَافُهُ بِالْغَيْبِ ۚ فَمَنِ اعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُ عَذَابٌ أَلِيمٌ",
+            "text_fr": "O vous qui devîntes croyants, Allah vous Éprouvera sûrement par quelque gibier à la portée de vos mains et de vos lances, afin qu'Allah Voie qui Le redoute en conscience. Quiconque transgressera après cela aura sûrement un douloureux châtiment."
+        },
+        {
+            "index": 764,
+            "sura": 5,
+            "aya": 95,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ حُرُمٌ ۚ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا بَالِغَ الْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِيَذُوقَ وَبَالَ أَمْرِهِ ۗ عَفَا اللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ ۗ وَاللَّهُ عَزِيزٌ ذُو انْتِقَامٍ",
+            "text_fr": "O vous qui devîntes croyants, ne tuez pas le gibier lorsque vous êtes en ihräm. Quiconque d'entre vous le tue intentionnellement, la punition sera pareille, en bétail, à ce qu'il a tué, évaluée par deux personnes qui sont équitables, d'entre vous, en offrande à immoler destinée à la Ka‘ba ; ou bien une expiation : la nourriture de miséreux, ou bien l'équivalent de cela en jeûne, afin qu'il subisse le dommage de son acte. Allah A Pardonné ce qui est passé. Mais quiconque récidive, Allah alors Se Vengera de lui. Allah Est Invincible, Détenteur de vengeance."
+        },
+        {
+            "index": 765,
+            "sura": 5,
+            "aya": 96,
+            "text": "أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ حُرُمًا ۗ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+            "text_fr": "Vous est rendu licite la pêche de la mer et ses produits alimentaires, jouissance pour vous et pour les itinérants. Et vous est interdite la chasse sur terre, tant que vous êtes en ihräm. Craignez Allah, Celui vers Lequel vous serez conduits."
+        },
+        {
+            "index": 766,
+            "sura": 5,
+            "aya": 97,
+            "text": "جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِلنَّاسِ وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ۚ ذَٰلِكَ لِتَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+            "text_fr": "Allah Fit de la Ka\"ba, la Maison Sacrée, régularisant la vie des gens, de même que le mois sacré, les offrandes à immoler et les enguirlandées. Cela afin que vous sachiez qu'Allah Sait ce qui est dans les Cieux et ce qui est en la terre. Certes, Allah Est Tout-Scient de toute chose."
+        },
+        {
+            "index": 767,
+            "sura": 5,
+            "aya": 98,
+            "text": "اعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ وَأَنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+            "text_fr": "Sachez qu'Allah Punit sévèrement et qu'Allah Est Absoluteur, Miséricordieux. —[ 185 }—"
+        },
+        {
+            "index": 768,
+            "sura": 5,
+            "aya": 99,
+            "text": "مَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ ۗ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+            "text_fr": "Il n'incombe au Messager que la Transmission. Allah Sait ce que vous manifestez et ce que vous taisez."
+        },
+        {
+            "index": 769,
+            "sura": 5,
+            "aya": 100,
+            "text": "قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ ۚ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تُفْلِحُونَ",
+            "text_fr": "Dis : « Le malin et le bon ne s'équivalent point, même si l'abondance de ce qui est malin te plaît ». Craignez donc Allah, 6 doués d'entendement, afin que vous cultiviez."
+        },
+        {
+            "index": 770,
+            "sura": 5,
+            "aya": 101,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِنْ تَسْأَلُوا عَنْهَا حِينَ يُنَزَّلُ الْقُرْآنُ تُبْدَ لَكُمْ عَفَا اللَّهُ عَنْهَا ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ",
+            "text_fr": "O vous qui devîntes croyants, ne vous enquérez pas sur des choses qui, si elles vous étaient démontrées, vous nuiraient. Alors que si vous vous enquerriez au moment de la Révélation du Qur'än, elles vous seraient démontrées. Allah vous en A Dispensés. Allah Est Absoluteur, Longanime."
+        },
+        {
+            "index": 771,
+            "sura": 5,
+            "aya": 102,
+            "text": "قَدْ سَأَلَهَا قَوْمٌ مِنْ قَبْلِكُمْ ثُمَّ أَصْبَحُوا بِهَا كَافِرِينَ",
+            "text_fr": "Des gens s'en étaient enquis, avant vous, puis devinrent mécréants à cause d'elles."
+        },
+        {
+            "index": 772,
+            "sura": 5,
+            "aya": 103,
+            "text": "مَا جَعَلَ اللَّهُ مِنْ بَحِيرَةٍ وَلَا سَائِبَةٍ وَلَا وَصِيلَةٍ وَلَا حَامٍ ۙ وَلَـٰكِنَّ الَّذِينَ كَفَرُوا يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ",
+            "text_fr": "Allah n'A point Institué ni bahïra*, ni sä'iba, ni wasila, ni häm, mais ceux qui devinrent mécréants controuvent des mensonges contre Allah, et la plupart d'entre eux ne raisonnent point!"
+        },
+        {
+            "index": 773,
+            "sura": 5,
+            "aya": 104,
+            "text": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى الرَّسُولِ قَالُوا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ آبَاءَنَا ۚ أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْلَمُونَ شَيْئًا وَلَا يَهْتَدُونَ",
+            "text_fr": "Et lorsqu'on leur dit : « Venez à ce qu'Allah Révéla et au Messager », ils disent : « Il nous suffit de suivre ce que nos ancêtres suivaient », même si leurs ancêtres ne savaient rien et ne se laissaient point guider ?! *#103 Allusion à des coutumes païennes marquant d'un tabou certaines bêtes : Bahïra : chamelle ayant produit cing fois, à laquelle on fendait l'oreille, indiquant qu'elle était libre de paître partout et qu'elle était consacrée à une ::äî;:« : chamelle laissée en liberté et consacrée à une idole. Wasila : brebis ayant donné naissance à des jumeaux cinq fois de suite. Häm : chameau étalon ayant fécondé une chamelle dix fois de suite. € 156 H—"
+        },
+        {
+            "index": 774,
+            "sura": 5,
+            "aya": 105,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+            "text_fr": "O vous qui devîntes croyants, vous n'êtes responsables que de vous-mêmes. Celui qui se fourvoie ne vous nuira en rien si vous êtes guidés. Vers Allah sera votre retour en totalité, et Il vous Informera alors de ce que vous faisiez."
+        },
+        {
+            "index": 775,
+            "sura": 5,
+            "aya": 106,
+            "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الْأَرْضِ فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنْ بَعْدِ الصَّلَاةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَادَةَ اللَّهِ إِنَّا إِذًا لَمِنَ الْآثِمِينَ",
+            "text_fr": "O vous qui devintes croyants, faites témoigner entre vous, lorsque la mort se présente à l'un de vous, au moment du testament : deux personnes qui sont équitables, d'entre vous, ou deux autres, non des vôtres si vous êtes en déplacement de par la terre et que le malheur de la mort vous frappe. Retenez ces deux après la prière et qu'ils jurent par Allah, si vous doutez: « Nous ne le vendrons à aucun prix, même s'il était un proche parent, et nous ne tairons point le témoignage d'Allah, sinon nous serions du nombre des pécheurs »."
+        },
+        {
+            "index": 776,
+            "sura": 5,
+            "aya": 107,
+            "text": "فَإِنْ عُثِرَ عَلَىٰ أَنَّهُمَا اسْتَحَقَّا إِثْمًا فَآخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ الَّذِينَ اسْتَحَقَّ عَلَيْهِمُ الْأَوْلَيَانِ فَيُقْسِمَانِ بِاللَّهِ لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا وَمَا اعْتَدَيْنَا إِنَّا إِذًا لَمِنَ الظَّالِمِينَ",
+            "text_fr": "Si l'on découvre que ces deux méritent un péché, alors deux autres prendront leur place, choisis parmi les parents du défunt et qu'ils jurent par Allah : « Notre témoignage est plus vrai que leur témoignage, et nous n'avons point transgressé, sinon nous serions des injustes »."
+        },
+        {
+            "index": 777,
+            "sura": 5,
+            "aya": 108,
+            "text": "ذَٰلِكَ أَدْنَىٰ أَنْ يَأْتُوا بِالشَّهَادَةِ عَلَىٰ وَجْهِهَا أَوْ يَخَافُوا أَنْ تُرَدَّ أَيْمَانٌ بَعْدَ أَيْمَانِهِمْ ۗ وَاتَّقُوا اللَّهَ وَاسْمَعُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+            "text_fr": "Cela est plus susceptible de les amener à témoigner comme il se doit, ou qu'ils redoutassent que d'autres serments soient substitués à leurs serments. Craignez Allah et obtempérez. Allah ne Guide point les gens pervertis."
+        },
+        {
+            "index": 778,
+            "sura": 5,
+            "aya": 109,
+            "text": "يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+            "text_fr": "Le jour où Allah Rassemblera les Messagers et Dira : « Que vous a-t-on répondu ? » Ils dirent : « Nous n'en savons rien. Tu Es, Toi, l'Omniscient des Occultes ». ——s H—s —"
+        },
+        {
+            "index": 779,
+            "sura": 5,
+            "aya": 110,
+            "text": "إِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ إِذْ أَيَّدْتُكَ بِرُوحِ الْقُدُسِ تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي ۖ وَإِذْ كَفَفْتُ بَنِي إِسْرَائِيلَ عَنْكَ إِذْ جِئْتَهُمْ بِالْبَيِّنَاتِ فَقَالَ الَّذِينَ كَفَرُوا مِنْهُمْ إِنْ هَـٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+            "text_fr": "Lorsque Allah Dit : « O Jésus fils de Marie, souviens-toi de ma Grâce envers toi et envers ta mère, lorsque Je t'Ai Soutenu par l'Esprit de Sainteté pour que tu parles aux hommes, au berceau, et dans la force de l'âge. Et lorsque Je t'Ai Enseigné le Livre, la Sagesse, la Torah et l'Évangile. Et lorsque tu créais de l'argile comme la forme de l'oiseau, par Mon Vouloir, et en laquelle tu insufflas et elle devint oiseau, par Mon Vouloir. Et tu guérissais l'aveugle-né et le lépreux, par Mon Vouloir. Et lorsque tu faisais sortir les morts, par Mon Vouloir. Et lorsque J'Ai Dissuadé les fils d'Israël loin de toi, quand tu leur es venu avec les évidences, alors ceux qui devinrent mécréants d'entre eux dirent : « Cela n'est que magie évidente »."
+        },
+        {
+            "index": 780,
+            "sura": 5,
+            "aya": 111,
+            "text": "وَإِذْ أَوْحَيْتُ إِلَى الْحَوَارِيِّينَ أَنْ آمِنُوا بِي وَبِرَسُولِي قَالُوا آمَنَّا وَاشْهَدْ بِأَنَّنَا مُسْلِمُونَ",
+            "text_fr": "Et lorsque J'Ai Inspiré aux apôtres : « Croyez en Moi et en Mon Messager », ils dirent : « Nous y croyons, et témoigne que nous sommes vraiment musulmans »."
+        },
+        {
+            "index": 781,
+            "sura": 5,
+            "aya": 112,
+            "text": "إِذْ قَالَ الْحَوَارِيُّونَ يَا عِيسَى ابْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَنْ يُنَزِّلَ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ ۖ قَالَ اتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+            "text_fr": "Et lorsque les apôtres ont dit : « O Jésus fils de Marie, ton Seigneur Peut-II nous faire descendre une table du Ciel ? » Il dit: « Craignez Allah, si vous êtes croyants ! »"
+        },
+        {
+            "index": 782,
+            "sura": 5,
+            "aya": 113,
+            "text": "قَالُوا نُرِيدُ أَنْ نَأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَنْ قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ الشَّاهِدِينَ",
+            "text_fr": "Ils dirent : « Nous voulons en manger, pour que nos cœurs soient rassurés, et pour savoir que tu nous as dit la vérité, et pour que nous soyons du nombre des témoignants »."
+        },
+        {
+            "index": 783,
+            "sura": 5,
+            "aya": 114,
+            "text": "قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنْزِلْ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ تَكُونُ لَنَا عِيدًا لِأَوَّلِنَا وَآخِرِنَا وَآيَةً مِنْكَ ۖ وَارْزُقْنَا وَأَنْتَ خَيْرُ الرَّازِقِينَ",
+            "text_fr": "Jésus fils de Marie dit : « O Allah, Notre Seigneur, Fais- nous descendre du Ciel une table qui soit pour nous une fête, pour le premier et le dernier d'entre nous, un Signe de Ta Part, et Octroie-nous, Tu Es le meilleur des Octroyeurs ». Ç es H—"
+        },
+        {
+            "index": 784,
+            "sura": 5,
+            "aya": 115,
+            "text": "قَالَ اللَّهُ إِنِّي مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَنْ يَكْفُرْ بَعْدُ مِنْكُمْ فَإِنِّي أُعَذِّبُهُ عَذَابًا لَا أُعَذِّبُهُ أَحَدًا مِنَ الْعَالَمِينَ",
+            "text_fr": "Allah Dit : « Je vous la Fais Descendre. Mais quiconque d'entre vous mécroit après cela, Je le châtierai un châtiment dont Je n'Ai Châtié personne aux Univers »."
+        },
+        {
+            "index": 785,
+            "sura": 5,
+            "aya": 116,
+            "text": "وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنْتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَـٰهَيْنِ مِنْ دُونِ اللَّهِ ۖ قَالَ سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ ۚ إِنْ كُنْتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ ۚ تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ ۚ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+            "text_fr": "Et lorsque Allah Dit : « O Jésus fils de Marie, as-tu dit, toi, aux hommes : \" Prenez-moi ainsi que ma mére deux divinités, à l'exclusion d'Allah \"? » Il dit : « Gloire à Toi! Il ne m'appartient pas de dire ce dont je n'ai pas droit. Si je l'avais dit, Tu l'Aurais Su. Tu Sais ce qu'il y a en moi-même, et je ne sais pas ce qu'il y a en Toi- même. Tu Es, Toi, l'Omniscient des Occultes."
+        },
+        {
+            "index": 786,
+            "sura": 5,
+            "aya": 117,
+            "text": "مَا قُلْتُ لَهُمْ إِلَّا مَا أَمَرْتَنِي بِهِ أَنِ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ ۚ وَكُنْتُ عَلَيْهِمْ شَهِيدًا مَا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِي كُنْتَ أَنْتَ الرَّقِيبَ عَلَيْهِمْ ۚ وَأَنْتَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+            "text_fr": "Je ne leur ai dit que ce que Tu m'As Commandé : \" Adorez Allah mon Seigneur et votre Seigneur \" ; et j'étais témoin auprès d'eux tant que j'étais parmi eux. Mais quand Tu m'As Rappelé, Tu Es, Toi, leur Observateur, car Tu Es Témoin de toute chose."
+        },
+        {
+            "index": 787,
+            "sura": 5,
+            "aya": 118,
+            "text": "إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِنْ تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+            "text_fr": "Si Tu les Châties, ce sont Tes serviteurs, et si Tu les Absous, Tu Es Toi l'Invincible, le Sage »."
+        },
+        {
+            "index": 788,
+            "sura": 5,
+            "aya": 119,
+            "text": "قَالَ اللَّهُ هَـٰذَا يَوْمُ يَنْفَعُ الصَّادِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+            "text_fr": "Allah Dit : « C'est un jour où leur véracité profitera aux véridiques. Ils auront des Paradis sous lesquels coulent les fleuves où ils s'éterniseront à jamais. Allah A Été Satisfait d'eux et ils ont été satisfaits de Lui. Cela est l'immense triomphe »."
+        },
+        {
+            "index": 789,
+            "sura": 5,
+            "aya": 120,
+            "text": "لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا فِيهِنَّ ۚ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux À Allah Appartient le Règne des Cieux et de la terre, et ce qu'ils contiennent. Il Est Omnipuissant sur toute chose. —[ 169 }—"
+        }
+    ]
+}

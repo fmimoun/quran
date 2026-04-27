@@ -1,0 +1,41 @@
+{
+    "sura": 111,
+    "nombre_versets": 5,
+    "versets": [
+        {
+            "index": 6217,
+            "sura": 111,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+            "text_fr": "Que périssent les deux mains d'Abü Lahab un vrai périssement!"
+        },
+        {
+            "index": 6218,
+            "sura": 111,
+            "aya": 2,
+            "text": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+            "text_fr": "Ses richesses et ce qu'il a acquis ne lui ont servi à rien."
+        },
+        {
+            "index": 6219,
+            "sura": 111,
+            "aya": 3,
+            "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+            "text_fr": "Il sera enfoncé en un Feu pourvu de flammes."
+        },
+        {
+            "index": 6220,
+            "sura": 111,
+            "aya": 4,
+            "text": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+            "text_fr": "Et sa femme, porteuse du bois,"
+        },
+        {
+            "index": 6221,
+            "sura": 111,
+            "aya": 5,
+            "text": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux aura à son cou une corde de fibres rugueuses."
+        }
+    ]
+}

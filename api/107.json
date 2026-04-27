@@ -1,0 +1,55 @@
+{
+    "sura": 107,
+    "nombre_versets": 7,
+    "versets": [
+        {
+            "index": 6198,
+            "sura": 107,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+            "text_fr": "Dis-moi donc, celui qui dément la religion !"
+        },
+        {
+            "index": 6199,
+            "sura": 107,
+            "aya": 2,
+            "text": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+            "text_fr": "Celui-là, celui qui repousse l'orphelin,"
+        },
+        {
+            "index": 6200,
+            "sura": 107,
+            "aya": 3,
+            "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+            "text_fr": "— et qui n'incite point à nourrir le miséreux."
+        },
+        {
+            "index": 6201,
+            "sura": 107,
+            "aya": 4,
+            "text": "فَوَيْلٌ لِلْمُصَلِّينَ",
+            "text_fr": "Malheur donc à ceux qui prient :"
+        },
+        {
+            "index": 6202,
+            "sura": 107,
+            "aya": 5,
+            "text": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+            "text_fr": "ceux qui sont distraits de leur prière,"
+        },
+        {
+            "index": 6203,
+            "sura": 107,
+            "aya": 6,
+            "text": "الَّذِينَ هُمْ يُرَاءُونَ",
+            "text_fr": "ceux qui simulent avec ostentation,"
+        },
+        {
+            "index": 6204,
+            "sura": 107,
+            "aya": 7,
+            "text": "وَيَمْنَعُونَ الْمَاعُونَ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux et qui empêchent l'aide !"
+        }
+    ]
+}

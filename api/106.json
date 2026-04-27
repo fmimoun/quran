@@ -1,0 +1,34 @@
+{
+    "sura": 106,
+    "nombre_versets": 4,
+    "versets": [
+        {
+            "index": 6194,
+            "sura": 106,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ لِإِيلَافِ قُرَيْشٍ",
+            "text_fr": "Étonnez-vous de l'habitude des Qurays !"
+        },
+        {
+            "index": 6195,
+            "sura": 106,
+            "aya": 2,
+            "text": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+            "text_fr": "Leur habitude du voyage d'hiver et d'été."
+        },
+        {
+            "index": 6196,
+            "sura": 106,
+            "aya": 3,
+            "text": "فَلْيَعْبُدُوا رَبَّ هَـٰذَا الْبَيْتِ",
+            "text_fr": "Qu'ils adorent donc le Seigneur de cette Maison*,"
+        },
+        {
+            "index": 6197,
+            "sura": 106,
+            "aya": 4,
+            "text": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Celui qui les Rassasia de la faim et les Sécurisa de la crainte. *3 Allusion faite à la Ka‘ba. —‘{up—"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "sura": 105,
+    "nombre_versets": 5,
+    "versets": [
+        {
+            "index": 6189,
+            "sura": 105,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+            "text_fr": "N'as-tu donc pas vu comment ton Seigneur A Fait des gens de l'éléphant ?"
+        },
+        {
+            "index": 6190,
+            "sura": 105,
+            "aya": 2,
+            "text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+            "text_fr": "N'A-t-I1 pas Détourné leur ruse en fourvoiement ?"
+        },
+        {
+            "index": 6191,
+            "sura": 105,
+            "aya": 3,
+            "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+            "text_fr": "Et Il Envoya contre eux des oiseaux par volées,"
+        },
+        {
+            "index": 6192,
+            "sura": 105,
+            "aya": 4,
+            "text": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+            "text_fr": "leur lancer des pierres de marne entassées."
+        },
+        {
+            "index": 6193,
+            "sura": 105,
+            "aya": 5,
+            "text": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux 1l les Rendit comme de la paille rongée."
+        }
+    ]
+}

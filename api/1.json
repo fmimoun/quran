@@ -1,0 +1,55 @@
+{
+    "sura": 1,
+    "nombre_versets": 7,
+    "versets": [
+        {
+            "index": 1,
+            "sura": 1,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+            "text_fr": "Au nom d'Allah, le Miséricordeur, le Miséricordieux."
+        },
+        {
+            "index": 2,
+            "sura": 1,
+            "aya": 2,
+            "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+            "text_fr": "Louanges à Allah, Seigneur des Univers ;"
+        },
+        {
+            "index": 3,
+            "sura": 1,
+            "aya": 3,
+            "text": "الرَّحْمَـٰنِ الرَّحِيمِ",
+            "text_fr": "Le Miséricordeur, Le Miséricordieux ;"
+        },
+        {
+            "index": 4,
+            "sura": 1,
+            "aya": 4,
+            "text": "مَالِكِ يَوْمِ الدِّينِ",
+            "text_fr": "Maître du Jour du Jugement."
+        },
+        {
+            "index": 5,
+            "sura": 1,
+            "aya": 5,
+            "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+            "text_fr": "C'est Toi Seul que nous adorons et c'est à Toi Seul que nous recourons."
+        },
+        {
+            "index": 6,
+            "sura": 1,
+            "aya": 6,
+            "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+            "text_fr": "Indique-nous le chemin de rectitude,"
+        },
+        {
+            "index": 7,
+            "sura": 1,
+            "aya": 7,
+            "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+            "text_fr": "Versets le chemin de ceux que Tu As gratifiés : ni les réprouvés, ni les fourvoyés. * #7 _ Après la récitation d'Al-Fatiha, on prononce le mot Amin (Amen), qui veut dire: « Allah, Exauce notre demande », commun aux trois confessions monothéistes. — —————Æ—"
+        }
+    ]
+}

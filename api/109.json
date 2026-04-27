@@ -1,0 +1,48 @@
+{
+    "sura": 109,
+    "nombre_versets": 6,
+    "versets": [
+        {
+            "index": 6208,
+            "sura": 109,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+            "text_fr": "Dis : « O vous, les mécréants,"
+        },
+        {
+            "index": 6209,
+            "sura": 109,
+            "aya": 2,
+            "text": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+            "text_fr": "Je n'adore pas ce que vous adorez,"
+        },
+        {
+            "index": 6210,
+            "sura": 109,
+            "aya": 3,
+            "text": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+            "text_fr": "ni vous, vous n'adorerez ce que j'adore."
+        },
+        {
+            "index": 6211,
+            "sura": 109,
+            "aya": 4,
+            "text": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+            "text_fr": "Ni moi, je n'adorerai ce que vous avez adoré,"
+        },
+        {
+            "index": 6212,
+            "sura": 109,
+            "aya": 5,
+            "text": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+            "text_fr": "ni vous, vous n'adorerez ce que j'adore."
+        },
+        {
+            "index": 6213,
+            "sura": 109,
+            "aya": 6,
+            "text": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Vous avez votre religion, et j'ai ma religion »."
+        }
+    ]
+}

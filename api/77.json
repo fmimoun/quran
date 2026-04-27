@@ -1,0 +1,356 @@
+{
+    "sura": 77,
+    "nombre_versets": 50,
+    "versets": [
+        {
+            "index": 5623,
+            "sura": 77,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ وَالْمُرْسَلَاتِ عُرْفًا",
+            "text_fr": "Par les vents successifs,"
+        },
+        {
+            "index": 5624,
+            "sura": 77,
+            "aya": 2,
+            "text": "فَالْعَاصِفَاتِ عَصْفًا",
+            "text_fr": "et par ceux qui sifflent un vrai sifflement,"
+        },
+        {
+            "index": 5625,
+            "sura": 77,
+            "aya": 3,
+            "text": "وَالنَّاشِرَاتِ نَشْرًا",
+            "text_fr": "et par ceux qui disséminent un vrai disséminement !"
+        },
+        {
+            "index": 5626,
+            "sura": 77,
+            "aya": 4,
+            "text": "فَالْفَارِقَاتِ فَرْقًا",
+            "text_fr": "Et par les Anges qui séparent une vraie séparation,"
+        },
+        {
+            "index": 5627,
+            "sura": 77,
+            "aya": 5,
+            "text": "فَالْمُلْقِيَاتِ ذِكْرًا",
+            "text_fr": "et par ceux qui lancent un Rappel,"
+        },
+        {
+            "index": 5628,
+            "sura": 77,
+            "aya": 6,
+            "text": "عُذْرًا أَوْ نُذْرًا",
+            "text_fr": "une justification ou un avertissement !"
+        },
+        {
+            "index": 5629,
+            "sura": 77,
+            "aya": 7,
+            "text": "إِنَّمَا تُوعَدُونَ لَوَاقِعٌ",
+            "text_fr": "Certes, ce dont on vous menace aura sûrement lieu !"
+        },
+        {
+            "index": 5630,
+            "sura": 77,
+            "aya": 8,
+            "text": "فَإِذَا النُّجُومُ طُمِسَتْ",
+            "text_fr": "Quand les étoiles seront effacées,"
+        },
+        {
+            "index": 5631,
+            "sura": 77,
+            "aya": 9,
+            "text": "وَإِذَا السَّمَاءُ فُرِجَتْ",
+            "text_fr": "et quand le ciel sera fendu,"
+        },
+        {
+            "index": 5632,
+            "sura": 77,
+            "aya": 10,
+            "text": "وَإِذَا الْجِبَالُ نُسِفَتْ",
+            "text_fr": "et quand les montagnes seront explosées,"
+        },
+        {
+            "index": 5633,
+            "sura": 77,
+            "aya": 11,
+            "text": "وَإِذَا الرُّسُلُ أُقِّتَتْ",
+            "text_fr": "et quand les Messagers seront avertis du moment,"
+        },
+        {
+            "index": 5634,
+            "sura": 77,
+            "aya": 12,
+            "text": "لِأَيِّ يَوْمٍ أُجِّلَتْ",
+            "text_fr": "à quel jour cela a été remis ?"
+        },
+        {
+            "index": 5635,
+            "sura": 77,
+            "aya": 13,
+            "text": "لِيَوْمِ الْفَصْلِ",
+            "text_fr": "Au Jour du Tranchement."
+        },
+        {
+            "index": 5636,
+            "sura": 77,
+            "aya": 14,
+            "text": "وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ",
+            "text_fr": "Et que sais-tu du Jour du Tranchement ?"
+        },
+        {
+            "index": 5637,
+            "sura": 77,
+            "aya": 15,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5638,
+            "sura": 77,
+            "aya": 16,
+            "text": "أَلَمْ نُهْلِكِ الْأَوَّلِينَ",
+            "text_fr": "N'Avons-Nous pas Anéanti les Anciens !"
+        },
+        {
+            "index": 5639,
+            "sura": 77,
+            "aya": 17,
+            "text": "ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ",
+            "text_fr": "Ensuite Nous les Faisons suivre des autres ?"
+        },
+        {
+            "index": 5640,
+            "sura": 77,
+            "aya": 18,
+            "text": "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+            "text_fr": "De même Nous Faisons avec les malfaiteurs."
+        },
+        {
+            "index": 5641,
+            "sura": 77,
+            "aya": 19,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5642,
+            "sura": 77,
+            "aya": 20,
+            "text": "أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ",
+            "text_fr": "Ne vous Avons-Nous pas Créés d'une eau insignifiante ?"
+        },
+        {
+            "index": 5643,
+            "sura": 77,
+            "aya": 21,
+            "text": "فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ",
+            "text_fr": "Puis Nous la Mîmes en un endroit bien établi,"
+        },
+        {
+            "index": 5644,
+            "sura": 77,
+            "aya": 22,
+            "text": "إِلَىٰ قَدَرٍ مَعْلُومٍ",
+            "text_fr": "Jusqu'à un temps déterminé. —— 202 H—"
+        },
+        {
+            "index": 5645,
+            "sura": 77,
+            "aya": 23,
+            "text": "فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ",
+            "text_fr": "Nous Avons Pu, Nous Sommes le Meilleur des Puissants."
+        },
+        {
+            "index": 5646,
+            "sura": 77,
+            "aya": 24,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5647,
+            "sura": 77,
+            "aya": 25,
+            "text": "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا",
+            "text_fr": "N'Avons-Nous pas Fait la terre un lieu de rassemblement"
+        },
+        {
+            "index": 5648,
+            "sura": 77,
+            "aya": 26,
+            "text": "أَحْيَاءً وَأَمْوَاتًا",
+            "text_fr": "de vivants et de morts ?"
+        },
+        {
+            "index": 5649,
+            "sura": 77,
+            "aya": 27,
+            "text": "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا",
+            "text_fr": "Et Nous y Implantâmes de hautes montagnes solidement fixées, et Nous vous Donnâmes à boire une eau agréable au goût ?"
+        },
+        {
+            "index": 5650,
+            "sura": 77,
+            "aya": 28,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5651,
+            "sura": 77,
+            "aya": 29,
+            "text": "انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ",
+            "text_fr": "Accourez vers ce que vous démentiez !"
+        },
+        {
+            "index": 5652,
+            "sura": 77,
+            "aya": 30,
+            "text": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+            "text_fr": "Accourez vers une ombre à trois branches,"
+        },
+        {
+            "index": 5653,
+            "sura": 77,
+            "aya": 31,
+            "text": "لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+            "text_fr": "qui n'a ni ombrage ni n'épargne des flammes."
+        },
+        {
+            "index": 5654,
+            "sura": 77,
+            "aya": 32,
+            "text": "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ",
+            "text_fr": "Elle jette des étincelles comme le palais,"
+        },
+        {
+            "index": 5655,
+            "sura": 77,
+            "aya": 33,
+            "text": "كَأَنَّهُ جِمَالَتٌ صُفْرٌ",
+            "text_fr": "on dirait des chameaux jaunes."
+        },
+        {
+            "index": 5656,
+            "sura": 77,
+            "aya": 34,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5657,
+            "sura": 77,
+            "aya": 35,
+            "text": "هَـٰذَا يَوْمُ لَا يَنْطِقُونَ",
+            "text_fr": "C'est un jour où ils ne prononcent point."
+        },
+        {
+            "index": 5658,
+            "sura": 77,
+            "aya": 36,
+            "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+            "text_fr": "Et il ne leur sera pas donné la permission pour qu'ils s'excusent."
+        },
+        {
+            "index": 5659,
+            "sura": 77,
+            "aya": 37,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5660,
+            "sura": 77,
+            "aya": 38,
+            "text": "هَـٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ",
+            "text_fr": "C'est le Jour du Tranchement : Nous vous Avons Rassemblés, vous et les Ancêtres."
+        },
+        {
+            "index": 5661,
+            "sura": 77,
+            "aya": 39,
+            "text": "فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+            "text_fr": "Si alors vous avez une ruse, rusez contre Moi !"
+        },
+        {
+            "index": 5662,
+            "sura": 77,
+            "aya": 40,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5663,
+            "sura": 77,
+            "aya": 41,
+            "text": "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ",
+            "text_fr": "Certes, les pieux sont dans des ombrages et des sources,"
+        },
+        {
+            "index": 5664,
+            "sura": 77,
+            "aya": 42,
+            "text": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ",
+            "text_fr": "et des fruits de ce qu'ils désirent."
+        },
+        {
+            "index": 5665,
+            "sura": 77,
+            "aya": 43,
+            "text": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ",
+            "text_fr": "Mangez et buvez en toute sérénité en raison de ce que vous faisiez."
+        },
+        {
+            "index": 5666,
+            "sura": 77,
+            "aya": 44,
+            "text": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+            "text_fr": "Nous, c'est ainsi que Nous Récompensons ceux qui font le meilleur."
+        },
+        {
+            "index": 5667,
+            "sura": 77,
+            "aya": 45,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5668,
+            "sura": 77,
+            "aya": 46,
+            "text": "كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ",
+            "text_fr": "Mangez et jouissez un peu, vous êtes des malfaiteurs. —[ 723 }—"
+        },
+        {
+            "index": 5669,
+            "sura": 77,
+            "aya": 47,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5670,
+            "sura": 77,
+            "aya": 48,
+            "text": "وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+            "text_fr": "Et quand il leur est dit: «Inclinez-vous », ils ne s'inclinent pas."
+        },
+        {
+            "index": 5671,
+            "sura": 77,
+            "aya": 49,
+            "text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "Malheur, ce Jour-là, aux démenteurs !"
+        },
+        {
+            "index": 5672,
+            "sura": 77,
+            "aya": 50,
+            "text": "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ",
+            "text_fr": "— Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux En quel discours après celui-ci* vont-ils croire ?! * 50 Allusion faite au Qur'än. —[ 724 }—"
+        }
+    ]
+}

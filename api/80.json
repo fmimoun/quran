@@ -1,0 +1,300 @@
+{
+    "sura": 80,
+    "nombre_versets": 42,
+    "versets": [
+        {
+            "index": 5759,
+            "sura": 80,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ عَبَسَ وَتَوَلَّىٰ",
+            "text_fr": "Il fronça les sourcils et se détourna,"
+        },
+        {
+            "index": 5760,
+            "sura": 80,
+            "aya": 2,
+            "text": "أَنْ جَاءَهُ الْأَعْمَىٰ",
+            "text_fr": "car l'aveugle vint à lui !"
+        },
+        {
+            "index": 5761,
+            "sura": 80,
+            "aya": 3,
+            "text": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+            "text_fr": "Et qu'en sais-tu ? Il se peut qu'il s'épure,"
+        },
+        {
+            "index": 5762,
+            "sura": 80,
+            "aya": 4,
+            "text": "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ",
+            "text_fr": "ou qu'il se rappelle, et que le Rappel lui soit utile ?"
+        },
+        {
+            "index": 5763,
+            "sura": 80,
+            "aya": 5,
+            "text": "أَمَّا مَنِ اسْتَغْنَىٰ",
+            "text_fr": "Quant à celui qui s'en passe,"
+        },
+        {
+            "index": 5764,
+            "sura": 80,
+            "aya": 6,
+            "text": "فَأَنْتَ لَهُ تَصَدَّىٰ",
+            "text_fr": "tu lui prêtes attention !"
+        },
+        {
+            "index": 5765,
+            "sura": 80,
+            "aya": 7,
+            "text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+            "text_fr": "Etil ne t'incombe pas s'il ne s'épure."
+        },
+        {
+            "index": 5766,
+            "sura": 80,
+            "aya": 8,
+            "text": "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ",
+            "text_fr": "Quant à celui qui vint à toi s'empressant,"
+        },
+        {
+            "index": 5767,
+            "sura": 80,
+            "aya": 9,
+            "text": "وَهُوَ يَخْشَىٰ",
+            "text_fr": "tout craignant,"
+        },
+        {
+            "index": 5768,
+            "sura": 80,
+            "aya": 10,
+            "text": "فَأَنْتَ عَنْهُ تَلَهَّىٰ",
+            "text_fr": "toi alors tu t'en désintéresses !"
+        },
+        {
+            "index": 5769,
+            "sura": 80,
+            "aya": 11,
+            "text": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+            "text_fr": "Non ! C'est une exhortation."
+        },
+        {
+            "index": 5770,
+            "sura": 80,
+            "aya": 12,
+            "text": "فَمَنْ شَاءَ ذَكَرَهُ",
+            "text_fr": "Quiconque voudrait s'en souviendra."
+        },
+        {
+            "index": 5771,
+            "sura": 80,
+            "aya": 13,
+            "text": "فِي صُحُفٍ مُكَرَّمَةٍ",
+            "text_fr": "Il est en des pages honorées,"
+        },
+        {
+            "index": 5772,
+            "sura": 80,
+            "aya": 14,
+            "text": "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+            "text_fr": "élevées, purifiées,"
+        },
+        {
+            "index": 5773,
+            "sura": 80,
+            "aya": 15,
+            "text": "بِأَيْدِي سَفَرَةٍ",
+            "text_fr": "par des mains d'Anges-ambassadeurs,"
+        },
+        {
+            "index": 5774,
+            "sura": 80,
+            "aya": 16,
+            "text": "كِرَامٍ بَرَرَةٍ",
+            "text_fr": "nobles, justes."
+        },
+        {
+            "index": 5775,
+            "sura": 80,
+            "aya": 17,
+            "text": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+            "text_fr": "Maudit soit l'homme, qu'il est mécréant !"
+        },
+        {
+            "index": 5776,
+            "sura": 80,
+            "aya": 18,
+            "text": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+            "text_fr": "De quelle chose l'A-t-I1 Créé ?"
+        },
+        {
+            "index": 5777,
+            "sura": 80,
+            "aya": 19,
+            "text": "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+            "text_fr": "Il l'A Créé et l'A Proportionné."
+        },
+        {
+            "index": 5778,
+            "sura": 80,
+            "aya": 20,
+            "text": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+            "text_fr": "Ensuite, Il lui Facilita la voie."
+        },
+        {
+            "index": 5779,
+            "sura": 80,
+            "aya": 21,
+            "text": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+            "text_fr": "Ensuite, Il l'A Fait mourir puis l'Enterra."
+        },
+        {
+            "index": 5780,
+            "sura": 80,
+            "aya": 22,
+            "text": "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+            "text_fr": "Ensuite, s'Il Voulait : Il le Ressusciterait. —— 250 H—"
+        },
+        {
+            "index": 5781,
+            "sura": 80,
+            "aya": 23,
+            "text": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+            "text_fr": "Non ! Il n'a pas encore fait ce qu'II lui Ordonna."
+        },
+        {
+            "index": 5782,
+            "sura": 80,
+            "aya": 24,
+            "text": "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ",
+            "text_fr": "Que l'être humain contemple sa nourriture !"
+        },
+        {
+            "index": 5783,
+            "sura": 80,
+            "aya": 25,
+            "text": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+            "text_fr": "Nous Déversâmes l'eau un vrai déversement."
+        },
+        {
+            "index": 5784,
+            "sura": 80,
+            "aya": 26,
+            "text": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+            "text_fr": "Ensuite, Nous Avons Fendu la terre une vraie fente."
+        },
+        {
+            "index": 5785,
+            "sura": 80,
+            "aya": 27,
+            "text": "فَأَنْبَتْنَا فِيهَا حَبًّا",
+            "text_fr": "Nous y Fîmes pousser des grains,"
+        },
+        {
+            "index": 5786,
+            "sura": 80,
+            "aya": 28,
+            "text": "وَعِنَبًا وَقَضْبًا",
+            "text_fr": "des vignes, et des légumes,"
+        },
+        {
+            "index": 5787,
+            "sura": 80,
+            "aya": 29,
+            "text": "وَزَيْتُونًا وَنَخْلًا",
+            "text_fr": "et des oliviers, et des palmiers,"
+        },
+        {
+            "index": 5788,
+            "sura": 80,
+            "aya": 30,
+            "text": "وَحَدَائِقَ غُلْبًا",
+            "text_fr": "et des jardins touffus,"
+        },
+        {
+            "index": 5789,
+            "sura": 80,
+            "aya": 31,
+            "text": "وَفَاكِهَةً وَأَبًّا",
+            "text_fr": "et des fruits, et des fourrages,"
+        },
+        {
+            "index": 5790,
+            "sura": 80,
+            "aya": 32,
+            "text": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+            "text_fr": "jouissance pour vous et pour votre bétail."
+        },
+        {
+            "index": 5791,
+            "sura": 80,
+            "aya": 33,
+            "text": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+            "text_fr": "Quand alors aura lieu l'Assourdissante,"
+        },
+        {
+            "index": 5792,
+            "sura": 80,
+            "aya": 34,
+            "text": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+            "text_fr": "le Jour où toute personne fuira son frère,"
+        },
+        {
+            "index": 5793,
+            "sura": 80,
+            "aya": 35,
+            "text": "وَأُمِّهِ وَأَبِيهِ",
+            "text_fr": "et sa mère, et son père,"
+        },
+        {
+            "index": 5794,
+            "sura": 80,
+            "aya": 36,
+            "text": "وَصَاحِبَتِهِ وَبَنِيهِ",
+            "text_fr": "et sa compagne, et ses enfants :"
+        },
+        {
+            "index": 5795,
+            "sura": 80,
+            "aya": 37,
+            "text": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+            "text_fr": "à chaque personne d'entre eux, ce jour-là, une affaire qui le préoccupe."
+        },
+        {
+            "index": 5796,
+            "sura": 80,
+            "aya": 38,
+            "text": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+            "text_fr": "Ce Jour-là : des visages resplendissants,"
+        },
+        {
+            "index": 5797,
+            "sura": 80,
+            "aya": 39,
+            "text": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+            "text_fr": "riants, optimistes ;"
+        },
+        {
+            "index": 5798,
+            "sura": 80,
+            "aya": 40,
+            "text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+            "text_fr": "et des visages, ce Jour-là, couverts de poussière,"
+        },
+        {
+            "index": 5799,
+            "sura": 80,
+            "aya": 41,
+            "text": "تَرْهَقُهَا قَتَرَةٌ",
+            "text_fr": "accablés de noirceur."
+        },
+        {
+            "index": 5800,
+            "sura": 80,
+            "aya": 42,
+            "text": "أُولَـٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Ceux-là sont les mécréants impudiques. —— H—"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "sura": 95,
+    "nombre_versets": 8,
+    "versets": [
+        {
+            "index": 6099,
+            "sura": 95,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ وَالتِّينِ وَالزَّيْتُونِ",
+            "text_fr": "Par le figuier, et par l'olivier,"
+        },
+        {
+            "index": 6100,
+            "sura": 95,
+            "aya": 2,
+            "text": "وَطُورِ سِينِينَ",
+            "text_fr": "et par at-Tür du Sinaï,"
+        },
+        {
+            "index": 6101,
+            "sura": 95,
+            "aya": 3,
+            "text": "وَهَـٰذَا الْبَلَدِ الْأَمِينِ",
+            "text_fr": "et par ce pays sécurisé,"
+        },
+        {
+            "index": 6102,
+            "sura": 95,
+            "aya": 4,
+            "text": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+            "text_fr": "Nous Avons Créé l'homme, en fait, dans la meilleure forme,"
+        },
+        {
+            "index": 6103,
+            "sura": 95,
+            "aya": 5,
+            "text": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+            "text_fr": "ensuite, Nous l'Avons Ramené au plus bas des bas fonds."
+        },
+        {
+            "index": 6104,
+            "sura": 95,
+            "aya": 6,
+            "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+            "text_fr": "Sauf ceux qui devinrent croyants et ont fait les œuvres méritoires, ils auront alors une … rémunération ininterrompue."
+        },
+        {
+            "index": 6105,
+            "sura": 95,
+            "aya": 7,
+            "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+            "text_fr": "Qu''est-ce qui pourra, après cela, te faire démentir le jugement ?"
+        },
+        {
+            "index": 6106,
+            "sura": 95,
+            "aya": 8,
+            "text": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+            "text_fr": "Allah n'Est-Il pas le Plus-Sage des Juges ? — 5 ——"
+        }
+    ]
+}

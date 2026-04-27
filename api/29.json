@@ -1,0 +1,489 @@
+{
+    "sura": 29,
+    "nombre_versets": 69,
+    "versets": [
+        {
+            "index": 3341,
+            "sura": 29,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ الم",
+            "text_fr": "Alif. Läm. Mim."
+        },
+        {
+            "index": 3342,
+            "sura": 29,
+            "aya": 2,
+            "text": "أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ",
+            "text_fr": "Les hommes pensèrent-ils qu'ils seraient épargnés pour avoir dit: «Nous devinmes croyants » et qu'ils ne seraient pas mis à l'épreuve ?"
+        },
+        {
+            "index": 3343,
+            "sura": 29,
+            "aya": 3,
+            "text": "وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ",
+            "text_fr": "Et Nous Éprouvâmes, en fait, ceux qui étaient avant eux. Allah Saura sûrement ceux qui furent véridiques et Saura sûrement les menteurs."
+        },
+        {
+            "index": 3344,
+            "sura": 29,
+            "aya": 4,
+            "text": "أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَنْ يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ",
+            "text_fr": "Ou bien ceux qui commettent les mauvaises actions pensèrent-ils qu'ils Nous échapperaient ? Qu'il est vil ce qu'ils jugent !"
+        },
+        {
+            "index": 3345,
+            "sura": 29,
+            "aya": 5,
+            "text": "مَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+            "text_fr": "Quiconque aspire à la rencontre d'Allah, le terme fixé par Allah aura lieu sûrement. Et Il Est l'Omni-Audient, le Tout-Scient."
+        },
+        {
+            "index": 3346,
+            "sura": 29,
+            "aya": 6,
+            "text": "وَمَنْ جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ ۚ إِنَّ اللَّهَ لَغَنِيٌّ عَنِ الْعَالَمِينَ",
+            "text_fr": "Et quiconque a combattu, il ne combat que pour lui- même. Certes, Allah se Passe sûrement des Univers."
+        },
+        {
+            "index": 3347,
+            "sura": 29,
+            "aya": 7,
+            "text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ الَّذِي كَانُوا يَعْمَلُونَ",
+            "text_fr": "Et ceux qui devinrent croyants et ont fait les œuvres méritoires, Nous leur Expierons sûrement leurs mauvaises actions et Nous les Récompenserons sûrement du meilleur de ce qu'ils faisaient."
+        },
+        {
+            "index": 3348,
+            "sura": 29,
+            "aya": 8,
+            "text": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حُسْنًا ۖ وَإِنْ جَاهَدَاكَ لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۚ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+            "text_fr": "Et Nous Recommandâmes à l'homme de faire le meilleur envers ses père et mère. Et s'ils te poussent à M'associer — p — ce dont tu n'as aucune Science, ne leur obéis donc pas. Vers Moi sera votre retour, Je vous Informerai alors de ce que vous faisiez."
+        },
+        {
+            "index": 3349,
+            "sura": 29,
+            "aya": 9,
+            "text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي الصَّالِحِينَ",
+            "text_fr": "Et ceux qui devinrent croyants et ont fait les œuvres méritoires, Nous les Ferons sûrement entrer avec les vertueux."
+        },
+        {
+            "index": 3350,
+            "sura": 29,
+            "aya": 10,
+            "text": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ فَإِذَا أُوذِيَ فِي اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِنْ جَاءَ نَصْرٌ مِنْ رَبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ اللَّهُ بِأَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ",
+            "text_fr": "Et il est parmi les hommes qui disent : « Nous avons eu foi en Allah ». Si alors il subit un mal à cause d'Allah, il met à pied d'égalité l'épreuve des hommes et le châtiment d'Allah ! Et si un triomphe de la part de ton Seigneur a lieu, ils diront sûrement : « Nous étions avec vous ». Allah n'Est-Il pas Plus-Scient de ce qui est dans les cœurs des Univers ?"
+        },
+        {
+            "index": 3351,
+            "sura": 29,
+            "aya": 11,
+            "text": "وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِقِينَ",
+            "text_fr": "Et Allah Mettra sûrement en évidence ceux qui devinrent croyants et Mettra sûrement en évidence les hypocrites."
+        },
+        {
+            "index": 3352,
+            "sura": 29,
+            "aya": 12,
+            "text": "وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا اتَّبِعُوا سَبِيلَنَا وَلْنَحْمِلْ خَطَايَاكُمْ وَمَا هُمْ بِحَامِلِينَ مِنْ خَطَايَاهُمْ مِنْ شَيْءٍ ۖ إِنَّهُمْ لَكَاذِبُونَ",
+            "text_fr": "Et ceux qui devinrent mécréants dirent à ceux qui devinrent croyants: « Suivez notre voie et nous porterons sûrement vos péchés ». Mais ils ne porteront absolument rien de leurs péchés. Ce sont sûrement des menteurs."
+        },
+        {
+            "index": 3353,
+            "sura": 29,
+            "aya": 13,
+            "text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَعَ أَثْقَالِهِمْ ۖ وَلَيُسْأَلُنَّ يَوْمَ الْقِيَامَةِ عَمَّا كَانُوا يَفْتَرُونَ",
+            "text_fr": "Et ils porteront incontestablement leurs coulpes et des coulpes avec leurs coulpes, et ils seront sûrement interrogés le Jour de la Résurrection sur ce qu'ils controuvaient."
+        },
+        {
+            "index": 3354,
+            "sura": 29,
+            "aya": 14,
+            "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ",
+            "text_fr": "Et Nous Envoyâmes, en fait, Noé à ses gens. Il demeura parmi eux mille ans moins cinquante années. Alors le déluge les emporta en étant injustes."
+        },
+        {
+            "index": 3355,
+            "sura": 29,
+            "aya": 15,
+            "text": "فَأَنْجَيْنَاهُ وَأَصْحَابَ السَّفِينَةِ وَجَعَلْنَاهَا آيَةً لِلْعَالَمِينَ",
+            "text_fr": "Alors Nous le Sauvâmes et les gens de l'Arche, et Nous la Fimes un Signe pour les Univers. —[ 488 }—"
+        },
+        {
+            "index": 3356,
+            "sura": 29,
+            "aya": 16,
+            "text": "وَإِبْرَاهِيمَ إِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+            "text_fr": "Et (Nous Envoyâmes) Abraham, lorsqu'il dit à ses gens : « Adorez Allah et craignez-Le. Cela est meilleur pour vous, si vous saviez ! »"
+        },
+        {
+            "index": 3357,
+            "sura": 29,
+            "aya": 17,
+            "text": "إِنَّمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ إِفْكًا ۚ إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَابْتَغُوا عِنْدَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ وَاشْكُرُوا لَهُ ۖ إِلَيْهِ تُرْجَعُونَ",
+            "text_fr": "Ceux que vous adorez, à l'exclusion d'Allah, ne sont que des idoles, et vous forgez du mensonge. Ceux que vous adorez à l'exclusion d'Allah ne possèdent nulle subsistance pour vous. Recherchez donc la subsistance auprès d'Allah, adorez-Le et soyez reconnaissants envers Lui. Vers Lui vous serez ramenés."
+        },
+        {
+            "index": 3358,
+            "sura": 29,
+            "aya": 18,
+            "text": "وَإِنْ تُكَذِّبُوا فَقَدْ كَذَّبَ أُمَمٌ مِنْ قَبْلِكُمْ ۖ وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ",
+            "text_fr": "Et si vous démentez, nombre de communautés ont déjà démenti avant vous, et il n'incombe au Messager que la transmission évidente."
+        },
+        {
+            "index": 3359,
+            "sura": 29,
+            "aya": 19,
+            "text": "أَوَلَمْ يَرَوْا كَيْفَ يُبْدِئُ اللَّهُ الْخَلْقَ ثُمَّ يُعِيدُهُ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+            "text_fr": "N'ont-ils donc pas vu comment Allah Commence la Création, ensuite comment Il la Ramène. Certes, cela est facile pour Allah."
+        },
+        {
+            "index": 3360,
+            "sura": 29,
+            "aya": 20,
+            "text": "قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ۚ ثُمَّ اللَّهُ يُنْشِئُ النَّشْأَةَ الْآخِرَةَ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "text_fr": "Dis: « Allez de par la terre, regardez alors comment a commencé la Création. » Ensuite, Allah Formera l'autre formation. Certes, Allah Est Omnipuissant sur toute chose."
+        },
+        {
+            "index": 3361,
+            "sura": 29,
+            "aya": 21,
+            "text": "يُعَذِّبُ مَنْ يَشَاءُ وَيَرْحَمُ مَنْ يَشَاءُ ۖ وَإِلَيْهِ تُقْلَبُونَ",
+            "text_fr": "Il Châtie qui Il Veut et Fait Miséricorde à qui Il Veut. Et c'est vers Lui que vous serez retournés."
+        },
+        {
+            "index": 3362,
+            "sura": 29,
+            "aya": 22,
+            "text": "وَمَا أَنْتُمْ بِمُعْجِزِينَ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ ۖ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+            "text_fr": "Et vous ne saurez L'entraver de par la terre, ni au ciel. Et vous n'avez, à l'exclusion d'Allah, ni protecteur ni partisan."
+        },
+        {
+            "index": 3363,
+            "sura": 29,
+            "aya": 23,
+            "text": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ وَلِقَائِهِ أُولَـٰئِكَ يَئِسُوا مِنْ رَحْمَتِي وَأُولَـٰئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+            "text_fr": "Et ceux qui devinrent mécréants en les Versets d'Allah et en Sa rencontre: ceux-là désespérèrent de Ma Miséricorde, et ceux-là auront un douloureux châtiment."
+        },
+        {
+            "index": 3364,
+            "sura": 29,
+            "aya": 24,
+            "text": "فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا اقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنْجَاهُ اللَّهُ مِنَ النَّارِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+            "text_fr": "La réponse de ses gens ne fut autre qu'ils dirent : « Tuez- le ou brûlez-le ». Alors Allah le Sauva du Feu. Certes, il y a en cela des Signes pour des gens qui croient. —[ 489 }—"
+        },
+        {
+            "index": 3365,
+            "sura": 29,
+            "aya": 25,
+            "text": "وَقَالَ إِنَّمَا اتَّخَذْتُمْ مِنْ دُونِ اللَّهِ أَوْثَانًا مَوَدَّةَ بَيْنِكُمْ فِي الْحَيَاةِ الدُّنْيَا ۖ ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضًا وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِرِينَ",
+            "text_fr": "Et il dit : « Vous n'avez pris, à l'exclusion d'Allah, que des idoles, par sociabilité entre vous, dans la vie terrestre. Ensuite, le jour de la Résurrection vous vous renierez les uns les autres, et vous vous maudirez les uns les autres. Votre refuge sera le Feu et vous n'aurez point de partisans »."
+        },
+        {
+            "index": 3366,
+            "sura": 29,
+            "aya": 26,
+            "text": "فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّي ۖ إِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ",
+            "text_fr": "Alors Loth eu foi en Lui. Et lui (Abraham) dit : « J'émigre vers mon Seigneur. Il Est, Lui, l'Invincible, le Sage »."
+        },
+        {
+            "index": 3367,
+            "sura": 29,
+            "aya": 27,
+            "text": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ وَآتَيْنَاهُ أَجْرَهُ فِي الدُّنْيَا ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
+            "text_fr": "Et Nous lui Fîmes don d'Isaac et de Jacob, et Fimes en sa descendance la prophétie et le Livre, et Nous lui Accordâmes sa rémunération dans le monde. Et dans la vie Future, il est sûrement du nombre des vertueux."
+        },
+        {
+            "index": 3368,
+            "sura": 29,
+            "aya": 28,
+            "text": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ أَحَدٍ مِنَ الْعَالَمِينَ",
+            "text_fr": "Et (Nous Envoyâmes) Loth, lorsqu'il dit à ses gens : « Vous commettez l'infamie que personne aux Univers n'a commise avant vous."
+        },
+        {
+            "index": 3369,
+            "sura": 29,
+            "aya": 29,
+            "text": "أَئِنَّكُمْ لَتَأْتُونَ الرِّجَالَ وَتَقْطَعُونَ السَّبِيلَ وَتَأْتُونَ فِي نَادِيكُمُ الْمُنْكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا ائْتِنَا بِعَذَابِ اللَّهِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+            "text_fr": "Vous commettez sûrement l'acte de chair avec les hommes, vous barrez les voies, et vous commettez le répréhensible dans vos assemblées ! » Alors la réponse de ses gens ne fut autre qu'ils dirent : « Apporte-nous le châtiment d'Allah, si tu es du nombre des véridiques »."
+        },
+        {
+            "index": 3370,
+            "sura": 29,
+            "aya": 30,
+            "text": "قَالَ رَبِّ انْصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ",
+            "text_fr": "Il dit: « Mon Seigneur, Fais-moi triompher des gens corrupteurs »."
+        },
+        {
+            "index": 3371,
+            "sura": 29,
+            "aya": 31,
+            "text": "وَلَمَّا جَاءَتْ رُسُلُنَا إِبْرَاهِيمَ بِالْبُشْرَىٰ قَالُوا إِنَّا مُهْلِكُو أَهْلِ هَـٰذِهِ الْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا ظَالِمِينَ",
+            "text_fr": "Et lorsque Nos Messagers vinrent auprès d'Abraham avec la bonne nouvelle, ils dirent : « Nous ferons périr les habitants de cette Cité. Certes, ses habitants ont été injustes »."
+        },
+        {
+            "index": 3372,
+            "sura": 29,
+            "aya": 32,
+            "text": "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا نَحْنُ أَعْلَمُ بِمَنْ فِيهَا ۖ لَنُنَجِّيَنَّهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ",
+            "text_fr": "Il dit : « Loth s'y trouve ! » Ils dirent : « Nous sommes plus scients de ceux qui s'y trouvent». Nous le Sauverons sûrement, lui et sa famille, sauf sa femme : —— 190 H— elle fut de ceux qui restèrent en arrière."
+        },
+        {
+            "index": 3373,
+            "sura": 29,
+            "aya": 33,
+            "text": "وَلَمَّا أَنْ جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا لَا تَخَفْ وَلَا تَحْزَنْ ۖ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا امْرَأَتَكَ كَانَتْ مِنَ الْغَابِرِينَ",
+            "text_fr": "Et quand Nos Messagers vinrent auprès de Loth, il fut chagriné pour eux et éprouva une grande gêne. Ils dirent : « N'aie pas peur, et ne t'afflige pas : Nous te Sauverons, toi et ta famille, sauf ta femme, elle est de ceux qui restèrent en arrière »."
+        },
+        {
+            "index": 3374,
+            "sura": 29,
+            "aya": 34,
+            "text": "إِنَّا مُنْزِلُونَ عَلَىٰ أَهْلِ هَـٰذِهِ الْقَرْيَةِ رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ",
+            "text_fr": "Nous Ferons descendre sur les habitants de cette Cité un supplice du ciel, en raison de ce qu'ils commettaient la perversion."
+        },
+        {
+            "index": 3375,
+            "sura": 29,
+            "aya": 35,
+            "text": "وَلَقَدْ تَرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِقَوْمٍ يَعْقِلُونَ",
+            "text_fr": "Et Nous en Avons Laissé, en fait, un Signe évident pour des gens qui raisonnent."
+        },
+        {
+            "index": 3376,
+            "sura": 29,
+            "aya": 36,
+            "text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ وَارْجُوا الْيَوْمَ الْآخِرَ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+            "text_fr": "Et (Nous Envoyâmes) aux Madian leur frère Su‘ayb. Alors il dit : « O mon peuple ! Adorez Allah, aspirez au Jour Dernier et ne ravagez pas de par la terre en corrompant »."
+        },
+        {
+            "index": 3377,
+            "sura": 29,
+            "aya": 37,
+            "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ",
+            "text_fr": "Puis ils le démentirent. Alors le tremblement les saisit, et le matin, ils gisaient dans leur demeure."
+        },
+        {
+            "index": 3378,
+            "sura": 29,
+            "aya": 38,
+            "text": "وَعَادًا وَثَمُودَ وَقَدْ تَبَيَّنَ لَكُمْ مِنْ مَسَاكِنِهِمْ ۖ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ وَكَانُوا مُسْتَبْصِرِينَ",
+            "text_fr": "Et Nous Fimes périr les ‘Âd et les Tamüd. Et cela vous est démontré par leurs demeures. Et Satan leur a embelli leurs actions, alors il les rebuta de la voie et ils savaient la Vérité !"
+        },
+        {
+            "index": 3379,
+            "sura": 29,
+            "aya": 39,
+            "text": "وَقَارُونَ وَفِرْعَوْنَ وَهَامَانَ ۖ وَلَقَدْ جَاءَهُمْ مُوسَىٰ بِالْبَيِّنَاتِ فَاسْتَكْبَرُوا فِي الْأَرْضِ وَمَا كَانُوا سَابِقِينَ",
+            "text_fr": "Et (Nous Fimes périr) Qärün, et Pharaon, et Hämäne. Et Moïse leur est parvenu avec les évidences, alors ils s'enorgueillirent de par la terre. Et ils ne nous échapperont point."
+        },
+        {
+            "index": 3380,
+            "sura": 29,
+            "aya": 40,
+            "text": "فَكُلًّا أَخَذْنَا بِذَنْبِهِ ۖ فَمِنْهُمْ مَنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُمْ مَنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُمْ مَنْ خَسَفْنَا بِهِ الْأَرْضَ وَمِنْهُمْ مَنْ أَغْرَقْنَا ۚ وَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+            "text_fr": "Alors Nous Saisîmes chacun d'entre eux par son péché : il en est parmi eux contre lesquels Nous Envoyâmes une tourmente de cailloux, et il en est parmi eux qui furent saisis par le Son-destructif, et il en est parmi eux que Nous Fîmes engloutir par la terre, et il en est parmi eux —[ 491 }— que Nous Noyâmes. Il n'est pas de mise qu'Allah Soit Injuste envers eux, mais c'est envers eux-mêmes qu'ils étaient injustes."
+        },
+        {
+            "index": 3381,
+            "sura": 29,
+            "aya": 41,
+            "text": "مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
+            "text_fr": "L'exemple de ceux qui prirent des protecteurs, à l'exclusion d'Allah, est comme l'exemple de l'araignée qui se met en ménage*. Certes, le plus frêle des ménages est sûrement le ménage de l'araignée, s'ils savaient."
+        },
+        {
+            "index": 3382,
+            "sura": 29,
+            "aya": 42,
+            "text": "إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِنْ دُونِهِ مِنْ شَيْءٍ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+            "text_fr": "Certes, Allah Sait tout ce qu'ils invoquent, à l'exclusion de Lui. Il Est l'Invincible, le Sage."
+        },
+        {
+            "index": 3383,
+            "sura": 29,
+            "aya": 43,
+            "text": "وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ",
+            "text_fr": "Etces paraboles, Nous les Fournissons pour les hommes, mais ne les saisissent que les savants."
+        },
+        {
+            "index": 3384,
+            "sura": 29,
+            "aya": 44,
+            "text": "خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِلْمُؤْمِنِينَ",
+            "text_fr": "Allah Créa les Cieux et la terre en toute Vérité. Certes, il y a en cela un Signe pour les croyants."
+        },
+        {
+            "index": 3385,
+            "sura": 29,
+            "aya": 45,
+            "text": "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+            "text_fr": "Récite ce qui t'a été Révélé du Livre et accomplis la prière. Certes, la prière prohibe l'infamie et le répréhensible, et la psalmodie du Nom d'Allah est sûrement plus grande. Et Allah Sait ce que vous fabriquez."
+        },
+        {
+            "index": 3386,
+            "sura": 29,
+            "aya": 46,
+            "text": "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ ۖ وَقُولُوا آمَنَّا بِالَّذِي أُنْزِلَ إِلَيْنَا وَأُنْزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ",
+            "text_fr": "Et ne discutez avec les gens du Livre que de la façon la meilleure, sauf ceux d'entre eux qui furent injustes. Et dites : « Nous croyons en ce qui nous a été Révélé, et en ce qui vous a été Révélé, et notre Dieu et votre Dieu est Un, et nous nous remettons à Lui. »"
+        },
+        {
+            "index": 3387,
+            "sura": 29,
+            "aya": 47,
+            "text": "وَكَذَٰلِكَ أَنْزَلْنَا إِلَيْكَ الْكِتَابَ ۚ فَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يُؤْمِنُونَ بِهِ ۖ وَمِنْ هَـٰؤُلَاءِ مَنْ يُؤْمِنُ بِهِ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الْكَافِرُونَ",
+            "text_fr": "De même, Nous te Révélâmes le Livre, et ceux auxquels Nous Apportâmes le Livre y croient; et de *41 Le ménage des araignées est des plus éphémères, car la femelle tue le mâle après l'accouplement. La forme du verbe \"* ittahadat\" au féminin indique que c'est la femelle qui tisse la toile. —[ 492 ]— ceux-ci, il en est certains qui y croient. Et ne renient Nos Versets que les mécréants."
+        },
+        {
+            "index": 3388,
+            "sura": 29,
+            "aya": 48,
+            "text": "وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلَا تَخُطُّهُ بِيَمِينِكَ ۖ إِذًا لَارْتَابَ الْمُبْطِلُونَ",
+            "text_fr": "Et tu ne récitais aucun livre, avant celui-là, ni tu ne l'écrivais de ta droite, sinon alors les détracteurs douteraient."
+        },
+        {
+            "index": 3389,
+            "sura": 29,
+            "aya": 49,
+            "text": "بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ",
+            "text_fr": "Bien au contraire, il consiste en des Versets évidents, préservés dans les cœurs de ceux qui reçurent la Science. Et ne renient Nos Versets que les injustes."
+        },
+        {
+            "index": 3390,
+            "sura": 29,
+            "aya": 50,
+            "text": "وَقَالُوا لَوْلَا أُنْزِلَ عَلَيْهِ آيَاتٌ مِنْ رَبِّهِ ۖ قُلْ إِنَّمَا الْآيَاتُ عِنْدَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ",
+            "text_fr": "Et ils dirent : « Si seulement on faisait descendre sur lui des Signes de son Seigneur ? » Dis : « Les Signes ne dépendent que d'Allah, et je ne suis qu'un avertisseur évident »."
+        },
+        {
+            "index": 3391,
+            "sura": 29,
+            "aya": 51,
+            "text": "أَوَلَمْ يَكْفِهِمْ أَنَّا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِي ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ",
+            "text_fr": "Ne leur suffit-il donc pas que nous te Révélâmes le Livre qui leur est récité ? Certes, il y a en cela sûrement une miséricorde et un rappel pour des gens qui croient."
+        },
+        {
+            "index": 3392,
+            "sura": 29,
+            "aya": 52,
+            "text": "قُلْ كَفَىٰ بِاللَّهِ بَيْنِي وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَالَّذِينَ آمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللَّهِ أُولَـٰئِكَ هُمُ الْخَاسِرُونَ",
+            "text_fr": "Dis : « Qu'il suffise d'Allah comme Témoin entre moi et vous. Il Sait ce qui est dans les Cieux et la terre. Et ceux qui eurent foi en ce qui est faux, et devinrent mécréants en Allah, ceux-là sont les perdus. »"
+        },
+        {
+            "index": 3393,
+            "sura": 29,
+            "aya": 53,
+            "text": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ ۚ وَلَوْلَا أَجَلٌ مُسَمًّى لَجَاءَهُمُ الْعَذَابُ وَلَيَأْتِيَنَّهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+            "text_fr": "Et ils t'empressent de hâter le châtiment. Et n'était-ce un terme fixé, le châtiment leur serait déjà parvenu, et il leur parviendra sûrement à l'improviste sans qu'ils se rendent compte."
+        },
+        {
+            "index": 3394,
+            "sura": 29,
+            "aya": 54,
+            "text": "يَسْتَعْجِلُونَكَ بِالْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ",
+            "text_fr": "Ils t'empressent à hâter le châtiment alors que la Géhenne encerclera sûrement les mécréants,"
+        },
+        {
+            "index": 3395,
+            "sura": 29,
+            "aya": 55,
+            "text": "يَوْمَ يَغْشَاهُمُ الْعَذَابُ مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا مَا كُنْتُمْ تَعْمَلُونَ",
+            "text_fr": "le jour où le châtiment les couvrira d'au-dessus (leurs têtes) et d'en dessous leurs pieds, et Il Dira : « Subissez ce que vous commettiez »."
+        },
+        {
+            "index": 3396,
+            "sura": 29,
+            "aya": 56,
+            "text": "يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ",
+            "text_fr": "O Mes serviteurs qui devîntes croyants, certes Ma Terre se prête à l'immigration. C'est Moi Seul que vous devez —————€Ç 195 H— adorer."
+        },
+        {
+            "index": 3397,
+            "sura": 29,
+            "aya": 57,
+            "text": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
+            "text_fr": "Tout être subira la mort, ensuite vers Nous vous serez ramenés."
+        },
+        {
+            "index": 3398,
+            "sura": 29,
+            "aya": 58,
+            "text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُمْ مِنَ الْجَنَّةِ غُرَفًا تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ نِعْمَ أَجْرُ الْعَامِلِينَ",
+            "text_fr": "Et ceux qui devinrent croyants et ont fait les œuvres méritoires, Nous les placerons sûrement dans les places les plus élevées du Paradis, sous lesquelles coulent les fleuves. Ils s'y éterniseront. C'est la meilleure rémunération pour ceux qui œuvrent,"
+        },
+        {
+            "index": 3399,
+            "sura": 29,
+            "aya": 59,
+            "text": "الَّذِينَ صَبَرُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+            "text_fr": "ceux qui persévérèrent, et se fient à leur Seigneur."
+        },
+        {
+            "index": 3400,
+            "sura": 29,
+            "aya": 60,
+            "text": "وَكَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+            "text_fr": "Et que d'êtres vivants, qui ne portent leur subsistance, Allah les Nourrit et vous aussi. Et Il Est l'Omni-Audiant, le Tout-Scient."
+        },
+        {
+            "index": 3401,
+            "sura": 29,
+            "aya": 61,
+            "text": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ",
+            "text_fr": "Et si tu leur demandes : « Qui a Créé les Cieux et la terre, et Assujetti le soleil et la lune ?», ils diront sûrement : « Allah ». Comment alors louvoient-ils ?!"
+        },
+        {
+            "index": 3402,
+            "sura": 29,
+            "aya": 62,
+            "text": "اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَهُ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+            "text_fr": "Allah Déploie la subsistance à qui Il Veut de Ses serviteurs ou la lui Resserre. Certes, Allah Est Tout- Scient de toute chose."
+        },
+        {
+            "index": 3403,
+            "sura": 29,
+            "aya": 63,
+            "text": "وَلَئِنْ سَأَلْتَهُمْ مَنْ نَزَّلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ مِنْ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+            "text_fr": "Et si tu leur demandes : « Qui a fait descendre de l'eau du ciel et ranima la terre avec après sa mort ? », ils diront sûrement : « Allah ». Dis : « Louanges à Allah ». Mais la plupart d'entre eux ne raisonnent pas."
+        },
+        {
+            "index": 3404,
+            "sura": 29,
+            "aya": 64,
+            "text": "وَمَا هَـٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+            "text_fr": "Et cette vie terrestre n'est que jouissance et badinage. Et certes, la demeure Future vaut les deux vies, s'ils savaient !"
+        },
+        {
+            "index": 3405,
+            "sura": 29,
+            "aya": 65,
+            "text": "فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ",
+            "text_fr": "Puis, s'ils s'embarquent sur le navire, ils invoquent Allah de tout leur cœur, alors quand Il les Sauva vers le rivage, voilà qu'ils deviennent polythéistes."
+        },
+        {
+            "index": 3406,
+            "sura": 29,
+            "aya": 66,
+            "text": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ وَلِيَتَمَتَّعُوا ۖ فَسَوْفَ يَعْلَمُونَ",
+            "text_fr": "Qu'ils mécroient en ce que Nous leur Avons Apporté et qu'ils se réjouissent, bientôt ils sauront ! —— 194 H—"
+        },
+        {
+            "index": 3407,
+            "sura": 29,
+            "aya": 67,
+            "text": "أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَمًا آمِنًا وَيُتَخَطَّفُ النَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ اللَّهِ يَكْفُرُونَ",
+            "text_fr": "N'ont-ils donc pas vu que Nous Fimes une enceinte sacrée, sécurisée, alors qu'autour d'eux on enlève les hommes ? Croiront-ils donc en ce qui est faux et mécroiront-ils en la grâce d'Allah ?"
+        },
+        {
+            "index": 3408,
+            "sura": 29,
+            "aya": 68,
+            "text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِالْحَقِّ لَمَّا جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+            "text_fr": "Et qui est plus injuste que celui qui controuva des mensonges contre Allah ou qui a démenti la Vérité quand elle lui est parvenue ? N'y a-t-il pas dans la Géhenne une demeure pour les mécréants ?"
+        },
+        {
+            "index": 3409,
+            "sura": 29,
+            "aya": 69,
+            "text": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
+            "text_fr": "… Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Et ceux qui ont combattu pour Notre cause, Nous les Guiderons sûrement vers Nos voies. Certes, Allah Est sûrement avec ceux qui font le meilleur. —[ 495 }—"
+        }
+    ]
+}

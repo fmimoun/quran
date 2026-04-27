@@ -1,0 +1,692 @@
+{
+    "sura": 19,
+    "nombre_versets": 98,
+    "versets": [
+        {
+            "index": 2251,
+            "sura": 19,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ كهيعص",
+            "text_fr": "Käf.Hä.Yä.‘Ayn.Säd."
+        },
+        {
+            "index": 2252,
+            "sura": 19,
+            "aya": 2,
+            "text": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا",
+            "text_fr": "Récit de la Miséricorde de ton Seigneur envers Son serviteur Zacharie."
+        },
+        {
+            "index": 2253,
+            "sura": 19,
+            "aya": 3,
+            "text": "إِذْ نَادَىٰ رَبَّهُ نِدَاءً خَفِيًّا",
+            "text_fr": "Lorsqu'il invoqua son Seigneur d'une invocation secrète,"
+        },
+        {
+            "index": 2254,
+            "sura": 19,
+            "aya": 4,
+            "text": "قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا",
+            "text_fr": "il dit : «Mon Seigneur, mes os se sont affaiblis, la tête flamboya de cheveux blancs, et je ne fus jamais malheureux en t'invoquant ;"
+        },
+        {
+            "index": 2255,
+            "sura": 19,
+            "aya": 5,
+            "text": "وَإِنِّي خِفْتُ الْمَوَالِيَ مِنْ وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِرًا فَهَبْ لِي مِنْ لَدُنْكَ وَلِيًّا",
+            "text_fr": "et moi je redoute les proches, après moi, ma femme étant stérile. Accorde-moi donc de chez Toi un successeur,"
+        },
+        {
+            "index": 2256,
+            "sura": 19,
+            "aya": 6,
+            "text": "يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ ۖ وَاجْعَلْهُ رَبِّ رَضِيًّا",
+            "text_fr": "qui hérite de moi et qui hérite de la famille Jacob. Et Fais, mon Seigneur, qu'il soit agréé »."
+        },
+        {
+            "index": 2257,
+            "sura": 19,
+            "aya": 7,
+            "text": "يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ لَمْ نَجْعَلْ لَهُ مِنْ قَبْلُ سَمِيًّا",
+            "text_fr": "O Zacharie, Nous t'Annonçons la bonne nouvelle d'un garçon qui s'appelle Yahyä (Jean)* auquel Nous n'Avons pas Donné d'homonyme auparavant.**"
+        },
+        {
+            "index": 2258,
+            "sura": 19,
+            "aya": 8,
+            "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَكَانَتِ امْرَأَتِي عَاقِرًا وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيًّا",
+            "text_fr": "Il dit : «Mon Seigneur, comment aurai-je un garçon alors que ma femme est stérile et que j'ai atteint l'extrême vieillesse ? » #7 _ Le sens du nom propre Yahyä est : Vivant. **Le mot Yahyä en arabe est un verbe, et c'est la première fois qu'un verbe est employé comme nom propre. —A ——"
+        },
+        {
+            "index": 2259,
+            "sura": 19,
+            "aya": 9,
+            "text": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِنْ قَبْلُ وَلَمْ تَكُ شَيْئًا",
+            "text_fr": "Il dit : « Pour tout cela, ton Seigneur A Dit : \"Pour Moi c'est chose facile, et Je t'Ai déjà Créé auparavant et tu n'étais rien.\" »"
+        },
+        {
+            "index": 2260,
+            "sura": 19,
+            "aya": 10,
+            "text": "قَالَ رَبِّ اجْعَلْ لِي آيَةً ۚ قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا",
+            "text_fr": "Il dit : « Mon Seigneur, Désigne-moi un Signe. » Il Dit : « Ton signe : tu ne pourras parler aux hommes pendant trois nuits, quoique en bonne santé. »"
+        },
+        {
+            "index": 2261,
+            "sura": 19,
+            "aya": 11,
+            "text": "فَخَرَجَ عَلَىٰ قَوْمِهِ مِنَ الْمِحْرَابِ فَأَوْحَىٰ إِلَيْهِمْ أَنْ سَبِّحُوا بُكْرَةً وَعَشِيًّا",
+            "text_fr": "Alors il sortit du mihräb vers ses gens et leur fit signe : « Exaltez à l'aube et au soir »."
+        },
+        {
+            "index": 2262,
+            "sura": 19,
+            "aya": 12,
+            "text": "يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ۖ وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا",
+            "text_fr": "«O Yahyä, prends le Livre fermement ». Et Nous lui Octroyâmes la sagesse tout enfant,"
+        },
+        {
+            "index": 2263,
+            "sura": 19,
+            "aya": 13,
+            "text": "وَحَنَانًا مِنْ لَدُنَّا وَزَكَاةً ۖ وَكَانَ تَقِيًّا",
+            "text_fr": "une tendresse de chez Nous, et une épuration. Il était pieux,"
+        },
+        {
+            "index": 2264,
+            "sura": 19,
+            "aya": 14,
+            "text": "وَبَرًّا بِوَالِدَيْهِ وَلَمْ يَكُنْ جَبَّارًا عَصِيًّا",
+            "text_fr": "affectueusement dévoué envers ses père et mère, et il n'était point un oppresseur rebelle."
+        },
+        {
+            "index": 2265,
+            "sura": 19,
+            "aya": 15,
+            "text": "وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+            "text_fr": "La paix est avec lui : le jour où il naquit, le jour où il mourra et le jour où il sera ressuscité vivant."
+        },
+        {
+            "index": 2266,
+            "sura": 19,
+            "aya": 16,
+            "text": "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انْتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا",
+            "text_fr": "Et mentionne dans le Livre, Marie, lorsqu'elle se retira de ses parents, dans un endroit à l'est,"
+        },
+        {
+            "index": 2267,
+            "sura": 19,
+            "aya": 17,
+            "text": "فَاتَّخَذَتْ مِنْ دُونِهِمْ حِجَابًا فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+            "text_fr": "puis elle s'éclipsa de leurs vues, alors Nous lui Envoyâmes Notre Esprit qui lui apparut comme un être humain en forme."
+        },
+        {
+            "index": 2268,
+            "sura": 19,
+            "aya": 18,
+            "text": "قَالَتْ إِنِّي أَعُوذُ بِالرَّحْمَـٰنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا",
+            "text_fr": "Elle dit : « Moi, j'ai recours au Miséricordeur contre toi, si tu es pieux »."
+        },
+        {
+            "index": 2269,
+            "sura": 19,
+            "aya": 19,
+            "text": "قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا",
+            "text_fr": "Il dit : « Je ne suis que le Messager de ton Seigneur pour te faire don d'un garçon épuré »."
+        },
+        {
+            "index": 2270,
+            "sura": 19,
+            "aya": 20,
+            "text": "قَالَتْ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ أَكُ بَغِيًّا",
+            "text_fr": "Elle dit : «Comment aurai-je un garçon alors que personne ne m'a touchée et que je n'ai jamais été une prostituée ? »"
+        },
+        {
+            "index": 2271,
+            "sura": 19,
+            "aya": 21,
+            "text": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ ۖ وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ وَرَحْمَةً مِنَّا ۚ وَكَانَ أَمْرًا مَقْضِيًّا",
+            "text_fr": "Il dit : « Pour tout cela, ton Seigneur A Dit : \"Pour Moi c'est chose facile, et Nous Ferons de lui un Signe pour —— 5 H…———— les hommes et une Miséricorde de Nous-même\" ». Et ce fut un ordre irrévocable."
+        },
+        {
+            "index": 2272,
+            "sura": 19,
+            "aya": 22,
+            "text": "فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا",
+            "text_fr": "Puis elle le conçut, alors elle s'isola avec lui en un endroit éloigné."
+        },
+        {
+            "index": 2273,
+            "sura": 19,
+            "aya": 23,
+            "text": "فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَـٰذَا وَكُنْتُ نَسْيًا مَنْسِيًّا",
+            "text_fr": "Les douleurs de l'enfantement la poussèrent auprès du tronc du palmier. Elle dit : « Dussé-je être déjà morte avant cela, et que je fusse un oubli oublié ! »"
+        },
+        {
+            "index": 2274,
+            "sura": 19,
+            "aya": 24,
+            "text": "فَنَادَاهَا مِنْ تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا",
+            "text_fr": "Alors il l'appela de sous elle : « Ne t'afflige pas, ton Seigneur Fit couler une rigole en dessous de toi,"
+        },
+        {
+            "index": 2275,
+            "sura": 19,
+            "aya": 25,
+            "text": "وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا",
+            "text_fr": "et secoue vers toi le tronc du palmier, il fera tomber sur toi des dattes fraîches, mûres."
+        },
+        {
+            "index": 2276,
+            "sura": 19,
+            "aya": 26,
+            "text": "فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا ۖ فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَـٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا",
+            "text_fr": "Mange alors et bois, et sois tranquille. Et si tu vois quelqu'un des êtres humains, alors dis : \"Moi, j'ai fait vœu au Miséricordeur d'un jeûne aujourd'hui, je ne parlerai point à personne.\" »"
+        },
+        {
+            "index": 2277,
+            "sura": 19,
+            "aya": 27,
+            "text": "فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ ۖ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا",
+            "text_fr": "Ensuite elle le mena à ses gens en le portant. Ils dirent : «O Marie, tu as vraiment commis quelque chose d'ahurissant !"
+        },
+        {
+            "index": 2278,
+            "sura": 19,
+            "aya": 28,
+            "text": "يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+            "text_fr": "O sœur d'Aaron ! Ton père n'était pas un méchant homme et ta mère n'était pas une prostituée ! »"
+        },
+        {
+            "index": 2279,
+            "sura": 19,
+            "aya": 29,
+            "text": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا",
+            "text_fr": "Alors elle le démontra du doigt. Ils dirent : « Comment parlerons-nous à celui qui est tout enfant au berceau ? »"
+        },
+        {
+            "index": 2280,
+            "sura": 19,
+            "aya": 30,
+            "text": "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
+            "text_fr": "Il dit : «Je suis le serviteur d'Allah, Il m'A Donné le Livre, et Il m'A Fait Prophète,"
+        },
+        {
+            "index": 2281,
+            "sura": 19,
+            "aya": 31,
+            "text": "وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنْتُ وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا",
+            "text_fr": "et Il me Fit béni où que je sois, et II m'A Ordonné la prière et la Zakät tant que je serai vivant,"
+        },
+        {
+            "index": 2282,
+            "sura": 19,
+            "aya": 32,
+            "text": "وَبَرًّا بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا",
+            "text_fr": "et d'être affectueusement dévoué envers ma mère. Il ne me Fit point un oppresseur malheureux,"
+        },
+        {
+            "index": 2283,
+            "sura": 19,
+            "aya": 33,
+            "text": "وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا",
+            "text_fr": "et la paix est avec moi : le jour où je naquis, le jour où je mourrai et le Jour où je serai ressuscité vivant. » —[ 384 }—"
+        },
+        {
+            "index": 2284,
+            "sura": 19,
+            "aya": 34,
+            "text": "ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ ۚ قَوْلَ الْحَقِّ الَّذِي فِيهِ يَمْتَرُونَ",
+            "text_fr": "Tel est Jésus fils de Marie. Parole de Vérité sur laquelle ils divergent."
+        },
+        {
+            "index": 2285,
+            "sura": 19,
+            "aya": 35,
+            "text": "مَا كَانَ لِلَّهِ أَنْ يَتَّخِذَ مِنْ وَلَدٍ ۖ سُبْحَانَهُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+            "text_fr": "Il n'est pas de mise qu'Allah Adopte un fils ! Gloire à Lui ! S'Il Décréte une chose, Il n'A qu'à lui Dire : « Sois ! » et elle est."
+        },
+        {
+            "index": 2286,
+            "sura": 19,
+            "aya": 36,
+            "text": "وَإِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۚ هَـٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+            "text_fr": "Et « Allah, certes, Est mon Seigneur et votre Seigneur, adorez-Le donc. Ceci est un chemin de rectitude »."
+        },
+        {
+            "index": 2287,
+            "sura": 19,
+            "aya": 37,
+            "text": "فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ ۖ فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ مَشْهَدِ يَوْمٍ عَظِيمٍ",
+            "text_fr": "Puis les factions divergèrent entre elles. Malheur, à ceux qui devinrent mécréants, à la vue d'un Jour effroyable."
+        },
+        {
+            "index": 2288,
+            "sura": 19,
+            "aya": 38,
+            "text": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَـٰكِنِ الظَّالِمُونَ الْيَوْمَ فِي ضَلَالٍ مُبِينٍ",
+            "text_fr": "Que leur ouïe et leur vue seront intenses le Jour où ils seront ramenés à Nous ! Mais les injustes, aujourd'hui, sont dans un fourvoiement évident."
+        },
+        {
+            "index": 2289,
+            "sura": 19,
+            "aya": 39,
+            "text": "وَأَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الْأَمْرُ وَهُمْ فِي غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+            "text_fr": "Et avertis-les du jour de la désolation*, lorsque tout sera accompli, tandis qu'ils étaient inattentifs, et qu'ils n'étaient pas croyants."
+        },
+        {
+            "index": 2290,
+            "sura": 19,
+            "aya": 40,
+            "text": "إِنَّا نَحْنُ نَرِثُ الْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+            "text_fr": "C'est Nous qui Hériterons de la terre et tout ce qu'elle porte, et c'est vers Nous qu'ils seront ramenés."
+        },
+        {
+            "index": 2291,
+            "sura": 19,
+            "aya": 41,
+            "text": "وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا",
+            "text_fr": "Et mentionne dans le Livre Abraham. Lui, il était un Véridique, un Prophète."
+        },
+        {
+            "index": 2292,
+            "sura": 19,
+            "aya": 42,
+            "text": "إِذْ قَالَ لِأَبِيهِ يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِي عَنْكَ شَيْئًا",
+            "text_fr": "Lorsqu'il dit à son père : «O mon père ! Pourquoi adores-tu ce qui n'entend pas, qui ne voit pas, et qui ne te porte aucun secours ?"
+        },
+        {
+            "index": 2293,
+            "sura": 19,
+            "aya": 43,
+            "text": "يَا أَبَتِ إِنِّي قَدْ جَاءَنِي مِنَ الْعِلْمِ مَا لَمْ يَأْتِكَ فَاتَّبِعْنِي أَهْدِكَ صِرَاطًا سَوِيًّا",
+            "text_fr": "O mon père ! Moi j'ai reçu de la Science ce que tu n'as pas reçu, suis-moi donc, je te guiderai vers un chemin équitable."
+        },
+        {
+            "index": 2294,
+            "sura": 19,
+            "aya": 44,
+            "text": "يَا أَبَتِ لَا تَعْبُدِ الشَّيْطَانَ ۖ إِنَّ الشَّيْطَانَ كَانَ لِلرَّحْمَـٰنِ عَصِيًّا",
+            "text_fr": "O mon père ! N'adore pas Satan : Satan a toujours été rebelle au Miséricordeur. *39 Allusion faite au Jour du Jugement. —[ 385 ]—"
+        },
+        {
+            "index": 2295,
+            "sura": 19,
+            "aya": 45,
+            "text": "يَا أَبَتِ إِنِّي أَخَافُ أَنْ يَمَسَّكَ عَذَابٌ مِنَ الرَّحْمَـٰنِ فَتَكُونَ لِلشَّيْطَانِ وَلِيًّا",
+            "text_fr": "O mon père ! Moi je redoute que tu ne sois atteint d'un châtiment du Miséricordeur, alors tu deviendras lige de Satan. »"
+        },
+        {
+            "index": 2296,
+            "sura": 19,
+            "aya": 46,
+            "text": "قَالَ أَرَاغِبٌ أَنْتَ عَنْ آلِهَتِي يَا إِبْرَاهِيمُ ۖ لَئِنْ لَمْ تَنْتَهِ لَأَرْجُمَنَّكَ ۖ وَاهْجُرْنِي مَلِيًّا",
+            "text_fr": "Il dit : «Te détournerais-tu, toi, de mes divinités, O Abraham ? Si tu n'en finis pas, je te lapiderai ! Et éloigne-toi de moi pour longtemps ! »"
+        },
+        {
+            "index": 2297,
+            "sura": 19,
+            "aya": 47,
+            "text": "قَالَ سَلَامٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّي ۖ إِنَّهُ كَانَ بِي حَفِيًّا",
+            "text_fr": "Il dit : « Que la paix soit avec toi. J'implorerai pour toi le pardon de mon Seigneur. Il A toujours Su mon état ;"
+        },
+        {
+            "index": 2298,
+            "sura": 19,
+            "aya": 48,
+            "text": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا",
+            "text_fr": "je me détacherai de vous et de ce que vous invoquez, à l'exclusion d'Allah, et j'invoquerai mon Seigneur, ainsi je ne serais pas malheureux en invoquant mon Seigneur. »"
+        },
+        {
+            "index": 2299,
+            "sura": 19,
+            "aya": 49,
+            "text": "فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+            "text_fr": "Alors, quand il se détacha d'eux et de ce qu'ils adorent, à l'exclusion d'Allah, Nous lui Donnâmes Isaac et Jacob. Et chacun d'eux Nous le Fîmes Prophète."
+        },
+        {
+            "index": 2300,
+            "sura": 19,
+            "aya": 50,
+            "text": "وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا",
+            "text_fr": "Et Nous leur Octroyâmes de Notre Miséricorde et leur Fîmes une bonne renommée."
+        },
+        {
+            "index": 2301,
+            "sura": 19,
+            "aya": 51,
+            "text": "وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَبِيًّا",
+            "text_fr": "Et mentionne dans le Livre Moïse. Lui, il était pur et il était un Messager, un Prophète."
+        },
+        {
+            "index": 2302,
+            "sura": 19,
+            "aya": 52,
+            "text": "وَنَادَيْنَاهُ مِنْ جَانِبِ الطُّورِ الْأَيْمَنِ وَقَرَّبْنَاهُ نَجِيًّا",
+            "text_fr": "Et Nous l'Avons Appelé, du flanc droit du Tür, et Nous le Rapprochâmes de Nous comme confident."
+        },
+        {
+            "index": 2303,
+            "sura": 19,
+            "aya": 53,
+            "text": "وَوَهَبْنَا لَهُ مِنْ رَحْمَتِنَا أَخَاهُ هَارُونَ نَبِيًّا",
+            "text_fr": "Et Nous lui Accordâmes, de Notre Miséricorde, son frère Aaron, Prophète."
+        },
+        {
+            "index": 2304,
+            "sura": 19,
+            "aya": 54,
+            "text": "وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيلَ ۚ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ وَكَانَ رَسُولًا نَبِيًّا",
+            "text_fr": "Et mentionne dans le Livre Ismaël. Lui, il était véridique en promesse et il était un Messager, un Prophète :"
+        },
+        {
+            "index": 2305,
+            "sura": 19,
+            "aya": 55,
+            "text": "وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ وَكَانَ عِنْدَ رَبِّهِ مَرْضِيًّا",
+            "text_fr": "il ordonnait à sa famille de faire la prière et la Zakät, et il était satisfait auprès de son Seigneur."
+        },
+        {
+            "index": 2306,
+            "sura": 19,
+            "aya": 56,
+            "text": "وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا",
+            "text_fr": "Et mentionne dans le Livre Idriss. Il était un Véridique, un Prophète."
+        },
+        {
+            "index": 2307,
+            "sura": 19,
+            "aya": 57,
+            "text": "وَرَفَعْنَاهُ مَكَانًا عَلِيًّا",
+            "text_fr": "Et Nous l'Élevâmes à une place élevée. € 366 H————-—"
+        },
+        {
+            "index": 2308,
+            "sura": 19,
+            "aya": 58,
+            "text": "أُولَـٰئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ مِنْ ذُرِّيَّةِ آدَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِنْ ذُرِّيَّةِ إِبْرَاهِيمَ وَإِسْرَائِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُ الرَّحْمَـٰنِ خَرُّوا سُجَّدًا وَبُكِيًّا ۩",
+            "text_fr": "Ceux-là, ceux qu'Allah A Gratifiés parmi les Prophètes de la progéniture d'Adam, et de ceux que Nous Portâmes avec Noé, et de la progéniture d'Abraham et d'Israël, et de ceux que Nous Guidâmes et Rappelâmes, lorsqu'on leur récite les Versets du Miséricordeur, ils s'affaissent, se prosternant et pleurant.ft"
+        },
+        {
+            "index": 2309,
+            "sura": 19,
+            "aya": 59,
+            "text": "فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ وَاتَّبَعُوا الشَّهَوَاتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+            "text_fr": "Puis leur succéda, après eux, une mauvaise génération : ils perdirent la prière et suivirent les concupiscences. Ils seront jetés alors dans le Gayy*"
+        },
+        {
+            "index": 2310,
+            "sura": 19,
+            "aya": 60,
+            "text": "إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَأُولَـٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ شَيْئًا",
+            "text_fr": "Sauf celui qui se repent, devient croyant et fait œuvre méritoire. Ceux-là alors entreront au Paradis et ne subiront aucune injustice :"
+        },
+        {
+            "index": 2311,
+            "sura": 19,
+            "aya": 61,
+            "text": "جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمَـٰنُ عِبَادَهُ بِالْغَيْبِ ۚ إِنَّهُ كَانَ وَعْدُهُ مَأْتِيًّا",
+            "text_fr": "Les Paradis de l'Éden que le Miséricordeur A Promis à Ses serviteurs en Occulte. Sa promesse a toujours été réalisée."
+        },
+        {
+            "index": 2312,
+            "sura": 19,
+            "aya": 62,
+            "text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَامًا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+            "text_fr": "Ils n'y entendront aucun propos inconsidéré : rien que paix. Et ils auront leur subsistance à l'aube et au soir."
+        },
+        {
+            "index": 2313,
+            "sura": 19,
+            "aya": 63,
+            "text": "تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَنْ كَانَ تَقِيًّا",
+            "text_fr": "Tel est le Paradis que Nous Ferons hériter à celui qui fut pieux de Nos serviteurs."
+        },
+        {
+            "index": 2314,
+            "sura": 19,
+            "aya": 64,
+            "text": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا",
+            "text_fr": "Et il ne nous* est ordonné de descendre que par l'Ordre de ton Seigneur. A Lui Appartient notre présent, notre passé, et ce qui est entre cela. Et ton Seigneur n'A jamais Été Oublieux."
+        },
+        {
+            "index": 2315,
+            "sura": 19,
+            "aya": 65,
+            "text": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَادَتِهِ ۚ هَلْ تَعْلَمُ لَهُ سَمِيًّا",
+            "text_fr": "Seigneur des Cieux et de la terre, et ce qui est entre les deux, adore-Le donc et tiens ferme à ta persévérance pour son adoration. Lui connais-tu d'homonyme ? # 59 C'est le nom d'une vallée dans la Géhenne. * 64 C'est l'ange Gabriel qui reprend la parole ici. —[ 387 ]—"
+        },
+        {
+            "index": 2316,
+            "sura": 19,
+            "aya": 66,
+            "text": "وَيَقُولُ الْإِنْسَانُ أَإِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا",
+            "text_fr": "Et l'être humain dit : « Si jamais je meurs, sortirai-je vraiment vivant ? »"
+        },
+        {
+            "index": 2317,
+            "sura": 19,
+            "aya": 67,
+            "text": "أَوَلَا يَذْكُرُ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ قَبْلُ وَلَمْ يَكُ شَيْئًا",
+            "text_fr": "Ne se souvient-il pas, l'être humain, que Nous l'Avons Créé auparavant et qu'il n'était rien ?"
+        },
+        {
+            "index": 2318,
+            "sura": 19,
+            "aya": 68,
+            "text": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا",
+            "text_fr": "De par ton Seigneur, Nous les Rassemblerons sûrement avec les démons, ensuite Nous les Ramènerons autour de la Géhenne à genoux."
+        },
+        {
+            "index": 2319,
+            "sura": 19,
+            "aya": 69,
+            "text": "ثُمَّ لَنَنْزِعَنَّ مِنْ كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَـٰنِ عِتِيًّا",
+            "text_fr": "Ensuite Nous Arracherons, de chaque groupe, celui d'entre eux qui fut le plus arrogant à l'égard du Miséricordeur."
+        },
+        {
+            "index": 2320,
+            "sura": 19,
+            "aya": 70,
+            "text": "ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّا",
+            "text_fr": "Ensuite, Nous Sommes sûrement Plus-Scient de ceux qui méritent le plus d'y être brûlés."
+        },
+        {
+            "index": 2321,
+            "sura": 19,
+            "aya": 71,
+            "text": "وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَقْضِيًّا",
+            "text_fr": "Et il n'est personne d'entre vous qui n'y passera. Cela est pour ton Seigneur une certitude irrévocable."
+        },
+        {
+            "index": 2322,
+            "sura": 19,
+            "aya": 72,
+            "text": "ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا",
+            "text_fr": "Ensuite Nous Sauverons ceux qui furent pieux, et Nous y Laisserons les injustes à genoux."
+        },
+        {
+            "index": 2323,
+            "sura": 19,
+            "aya": 73,
+            "text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَقَامًا وَأَحْسَنُ نَدِيًّا",
+            "text_fr": "Et quand on leur récite Nos Versets évidents, ceux qui devinrent mécréants disent à ceux qui devinrent croyants: « Lequel des deux groupes est-il mieux placé et en meilleure compagnie ? »"
+        },
+        {
+            "index": 2324,
+            "sura": 19,
+            "aya": 74,
+            "text": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَحْسَنُ أَثَاثًا وَرِئْيًا",
+            "text_fr": "Que de générations n'Avons-Nous Fait périr, avant eux, qui étaient supérieures en richesses et en apparence !"
+        },
+        {
+            "index": 2325,
+            "sura": 19,
+            "aya": 75,
+            "text": "قُلْ مَنْ كَانَ فِي الضَّلَالَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَـٰنُ مَدًّا ۚ حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وَإِمَّا السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَانًا وَأَضْعَفُ جُنْدًا",
+            "text_fr": "Dis : «Quiconque est dans le fourvoiement, le Miséricordeur lui Prolongera un vrai prolongement. Jusqu'à ce qu'ils voient ce qu'on leur promettait : ou bien le châtiment ou bien l'Heure; alors ils sauront lequel est dans la pire des situations et le plus faible en compag-nons. »"
+        },
+        {
+            "index": 2326,
+            "sura": 19,
+            "aya": 76,
+            "text": "وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدًى ۗ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَرَدًّا",
+            "text_fr": "Et Allah Augmentera, à ceux qui furent guidés, une Direction infaillible. Et les durables œuvres méritoires —[ 388 }— sont meilleures, auprès de ton Seigneur, en rétribution et meilleures en conséquences."
+        },
+        {
+            "index": 2327,
+            "sura": 19,
+            "aya": 77,
+            "text": "أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+            "text_fr": "Dis-moi, celui qui mécrut en Nos Signes et dit : « J'aurai sûrement des biens et des enfants ! »,"
+        },
+        {
+            "index": 2328,
+            "sura": 19,
+            "aya": 78,
+            "text": "أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَـٰنِ عَهْدًا",
+            "text_fr": "a-t-il dévoilé l'Occulte ou bien a-t-il conclu un pacte avec le Miséricordeur ?!"
+        },
+        {
+            "index": 2329,
+            "sura": 19,
+            "aya": 79,
+            "text": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدًّا",
+            "text_fr": "Sûrement pas. Nous Inscrirons ce qu'il dit et Nous lui Prolongerons du châtiment un vrai prolongement."
+        },
+        {
+            "index": 2330,
+            "sura": 19,
+            "aya": 80,
+            "text": "وَنَرِثُهُ مَا يَقُولُ وَيَأْتِينَا فَرْدًا",
+            "text_fr": "Nous lui Ferons hériter ce qu'il dit, et il viendra à Nous tout à fait seul."
+        },
+        {
+            "index": 2331,
+            "sura": 19,
+            "aya": 81,
+            "text": "وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا",
+            "text_fr": "Et ils prirent d'autres divinités, à l'exclusion d'Allah : afin qu'ils leur soient une puissance."
+        },
+        {
+            "index": 2332,
+            "sura": 19,
+            "aya": 82,
+            "text": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+            "text_fr": "Sûrement pas. Ils mécroiront en leur adoration et se retourneront contre eux."
+        },
+        {
+            "index": 2333,
+            "sura": 19,
+            "aya": 83,
+            "text": "أَلَمْ تَرَ أَنَّا أَرْسَلْنَا الشَّيَاطِينَ عَلَى الْكَافِرِينَ تَؤُزُّهُمْ أَزًّا",
+            "text_fr": "N'as-tu donc pas vu que Nous Avons Envoyé les démons contre les mécréants pour les exciter une vraie excitation ?"
+        },
+        {
+            "index": 2334,
+            "sura": 19,
+            "aya": 84,
+            "text": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا",
+            "text_fr": "Ne te hâte donc pas contre eux, Nous leur Comptons un vrai compte :"
+        },
+        {
+            "index": 2335,
+            "sura": 19,
+            "aya": 85,
+            "text": "يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَـٰنِ وَفْدًا",
+            "text_fr": "le jour où Nous Rassemblerons les pieux auprès du Miséricordeur, honorés (sur des montures),"
+        },
+        {
+            "index": 2336,
+            "sura": 19,
+            "aya": 86,
+            "text": "وَنَسُوقُ الْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+            "text_fr": "et Nous Conduirons les malfaiteurs vers la Géhenne, assoiffés."
+        },
+        {
+            "index": 2337,
+            "sura": 19,
+            "aya": 87,
+            "text": "لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَـٰنِ عَهْدًا",
+            "text_fr": "Ils ne possèdent pas l'intercession, sauf ceux qui prirent pacte auprès du Miséricordeur."
+        },
+        {
+            "index": 2338,
+            "sura": 19,
+            "aya": 88,
+            "text": "وَقَالُوا اتَّخَذَ الرَّحْمَـٰنُ وَلَدًا",
+            "text_fr": "Et ils dirent : « Le Miséricordeur adopta un fils ! »"
+        },
+        {
+            "index": 2339,
+            "sura": 19,
+            "aya": 89,
+            "text": "لَقَدْ جِئْتُمْ شَيْئًا إِدًّا",
+            "text_fr": "Vous avez commis une chose inouïe,"
+        },
+        {
+            "index": 2340,
+            "sura": 19,
+            "aya": 90,
+            "text": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا",
+            "text_fr": "Peu s'en faut que les Cieux ne se fendent, que la terre ne s'entrouvre et que les montagnes ne s'écroulent avec fracas, € 359 H—"
+        },
+        {
+            "index": 2341,
+            "sura": 19,
+            "aya": 91,
+            "text": "أَنْ دَعَوْا لِلرَّحْمَـٰنِ وَلَدًا",
+            "text_fr": "d'avoir prétendu un fils au Miséricordeur !"
+        },
+        {
+            "index": 2342,
+            "sura": 19,
+            "aya": 92,
+            "text": "وَمَا يَنْبَغِي لِلرَّحْمَـٰنِ أَنْ يَتَّخِذَ وَلَدًا",
+            "text_fr": "Et il n'est pas de mise que le Miséricordeur adopte un fils !"
+        },
+        {
+            "index": 2343,
+            "sura": 19,
+            "aya": 93,
+            "text": "إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَـٰنِ عَبْدًا",
+            "text_fr": "Car tout ce qui est dans les Cieux et la terre viendra en serviteur devant le Miséricordeur."
+        },
+        {
+            "index": 2344,
+            "sura": 19,
+            "aya": 94,
+            "text": "لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا",
+            "text_fr": "En fait, Il les A Recensés et les A Dénombrés un vrai dénombrement."
+        },
+        {
+            "index": 2345,
+            "sura": 19,
+            "aya": 95,
+            "text": "وَكُلُّهُمْ آتِيهِ يَوْمَ الْقِيَامَةِ فَرْدًا",
+            "text_fr": "Et tous viendront devant Lui, le Jour de la Résurrection, tout à fait seuls."
+        },
+        {
+            "index": 2346,
+            "sura": 19,
+            "aya": 96,
+            "text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَـٰنُ وُدًّا",
+            "text_fr": "Certes, ceux qui devinrent croyants et ont fait les œuvres méritoires, le Miséricordeur les Comblera d'affection."
+        },
+        {
+            "index": 2347,
+            "sura": 19,
+            "aya": 97,
+            "text": "فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ الْمُتَّقِينَ وَتُنْذِرَ بِهِ قَوْمًا لُدًّا",
+            "text_fr": "Nous ne l'Avons Rendu facile en ta langue qu'afin que tu puisses, par son intermédiaire, annoncer la bonne nouvelle aux pieux et avertir des gens contestataires."
+        },
+        {
+            "index": 2348,
+            "sura": 19,
+            "aya": 98,
+            "text": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هَلْ تُحِسُّ مِنْهُمْ مِنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا",
+            "text_fr": "— Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Combien n'Avons-Nous Fait périr de générations avant eux ! Perçois-tu quelqu'un d'entre eux, ou entends-tu d'eux le moindre bruit ? —[ 390 }—"
+        }
+    ]
+}

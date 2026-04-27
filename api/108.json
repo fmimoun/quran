@@ -1,0 +1,27 @@
+{
+    "sura": 108,
+    "nombre_versets": 3,
+    "versets": [
+        {
+            "index": 6205,
+            "sura": 108,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+            "text_fr": "Nous te Donnâmes, en fait, l'abondance."
+        },
+        {
+            "index": 6206,
+            "sura": 108,
+            "aya": 2,
+            "text": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+            "text_fr": "Prie donc ton Seigneur et immole."
+        },
+        {
+            "index": 6207,
+            "sura": 108,
+            "aya": 3,
+            "text": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Certes, celui qui te hait sera, lui, le sans postérité. —j"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "sura": 97,
+    "nombre_versets": 5,
+    "versets": [
+        {
+            "index": 6126,
+            "sura": 97,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+            "text_fr": "Nous l'Avons Révélé, en fait, en la Nuit de la Grandeur."
+        },
+        {
+            "index": 6127,
+            "sura": 97,
+            "aya": 2,
+            "text": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+            "text_fr": "Et que sais-tu, qu'est ce que la Nuit de la Grandeur ?"
+        },
+        {
+            "index": 6128,
+            "sura": 97,
+            "aya": 3,
+            "text": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
+            "text_fr": "La Nuit de la Grandeur vaut mieux que mille mois."
+        },
+        {
+            "index": 6129,
+            "sura": 97,
+            "aya": 4,
+            "text": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ",
+            "text_fr": "Les Anges y descendent, et l'Esprit parmi eux, par le Vouloir d'Allah avec tout ce qu'Il A Décrété."
+        },
+        {
+            "index": 6130,
+            "sura": 97,
+            "aya": 5,
+            "text": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Elle est toute paix jusqu'au lever de l'aube. — H—"
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "sura": 52,
+    "nombre_versets": 49,
+    "versets": [
+        {
+            "index": 4736,
+            "sura": 52,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ وَالطُّورِ",
+            "text_fr": "Parat-Tür,"
+        },
+        {
+            "index": 4737,
+            "sura": 52,
+            "aya": 2,
+            "text": "وَكِتَابٍ مَسْطُورٍ",
+            "text_fr": "et par un Livre écrit en lignes,"
+        },
+        {
+            "index": 4738,
+            "sura": 52,
+            "aya": 3,
+            "text": "فِي رَقٍّ مَنْشُورٍ",
+            "text_fr": "— sur un parchemin déployé,"
+        },
+        {
+            "index": 4739,
+            "sura": 52,
+            "aya": 4,
+            "text": "وَالْبَيْتِ الْمَعْمُورِ",
+            "text_fr": "et par la Maison peuplée,"
+        },
+        {
+            "index": 4740,
+            "sura": 52,
+            "aya": 5,
+            "text": "وَالسَّقْفِ الْمَرْفُوعِ",
+            "text_fr": "et par le ciel élevé,"
+        },
+        {
+            "index": 4741,
+            "sura": 52,
+            "aya": 6,
+            "text": "وَالْبَحْرِ الْمَسْجُورِ",
+            "text_fr": "_ et par la mer enflammée,"
+        },
+        {
+            "index": 4742,
+            "sura": 52,
+            "aya": 7,
+            "text": "إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ",
+            "text_fr": "le châtiment de ton Seigneur aura sûrement lieu."
+        },
+        {
+            "index": 4743,
+            "sura": 52,
+            "aya": 8,
+            "text": "مَا لَهُ مِنْ دَافِعٍ",
+            "text_fr": "Rien ne pourra le détourner."
+        },
+        {
+            "index": 4744,
+            "sura": 52,
+            "aya": 9,
+            "text": "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا",
+            "text_fr": "Le Jour où le ciel vacillera d'un vrai vacillement,"
+        },
+        {
+            "index": 4745,
+            "sura": 52,
+            "aya": 10,
+            "text": "وَتَسِيرُ الْجِبَالُ سَيْرًا",
+            "text_fr": "et que les montagnes se déplaceront un vrai déplacement,"
+        },
+        {
+            "index": 4746,
+            "sura": 52,
+            "aya": 11,
+            "text": "فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+            "text_fr": "malheur alors ce Jour-là aux démenteurs,"
+        },
+        {
+            "index": 4747,
+            "sura": 52,
+            "aya": 12,
+            "text": "الَّذِينَ هُمْ فِي خَوْضٍ يَلْعَبُونَ",
+            "text_fr": "ceux qui badinent dans un pataugis."
+        },
+        {
+            "index": 4748,
+            "sura": 52,
+            "aya": 13,
+            "text": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+            "text_fr": "Le Jour où ils seront précipités dans le Feu de la Géhenne une vraie précipitation :"
+        },
+        {
+            "index": 4749,
+            "sura": 52,
+            "aya": 14,
+            "text": "هَـٰذِهِ النَّارُ الَّتِي كُنْتُمْ بِهَا تُكَذِّبُونَ",
+            "text_fr": "Vvoici le Feu que vous démentiez !"
+        },
+        {
+            "index": 4750,
+            "sura": 52,
+            "aya": 15,
+            "text": "أَفَسِحْرٌ هَـٰذَا أَمْ أَنْتُمْ لَا تُبْصِرُونَ",
+            "text_fr": "Est-ce de la magie cela, ou bien ne voyez-vous pas ?"
+        },
+        {
+            "index": 4751,
+            "sura": 52,
+            "aya": 16,
+            "text": "اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+            "text_fr": "Enfoncez-vous-y ! Que vous patientiez ou ne patientiez pas, ce sera de même pour vous. Vous ne faites que subir ce que vous faisiez. ** _ Le nom d'un Mont au Sinai — 0—"
+        },
+        {
+            "index": 4752,
+            "sura": 52,
+            "aya": 17,
+            "text": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ",
+            "text_fr": "Certes, les pieux sont dans des Paradis et des félicités,"
+        },
+        {
+            "index": 4753,
+            "sura": 52,
+            "aya": 18,
+            "text": "فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ",
+            "text_fr": "jouissant de ce que leur Seigneur leur A Donné. Et leur Seigneur leur A Épargné le châtiment de l'Enfer."
+        },
+        {
+            "index": 4754,
+            "sura": 52,
+            "aya": 19,
+            "text": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ",
+            "text_fr": "Mangez et buvez en toute sérénité, en raison de ce que vous faisiez,"
+        },
+        {
+            "index": 4755,
+            "sura": 52,
+            "aya": 20,
+            "text": "مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَصْفُوفَةٍ ۖ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+            "text_fr": "accoudés sur des divans par rangées. Et Nous leur Donnâmes pour conjointes, des Houris aux beaux yeux."
+        },
+        {
+            "index": 4756,
+            "sura": 52,
+            "aya": 21,
+            "text": "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ ۚ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ",
+            "text_fr": "Et ceux qui devinrent croyants et que leur descendance a suivis, de pleine foi, Nous Fîmes que leur descendance les rejoigne et Nous ne leur Avons rien Diminué de leurs œuvres : Tout être humain est en gage de ce qu'il a acquis."
+        },
+        {
+            "index": 4757,
+            "sura": 52,
+            "aya": 22,
+            "text": "وَأَمْدَدْنَاهُمْ بِفَاكِهَةٍ وَلَحْمٍ مِمَّا يَشْتَهُونَ",
+            "text_fr": "Et Nous les Avons Munis de fruits et de viandes de ce qu'ils désirent."
+        },
+        {
+            "index": 4758,
+            "sura": 52,
+            "aya": 23,
+            "text": "يَتَنَازَعُونَ فِيهَا كَأْسًا لَا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+            "text_fr": "Ils s'y échangeront une coupe qui ne provoque ni propos inconsidérés, ni culpabilité."
+        },
+        {
+            "index": 4759,
+            "sura": 52,
+            "aya": 24,
+            "text": "وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَكْنُونٌ",
+            "text_fr": "Et ils seront servis à la ronde, par de jeunes gens à eux, on dirait des perles bien préservées."
+        },
+        {
+            "index": 4760,
+            "sura": 52,
+            "aya": 25,
+            "text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+            "text_fr": "Etils s'approchèrent les uns des autres en s'interrogeant."
+        },
+        {
+            "index": 4761,
+            "sura": 52,
+            "aya": 26,
+            "text": "قَالُوا إِنَّا كُنَّا قَبْلُ فِي أَهْلِنَا مُشْفِقِينَ",
+            "text_fr": "ls dirent : « Nous étions, auparavant, parmi nos familles dans la crainte,"
+        },
+        {
+            "index": 4762,
+            "sura": 52,
+            "aya": 27,
+            "text": "فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ",
+            "text_fr": "et maintenant Allah nous À Fait don et nous A Préservés du châtiment du Samüm* ."
+        },
+        {
+            "index": 4763,
+            "sura": 52,
+            "aya": 28,
+            "text": "إِنَّا كُنَّا مِنْ قَبْلُ نَدْعُوهُ ۖ إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ",
+            "text_fr": "Nous, nous L'invoquions avant cela. Il Est, Lui, le Bienfaisant, le Miséricordieux »."
+        },
+        {
+            "index": 4764,
+            "sura": 52,
+            "aya": 29,
+            "text": "فَذَكِّرْ فَمَا أَنْتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+            "text_fr": "Rappelle donc. Car tu n'es ni devin ni fou, par la Grâce de ton Seigneur. *#27 Un des noms de la Géhenne. —— es H—"
+        },
+        {
+            "index": 4765,
+            "sura": 52,
+            "aya": 30,
+            "text": "أَمْ يَقُولُونَ شَاعِرٌ نَتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ",
+            "text_fr": "Ou bien disent-ils : « C'est un poète, guettons contre lui les vicissitudes du temps »."
+        },
+        {
+            "index": 4766,
+            "sura": 52,
+            "aya": 31,
+            "text": "قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُمْ مِنَ الْمُتَرَبِّصِينَ",
+            "text_fr": "Dis: « Guettez, car je suis avec vous de ceux qui guettent »."
+        },
+        {
+            "index": 4767,
+            "sura": 52,
+            "aya": 32,
+            "text": "أَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَـٰذَا ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+            "text_fr": "Ou bien leurs raisons leur ordonnent-elles cela. Ou bien ce sont des gens qui outrepassent ?"
+        },
+        {
+            "index": 4768,
+            "sura": 52,
+            "aya": 33,
+            "text": "أَمْ يَقُولُونَ تَقَوَّلَهُ ۚ بَلْ لَا يُؤْمِنُونَ",
+            "text_fr": "Ou bien disent-ils : « Il l'a forgé ? » Bien au contraire, ils ne sont point croyants."
+        },
+        {
+            "index": 4769,
+            "sura": 52,
+            "aya": 34,
+            "text": "فَلْيَأْتُوا بِحَدِيثٍ مِثْلِهِ إِنْ كَانُوا صَادِقِينَ",
+            "text_fr": "Qu'ils apportent donc un discours qui soit semblable, s'ils sont véridiques."
+        },
+        {
+            "index": 4770,
+            "sura": 52,
+            "aya": 35,
+            "text": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ",
+            "text_fr": "Ou bien ont-ils été créés sans Créateur ? Ou bien sont-ils eux les créateurs ?"
+        },
+        {
+            "index": 4771,
+            "sura": 52,
+            "aya": 36,
+            "text": "أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ ۚ بَلْ لَا يُوقِنُونَ",
+            "text_fr": "Ou bien ont-ils créé les Cieux et la terre ? Bien au contraire, ils ne croient pas fermement."
+        },
+        {
+            "index": 4772,
+            "sura": 52,
+            "aya": 37,
+            "text": "أَمْ عِنْدَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ",
+            "text_fr": "Ou bien ont-ils les Trésors de ton Seigneur, ou bien sont- ils eux les dominateurs ?"
+        },
+        {
+            "index": 4773,
+            "sura": 52,
+            "aya": 38,
+            "text": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُمْ بِسُلْطَانٍ مُبِينٍ",
+            "text_fr": "Ou bien ont-ils une échelle d'où ils écoutent ? Que celui des leurs qui écoute apporte une preuve évidente !"
+        },
+        {
+            "index": 4774,
+            "sura": 52,
+            "aya": 39,
+            "text": "أَمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ",
+            "text_fr": "Ou bien les filles sont-elles pour Lui, et pour vous les garçons ?"
+        },
+        {
+            "index": 4775,
+            "sura": 52,
+            "aya": 40,
+            "text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+            "text_fr": "Ou bien leur demandes-tu un profit, de sorte qu'ils sont dans la gêne à cause de quelque dette ?"
+        },
+        {
+            "index": 4776,
+            "sura": 52,
+            "aya": 41,
+            "text": "أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+            "text_fr": "Ou bien possèdent-ils l'Occulte de sorte qu'ils écrivent ?"
+        },
+        {
+            "index": 4777,
+            "sura": 52,
+            "aya": 42,
+            "text": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ",
+            "text_fr": "Ou bien veulent-ils une ruse, or ceux qui devinrent mécréants sont, eux, ceux qui subiront la ruse !"
+        },
+        {
+            "index": 4778,
+            "sura": 52,
+            "aya": 43,
+            "text": "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+            "text_fr": "Ou bien ont-ils un autre Dieu qu'Allah ? Gloire à Allah, Il Est bien au-dessus de ce qu'ils associent !"
+        },
+        {
+            "index": 4779,
+            "sura": 52,
+            "aya": 44,
+            "text": "وَإِنْ يَرَوْا كِسْفًا مِنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَرْكُومٌ",
+            "text_fr": "Et s'ils voyaient un morceau du ciel tombant, ils diraient : « Des nuages superposés ! »."
+        },
+        {
+            "index": 4780,
+            "sura": 52,
+            "aya": 45,
+            "text": "فَذَرْهُمْ حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ",
+            "text_fr": "Délaisse-les donc jusqu'à ce qu'ils rencontrent le Jour au —[ 642 }— cours duquel ils seront foudroyés."
+        },
+        {
+            "index": 4781,
+            "sura": 52,
+            "aya": 46,
+            "text": "يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنْصَرُونَ",
+            "text_fr": "Le Jour où leur ruse ne leur servira à rien, et ils ne triompheront point."
+        },
+        {
+            "index": 4782,
+            "sura": 52,
+            "aya": 47,
+            "text": "وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+            "text_fr": "Et sûrement, à ceux qui furent injustes un châtiment pire que cela, mais la plupart d'entre eux ne savent pas."
+        },
+        {
+            "index": 4783,
+            "sura": 52,
+            "aya": 48,
+            "text": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+            "text_fr": "Et persévère, face au jugement de ton Seigneur, car tu es sous Notre bienveillance. Et exalte la gloire de ton Seigneur quand tu te lèves pour la prière."
+        },
+        {
+            "index": 4784,
+            "sura": 52,
+            "aya": 49,
+            "text": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ",
+            "text_fr": "— Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Et en une part de la nuit, exalte-Le, ainsi qu'à la disparition des étoiles. —— 5 H—————-—"
+        }
+    ]
+}

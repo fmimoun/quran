@@ -1,0 +1,391 @@
+{
+    "sura": 54,
+    "nombre_versets": 55,
+    "versets": [
+        {
+            "index": 4847,
+            "sura": 54,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ",
+            "text_fr": "L'Heure approche et la lune s'est fendue."
+        },
+        {
+            "index": 4848,
+            "sura": 54,
+            "aya": 2,
+            "text": "وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ",
+            "text_fr": "Et s'ils voient un Signe, ils s'écartent et disent : « Magie continuelle ! »"
+        },
+        {
+            "index": 4849,
+            "sura": 54,
+            "aya": 3,
+            "text": "وَكَذَّبُوا وَاتَّبَعُوا أَهْوَاءَهُمْ ۚ وَكُلُّ أَمْرٍ مُسْتَقِرٌّ",
+            "text_fr": "Et ils démentirent et suivirent leurs passions. Mais toute chose est rétablie."
+        },
+        {
+            "index": 4850,
+            "sura": 54,
+            "aya": 4,
+            "text": "وَلَقَدْ جَاءَهُمْ مِنَ الْأَنْبَاءِ مَا فِيهِ مُزْدَجَرٌ",
+            "text_fr": "Etdes nouvelles, ils reçurent en fait ce qui contient des réprimandes :"
+        },
+        {
+            "index": 4851,
+            "sura": 54,
+            "aya": 5,
+            "text": "حِكْمَةٌ بَالِغَةٌ ۖ فَمَا تُغْنِ النُّذُرُ",
+            "text_fr": "‘une sagesse accomplie. A quoi donc servent les avertissements ?"
+        },
+        {
+            "index": 4852,
+            "sura": 54,
+            "aya": 6,
+            "text": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ إِلَىٰ شَيْءٍ نُكُرٍ",
+            "text_fr": "Détourne-toi d'eux. Le jour où le héraut les appellera à une chose incroyable,"
+        },
+        {
+            "index": 4853,
+            "sura": 54,
+            "aya": 7,
+            "text": "خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُنْتَشِرٌ",
+            "text_fr": "leurs yeux humblement baissés, ils sortiront des tombeaux comme s'ils étaient des sauterelles répandues,"
+        },
+        {
+            "index": 4854,
+            "sura": 54,
+            "aya": 8,
+            "text": "مُهْطِعِينَ إِلَى الدَّاعِ ۖ يَقُولُ الْكَافِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ",
+            "text_fr": "accourant vers le héraut. Ceux qui devinrent mécréants diront : « C'est un Jour bien difficile »."
+        },
+        {
+            "index": 4855,
+            "sura": 54,
+            "aya": 9,
+            "text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ",
+            "text_fr": "Les gens de Noé ont déjà démenti avant eux, alors ils démentirent Notre serviteur et dirent : « C'est un fou », et il fut réprimandé."
+        },
+        {
+            "index": 4856,
+            "sura": 54,
+            "aya": 10,
+            "text": "فَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانْتَصِرْ",
+            "text_fr": "Alors il invoqua son Seigneur: «Je suis vaincu, Triomphe »."
+        },
+        {
+            "index": 4857,
+            "sura": 54,
+            "aya": 11,
+            "text": "فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ",
+            "text_fr": "Nous Ouvrîmes alors les portes du Ciel avec une eau qui tombe à torrent. — ——"
+        },
+        {
+            "index": 4858,
+            "sura": 54,
+            "aya": 12,
+            "text": "وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ",
+            "text_fr": "Et Nous Fîmes jaillir des sources de la terre, alors les eaux se rencontrèrent selon un Décret déjà déterminé."
+        },
+        {
+            "index": 4859,
+            "sura": 54,
+            "aya": 13,
+            "text": "وَحَمَلْنَاهُ عَلَىٰ ذَاتِ أَلْوَاحٍ وَدُسُرٍ",
+            "text_fr": "Et Nous le* portâmes sur ce qui est fait de planches et de clous,**"
+        },
+        {
+            "index": 4860,
+            "sura": 54,
+            "aya": 14,
+            "text": "تَجْرِي بِأَعْيُنِنَا جَزَاءً لِمَنْ كَانَ كُفِرَ",
+            "text_fr": "qui vogue sous Notre bienveillance, en récompense à celui en qui on a mécru."
+        },
+        {
+            "index": 4861,
+            "sura": 54,
+            "aya": 15,
+            "text": "وَلَقَدْ تَرَكْنَاهَا آيَةً فَهَلْ مِنْ مُدَّكِرٍ",
+            "text_fr": "Et Nous la Laissämes comme Signe. Y a-t-il donc quelqu'un qui réfléchisse ?"
+        },
+        {
+            "index": 4862,
+            "sura": 54,
+            "aya": 16,
+            "text": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+            "text_fr": "Quels ne furent donc Mon châtiment et Mes avertissements ?"
+        },
+        {
+            "index": 4863,
+            "sura": 54,
+            "aya": 17,
+            "text": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+            "text_fr": "Et Nous Facilitämes, en fait, le Qur'ân pour la réflexion*. Y a-t-il donc quelqu'un qui réfléchisse ?"
+        },
+        {
+            "index": 4864,
+            "sura": 54,
+            "aya": 18,
+            "text": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+            "text_fr": "Les ‘Ad ont démenti. Quels ne furent donc Mon châtiment et Mes avertissements ?"
+        },
+        {
+            "index": 4865,
+            "sura": 54,
+            "aya": 19,
+            "text": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي يَوْمِ نَحْسٍ مُسْتَمِرٍّ",
+            "text_fr": "Nous Déchaînâmes contre eux un vent strident-glacial, en un jour néfaste continuel,"
+        },
+        {
+            "index": 4866,
+            "sura": 54,
+            "aya": 20,
+            "text": "تَنْزِعُ النَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُنْقَعِرٍ",
+            "text_fr": "qui arrache les hommes comme s'ils étaient des souches de palmiers déracinés."
+        },
+        {
+            "index": 4867,
+            "sura": 54,
+            "aya": 21,
+            "text": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+            "text_fr": "Quels ne furent donc Mon châtiment et Mes avertissements ?"
+        },
+        {
+            "index": 4868,
+            "sura": 54,
+            "aya": 22,
+            "text": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+            "text_fr": "Et Nous Facilitâmes le Qur'än pour la réflexion. Y a-t-il donc quelqu'un qui réfléchisse ?"
+        },
+        {
+            "index": 4869,
+            "sura": 54,
+            "aya": 23,
+            "text": "كَذَّبَتْ ثَمُودُ بِالنُّذُرِ",
+            "text_fr": "Les Tamüd ont démenti les avertissements."
+        },
+        {
+            "index": 4870,
+            "sura": 54,
+            "aya": 24,
+            "text": "فَقَالُوا أَبَشَرًا مِنَّا وَاحِدًا نَتَّبِعُهُ إِنَّا إِذًا لَفِي ضَلَالٍ وَسُعُرٍ",
+            "text_fr": "Ils dirent : « Est-ce un être humain d'entre nous, un seul, que nous suivrons? Nous serions sûrement en fourvoiement et fureur ! #13 Allusion faite à Noé ** allusion faite à l'Arche de Noë. # 17 ou pour l'apprendre par cœur. —[ 649 ]—"
+        },
+        {
+            "index": 4871,
+            "sura": 54,
+            "aya": 25,
+            "text": "أَأُلْقِيَ الذِّكْرُ عَلَيْهِ مِنْ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+            "text_fr": "La Révélation lui aurait-elle été donnée à lui seul d'entre nous ?! Plutôt, c'est un menteur insolent ! »"
+        },
+        {
+            "index": 4872,
+            "sura": 54,
+            "aya": 26,
+            "text": "سَيَعْلَمُونَ غَدًا مَنِ الْكَذَّابُ الْأَشِرُ",
+            "text_fr": "Demain, ils sauront qui est le menteur insolent :"
+        },
+        {
+            "index": 4873,
+            "sura": 54,
+            "aya": 27,
+            "text": "إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ",
+            "text_fr": "Nous Enverrons la chamelle comme épreuve pour eux. Guette-les donc et tiens ferme à ta persévérance."
+        },
+        {
+            "index": 4874,
+            "sura": 54,
+            "aya": 28,
+            "text": "وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُحْتَضَرٌ",
+            "text_fr": "Et informe-les que l'eau est un partage entre eux. Chaque portion à boire sera assistée."
+        },
+        {
+            "index": 4875,
+            "sura": 54,
+            "aya": 29,
+            "text": "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+            "text_fr": "Alors ils appelèrent leur compagnon qui s'arma et coupa les jarrets."
+        },
+        {
+            "index": 4876,
+            "sura": 54,
+            "aya": 30,
+            "text": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+            "text_fr": "Quels ne furent donc Mon châtiment et Mes avertissements ?"
+        },
+        {
+            "index": 4877,
+            "sura": 54,
+            "aya": 31,
+            "text": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ",
+            "text_fr": "Nous Envoyâmes contre eux un seul Son-destructif, de sorte qu'ils furent comme la paille de fanes de l'écurie."
+        },
+        {
+            "index": 4878,
+            "sura": 54,
+            "aya": 32,
+            "text": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+            "text_fr": "Et Nous Facilitämes en fait le Qur'än pour la réflexion. Y a-t-il donc quelqu'un qui réfléchisse ?"
+        },
+        {
+            "index": 4879,
+            "sura": 54,
+            "aya": 33,
+            "text": "كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ",
+            "text_fr": "Les gens de Loth démentirent les avertissements."
+        },
+        {
+            "index": 4880,
+            "sura": 54,
+            "aya": 34,
+            "text": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّا آلَ لُوطٍ ۖ نَجَّيْنَاهُمْ بِسَحَرٍ",
+            "text_fr": "Nous Envoyâmes contre eux une tourmente de cailloux, sauf la famille Loth : Nous les Sauvâmes une certaine aube,"
+        },
+        {
+            "index": 4881,
+            "sura": 54,
+            "aya": 35,
+            "text": "نِعْمَةً مِنْ عِنْدِنَا ۚ كَذَٰلِكَ نَجْزِي مَنْ شَكَرَ",
+            "text_fr": "par Grâce de Notre part. Ainsi Nous récompensons quiconque a été reconnaissant."
+        },
+        {
+            "index": 4882,
+            "sura": 54,
+            "aya": 36,
+            "text": "وَلَقَدْ أَنْذَرَهُمْ بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ",
+            "text_fr": "Et il les avait avertis de Notre Saisie, mais ils disputèrent au sujet des avertissements."
+        },
+        {
+            "index": 4883,
+            "sura": 54,
+            "aya": 37,
+            "text": "وَلَقَدْ رَاوَدُوهُ عَنْ ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ فَذُوقُوا عَذَابِي وَنُذُرِ",
+            "text_fr": "Et ils le tentèrent afin de séduire ses hôtes. Alors Nous Effaçâmes leurs yeux : subissez alors Mon châtiment et Mes avertissements."
+        },
+        {
+            "index": 4884,
+            "sura": 54,
+            "aya": 38,
+            "text": "وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُسْتَقِرٌّ",
+            "text_fr": "Et le lendemain matin, un châtiment perpétuel les surprit."
+        },
+        {
+            "index": 4885,
+            "sura": 54,
+            "aya": 39,
+            "text": "فَذُوقُوا عَذَابِي وَنُذُرِ",
+            "text_fr": "Subissez alors Mon châtiment et Mes avertissements."
+        },
+        {
+            "index": 4886,
+            "sura": 54,
+            "aya": 40,
+            "text": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+            "text_fr": "Et Nous Facilitâmes, en fait, le Qur'än pour la réflexion. Y a-t-il donc quelqu'un qui réfléchisse ? —j"
+        },
+        {
+            "index": 4887,
+            "sura": 54,
+            "aya": 41,
+            "text": "وَلَقَدْ جَاءَ آلَ فِرْعَوْنَ النُّذُرُ",
+            "text_fr": "Et les avertissements sont parvenus, en fait, à la famille de Pharaon."
+        },
+        {
+            "index": 4888,
+            "sura": 54,
+            "aya": 42,
+            "text": "كَذَّبُوا بِآيَاتِنَا كُلِّهَا فَأَخَذْنَاهُمْ أَخْذَ عَزِيزٍ مُقْتَدِرٍ",
+            "text_fr": "lls démentirent Nos Signes en totalité. Alors Nous les Saisîmes le Saisissement d'un Invincible vraiment Omnipuissant."
+        },
+        {
+            "index": 4889,
+            "sura": 54,
+            "aya": 43,
+            "text": "أَكُفَّارُكُمْ خَيْرٌ مِنْ أُولَـٰئِكُمْ أَمْ لَكُمْ بَرَاءَةٌ فِي الزُّبُرِ",
+            "text_fr": "Vos mécréants sont-ils meilleurs que ceux-ci, ou bien avez-vous une immunité dans les textes sacrés ?"
+        },
+        {
+            "index": 4890,
+            "sura": 54,
+            "aya": 44,
+            "text": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُنْتَصِرٌ",
+            "text_fr": "Ou bien disent-ils : « Nous sommes une assemblée qui triomphera ? »"
+        },
+        {
+            "index": 4891,
+            "sura": 54,
+            "aya": 45,
+            "text": "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ",
+            "text_fr": "L'assemblée sera vaincue et ils s'écarteront en tournant le dos."
+        },
+        {
+            "index": 4892,
+            "sura": 54,
+            "aya": 46,
+            "text": "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+            "text_fr": "Plutôt, l'Heure est leur moment. Et l'Heure est plus pénible et plus amère !"
+        },
+        {
+            "index": 4893,
+            "sura": 54,
+            "aya": 47,
+            "text": "إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ",
+            "text_fr": "Certes, les malfaiteurs sont en fourvoiement et fureur."
+        },
+        {
+            "index": 4894,
+            "sura": 54,
+            "aya": 48,
+            "text": "يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ",
+            "text_fr": "Le Jour où ils seront traînés dans le Feu sur leurs visages : « Subissez le toucher de Saqar »*"
+        },
+        {
+            "index": 4895,
+            "sura": 54,
+            "aya": 49,
+            "text": "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+            "text_fr": "Toute chose Nous l'Avons Créée selon une juste mesure."
+        },
+        {
+            "index": 4896,
+            "sura": 54,
+            "aya": 50,
+            "text": "وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ",
+            "text_fr": "Et Notre Décret n'est qu'une seule (parole) comme un clin d'œil."
+        },
+        {
+            "index": 4897,
+            "sura": 54,
+            "aya": 51,
+            "text": "وَلَقَدْ أَهْلَكْنَا أَشْيَاعَكُمْ فَهَلْ مِنْ مُدَّكِرٍ",
+            "text_fr": "Et Nous Fimes effectivement périr vos sectateurs. Y a-t- il donc quelqu'un qui réfléchisse ?"
+        },
+        {
+            "index": 4898,
+            "sura": 54,
+            "aya": 52,
+            "text": "وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ",
+            "text_fr": "Et tout ce qu'ils ont commis est enregistré dans les textes sacrés."
+        },
+        {
+            "index": 4899,
+            "sura": 54,
+            "aya": 53,
+            "text": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُسْتَطَرٌ",
+            "text_fr": "Et toute chose, petite ou grande, est écrite."
+        },
+        {
+            "index": 4900,
+            "sura": 54,
+            "aya": 54,
+            "text": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ",
+            "text_fr": "Certes, les pieux sont dans des Paradis et des fleuves,"
+        },
+        {
+            "index": 4901,
+            "sura": 54,
+            "aya": 55,
+            "text": "فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرٍ",
+            "text_fr": "— Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux en une place vénérable, auprès d'un Grand Roi vraiment Omnipuissant. *48 Un des noms de la Géhenne. — r ——"
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "sura": 74,
+    "nombre_versets": 56,
+    "versets": [
+        {
+            "index": 5496,
+            "sura": 74,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُدَّثِّرُ",
+            "text_fr": "Otoi, l'enveloppé !"
+        },
+        {
+            "index": 5497,
+            "sura": 74,
+            "aya": 2,
+            "text": "قُمْ فَأَنْذِرْ",
+            "text_fr": "Lève-toi et avertis,"
+        },
+        {
+            "index": 5498,
+            "sura": 74,
+            "aya": 3,
+            "text": "وَرَبَّكَ فَكَبِّرْ",
+            "text_fr": "et glorifie ton Seigneur,"
+        },
+        {
+            "index": 5499,
+            "sura": 74,
+            "aya": 4,
+            "text": "وَثِيَابَكَ فَطَهِّرْ",
+            "text_fr": "et purifie tes vêtements,"
+        },
+        {
+            "index": 5500,
+            "sura": 74,
+            "aya": 5,
+            "text": "وَالرُّجْزَ فَاهْجُرْ",
+            "text_fr": "et évite les impuretés,"
+        },
+        {
+            "index": 5501,
+            "sura": 74,
+            "aya": 6,
+            "text": "وَلَا تَمْنُنْ تَسْتَكْثِرُ",
+            "text_fr": "et ne fais pas don pour amasser,"
+        },
+        {
+            "index": 5502,
+            "sura": 74,
+            "aya": 7,
+            "text": "وَلِرَبِّكَ فَاصْبِرْ",
+            "text_fr": "et persévère envers ton Seigneur."
+        },
+        {
+            "index": 5503,
+            "sura": 74,
+            "aya": 8,
+            "text": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+            "text_fr": "Quand donc on sonnera du Cor,"
+        },
+        {
+            "index": 5504,
+            "sura": 74,
+            "aya": 9,
+            "text": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+            "text_fr": "ce sera, ce Jour-là, un Jour difficile"
+        },
+        {
+            "index": 5505,
+            "sura": 74,
+            "aya": 10,
+            "text": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ",
+            "text_fr": "pour les mécréants, point facile."
+        },
+        {
+            "index": 5506,
+            "sura": 74,
+            "aya": 11,
+            "text": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
+            "text_fr": "Laisse-Moi avec celui que J'ai Créé tout seul."
+        },
+        {
+            "index": 5507,
+            "sura": 74,
+            "aya": 12,
+            "text": "وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا",
+            "text_fr": "Età qui J'Ai donné des biens sans fin,"
+        },
+        {
+            "index": 5508,
+            "sura": 74,
+            "aya": 13,
+            "text": "وَبَنِينَ شُهُودًا",
+            "text_fr": "et des enfants sous les yeux,"
+        },
+        {
+            "index": 5509,
+            "sura": 74,
+            "aya": 14,
+            "text": "وَمَهَّدْتُ لَهُ تَمْهِيدًا",
+            "text_fr": "et Je lui Ai Facilité une vraie facilitation."
+        },
+        {
+            "index": 5510,
+            "sura": 74,
+            "aya": 15,
+            "text": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+            "text_fr": "Ensuite, il est avide que J'Augmente !"
+        },
+        {
+            "index": 5511,
+            "sura": 74,
+            "aya": 16,
+            "text": "كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا",
+            "text_fr": "Jamais ! Il était hostile à Nos Versets."
+        },
+        {
+            "index": 5512,
+            "sura": 74,
+            "aya": 17,
+            "text": "سَأُرْهِقُهُ صَعُودًا",
+            "text_fr": "Je le Tourmenterai en accroissant."
+        },
+        {
+            "index": 5513,
+            "sura": 74,
+            "aya": 18,
+            "text": "إِنَّهُ فَكَّرَ وَقَدَّرَ",
+            "text_fr": "1l a réfléchi, et il a résolu…"
+        },
+        {
+            "index": 5514,
+            "sura": 74,
+            "aya": 19,
+            "text": "فَقُتِلَ كَيْفَ قَدَّرَ",
+            "text_fr": "Maudit soit-il, en ce qu'il a résolu !"
+        },
+        {
+            "index": 5515,
+            "sura": 74,
+            "aya": 20,
+            "text": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+            "text_fr": "Ensuite, maudit soit-il, en ce qu'il a résolu !"
+        },
+        {
+            "index": 5516,
+            "sura": 74,
+            "aya": 21,
+            "text": "ثُمَّ نَظَرَ",
+            "text_fr": "Puis, il a pensé…"
+        },
+        {
+            "index": 5517,
+            "sura": 74,
+            "aya": 22,
+            "text": "ثُمَّ عَبَسَ وَبَسَرَ",
+            "text_fr": "Ensuite, il fronça les sourcils et s'assombrit. — m ——"
+        },
+        {
+            "index": 5518,
+            "sura": 74,
+            "aya": 23,
+            "text": "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ",
+            "text_fr": "Ensuite, il tourna le dos et s'enorgueillit,"
+        },
+        {
+            "index": 5519,
+            "sura": 74,
+            "aya": 24,
+            "text": "فَقَالَ إِنْ هَـٰذَا إِلَّا سِحْرٌ يُؤْثَرُ",
+            "text_fr": "alors il dit : « Cela n'est que de la magie transmise,"
+        },
+        {
+            "index": 5520,
+            "sura": 74,
+            "aya": 25,
+            "text": "إِنْ هَـٰذَا إِلَّا قَوْلُ الْبَشَرِ",
+            "text_fr": "ce ne sont que les paroles des êtres humains ! »"
+        },
+        {
+            "index": 5521,
+            "sura": 74,
+            "aya": 26,
+            "text": "سَأُصْلِيهِ سَقَرَ",
+            "text_fr": "Je l'Enfoncerai dans Saqar.*"
+        },
+        {
+            "index": 5522,
+            "sura": 74,
+            "aya": 27,
+            "text": "وَمَا أَدْرَاكَ مَا سَقَرُ",
+            "text_fr": "Et que sais-tu de Saqar ?"
+        },
+        {
+            "index": 5523,
+            "sura": 74,
+            "aya": 28,
+            "text": "لَا تُبْقِي وَلَا تَذَرُ",
+            "text_fr": "Il ne laisse ni n'épargne,"
+        },
+        {
+            "index": 5524,
+            "sura": 74,
+            "aya": 29,
+            "text": "لَوَّاحَةٌ لِلْبَشَرِ",
+            "text_fr": "1l noircit les êtres humains."
+        },
+        {
+            "index": 5525,
+            "sura": 74,
+            "aya": 30,
+            "text": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+            "text_fr": "Dix-neuf (Archanges) s'y tiennent."
+        },
+        {
+            "index": 5526,
+            "sura": 74,
+            "aya": 31,
+            "text": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+            "text_fr": "Et Nous n'Avons Fait les gardiens du Feu que des Archanges, et Nous n'Avons Déterminé leur nombre que comme épreuve pour ceux qui devinrent mécréants, afin que ceux qui reçurent le Livre soient fermement convaincus, et que ceux qui devinrent croyants soient accrus en croyance, que ceux qui reçurent le Livre et les croyants ne doutent point, que ceux qui ont une malveillance dans leurs cœurs et les mécréants disent : «Qu'A-t-il Voulu, Allah, par cette parabole ?» De même, Allah Fourvoie qui Il Veut et Guide qui Il Veut. Et ne Sait les combattants de ton Seigneur que Lui- même, et ce n'est qu'un Rappel pour les êtres humains."
+        },
+        {
+            "index": 5527,
+            "sura": 74,
+            "aya": 32,
+            "text": "كَلَّا وَالْقَمَرِ",
+            "text_fr": "Mais non ! Par la lune,"
+        },
+        {
+            "index": 5528,
+            "sura": 74,
+            "aya": 33,
+            "text": "وَاللَّيْلِ إِذْ أَدْبَرَ",
+            "text_fr": "et par la nuit quand elle se retire,"
+        },
+        {
+            "index": 5529,
+            "sura": 74,
+            "aya": 34,
+            "text": "وَالصُّبْحِ إِذَا أَسْفَرَ",
+            "text_fr": "et par l'aurore quand elle brille,"
+        },
+        {
+            "index": 5530,
+            "sura": 74,
+            "aya": 35,
+            "text": "إِنَّهَا لَإِحْدَى الْكُبَرِ",
+            "text_fr": "c'est une des majeures !"
+        },
+        {
+            "index": 5531,
+            "sura": 74,
+            "aya": 36,
+            "text": "نَذِيرًا لِلْبَشَرِ",
+            "text_fr": "Un avertissement aux êtres humains,"
+        },
+        {
+            "index": 5532,
+            "sura": 74,
+            "aya": 37,
+            "text": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+            "text_fr": "à quiconque d'entre vous qui voudrait progresser ou reculer. *26 Un des noms de l'Enfer. —— 715 H—"
+        },
+        {
+            "index": 5533,
+            "sura": 74,
+            "aya": 38,
+            "text": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+            "text_fr": "Toute âme est en gage de ce qu'elle a acquis,"
+        },
+        {
+            "index": 5534,
+            "sura": 74,
+            "aya": 39,
+            "text": "إِلَّا أَصْحَابَ الْيَمِينِ",
+            "text_fr": "sauf les gens de la droite :"
+        },
+        {
+            "index": 5535,
+            "sura": 74,
+            "aya": 40,
+            "text": "فِي جَنَّاتٍ يَتَسَاءَلُونَ",
+            "text_fr": "dans des Paradis, se demandant"
+        },
+        {
+            "index": 5536,
+            "sura": 74,
+            "aya": 41,
+            "text": "عَنِ الْمُجْرِمِينَ",
+            "text_fr": "à propos des malfaiteurs :"
+        },
+        {
+            "index": 5537,
+            "sura": 74,
+            "aya": 42,
+            "text": "مَا سَلَكَكُمْ فِي سَقَرَ",
+            "text_fr": "« Qu'est-ce qui vous a menés à Saqar ? »"
+        },
+        {
+            "index": 5538,
+            "sura": 74,
+            "aya": 43,
+            "text": "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ",
+            "text_fr": "Ils dirent : « Nous n'étions pas de ceux qui prient,"
+        },
+        {
+            "index": 5539,
+            "sura": 74,
+            "aya": 44,
+            "text": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ",
+            "text_fr": "et nous ne donnions pas à manger au miséreux,"
+        },
+        {
+            "index": 5540,
+            "sura": 74,
+            "aya": 45,
+            "text": "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ",
+            "text_fr": "et nous pataugions avec les pataugeurs,"
+        },
+        {
+            "index": 5541,
+            "sura": 74,
+            "aya": 46,
+            "text": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ",
+            "text_fr": "et nous démentions le Jour du Jugement,"
+        },
+        {
+            "index": 5542,
+            "sura": 74,
+            "aya": 47,
+            "text": "حَتَّىٰ أَتَانَا الْيَقِينُ",
+            "text_fr": "jusqu'à ce que nous vînt la mort ! »"
+        },
+        {
+            "index": 5543,
+            "sura": 74,
+            "aya": 48,
+            "text": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+            "text_fr": "L''intercession des intercesseurs ne leur servira alors à rien."
+        },
+        {
+            "index": 5544,
+            "sura": 74,
+            "aya": 49,
+            "text": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ",
+            "text_fr": "Qu'ont-ils donc à se détourner du Rappel ?"
+        },
+        {
+            "index": 5545,
+            "sura": 74,
+            "aya": 50,
+            "text": "كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ",
+            "text_fr": "Comme s'ils étaient des ânes dispersés"
+        },
+        {
+            "index": 5546,
+            "sura": 74,
+            "aya": 51,
+            "text": "فَرَّتْ مِنْ قَسْوَرَةٍ",
+            "text_fr": "qui fuient d'un lion !"
+        },
+        {
+            "index": 5547,
+            "sura": 74,
+            "aya": 52,
+            "text": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً",
+            "text_fr": "Plutôt, chacun d'entre eux voudrait que lui soit données des feuilles déployées !"
+        },
+        {
+            "index": 5548,
+            "sura": 74,
+            "aya": 53,
+            "text": "كَلَّا ۖ بَلْ لَا يَخَافُونَ الْآخِرَةَ",
+            "text_fr": "Non ! Plutôt, ils n'appréhendent pas la vie Future."
+        },
+        {
+            "index": 5549,
+            "sura": 74,
+            "aya": 54,
+            "text": "كَلَّا إِنَّهُ تَذْكِرَةٌ",
+            "text_fr": "Non ! C'est un Rappel."
+        },
+        {
+            "index": 5550,
+            "sura": 74,
+            "aya": 55,
+            "text": "فَمَنْ شَاءَ ذَكَرَهُ",
+            "text_fr": "Quiconque voudrait, qu'il se souvienne."
+        },
+        {
+            "index": 5551,
+            "sura": 74,
+            "aya": 56,
+            "text": "وَمَا يَذْكُرُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ",
+            "text_fr": "— Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Et ils ne se souviendront que si Allah Veut : Il Mérite d'être craint, et Il Dispose de l'Absolution. ——"
+        }
+    ]
+}

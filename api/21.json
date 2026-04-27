@@ -1,0 +1,790 @@
+{
+    "sura": 21,
+    "nombre_versets": 112,
+    "versets": [
+        {
+            "index": 2484,
+            "sura": 21,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُعْرِضُونَ",
+            "text_fr": "1l est tout proche des gens, leur jugement, alors que dans l'inattention ils se détournent."
+        },
+        {
+            "index": 2485,
+            "sura": 21,
+            "aya": 2,
+            "text": "مَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنْ رَبِّهِمْ مُحْدَثٍ إِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ",
+            "text_fr": "Nul nouveau Rappel ne leur parvient de la part de leur Seigneur sans qu'ils ne l'écoutent en badinant."
+        },
+        {
+            "index": 2486,
+            "sura": 21,
+            "aya": 3,
+            "text": "لَاهِيَةً قُلُوبُهُمْ ۗ وَأَسَرُّوا النَّجْوَى الَّذِينَ ظَلَمُوا هَلْ هَـٰذَا إِلَّا بَشَرٌ مِثْلُكُمْ ۖ أَفَتَأْتُونَ السِّحْرَ وَأَنْتُمْ تُبْصِرُونَ",
+            "text_fr": "Leurs cœurs sont distraits. Et ceux qui furent injustes gardent secrets leurs conciliabules : « Celui-là est-il autre (chose) qu'un être humain comme vous ? Vous lais- seriez-vous prendre par la magie, alors que vous êtes clairvoyants ?! »"
+        },
+        {
+            "index": 2487,
+            "sura": 21,
+            "aya": 4,
+            "text": "قَالَ رَبِّي يَعْلَمُ الْقَوْلَ فِي السَّمَاءِ وَالْأَرْضِ ۖ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+            "text_fr": "Il dit : « Mon Seigneur Sait ce qui se dit au ciel et en la terre, et Il Est, Lui, l'Omni-Audiant, le Tout-Scient. »"
+        },
+        {
+            "index": 2488,
+            "sura": 21,
+            "aya": 5,
+            "text": "بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ بَلِ افْتَرَاهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِآيَةٍ كَمَا أُرْسِلَ الْأَوَّلُونَ",
+            "text_fr": "Bien plus, ils dirent : « Confusions de rêves », voire : « il l'a controuvé », qui plus est : « C'est un poète ! », « qu'il nous produise alors un Signe comme furent envoyés les Anciens ! »"
+        },
+        {
+            "index": 2489,
+            "sura": 21,
+            "aya": 6,
+            "text": "مَا آمَنَتْ قَبْلَهُمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا ۖ أَفَهُمْ يُؤْمِنُونَ",
+            "text_fr": "Nulle cité que Nous n'Ayons Fait périr avant eux n'a été croyante, sont-ils donc eux des croyants ?!"
+        },
+        {
+            "index": 2490,
+            "sura": 21,
+            "aya": 7,
+            "text": "وَمَا أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ ۖ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِنْ كُنْتُمْ لَا تَعْلَمُونَ",
+            "text_fr": "Et Nous n'Avons Envoyé, avant toi, que des hommes que Nous Inspirons. Demandez à ceux qui font autorité si vous ne savez pas. —[ 403 }—"
+        },
+        {
+            "index": 2491,
+            "sura": 21,
+            "aya": 8,
+            "text": "وَمَا جَعَلْنَاهُمْ جَسَدًا لَا يَأْكُلُونَ الطَّعَامَ وَمَا كَانُوا خَالِدِينَ",
+            "text_fr": "Nous ne les Avons pas Faits des corps, qui ne mangent point la nourriture, et ils n'étaient point éternels."
+        },
+        {
+            "index": 2492,
+            "sura": 21,
+            "aya": 9,
+            "text": "ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَأَنْجَيْنَاهُمْ وَمَنْ نَشَاءُ وَأَهْلَكْنَا الْمُسْرِفِينَ",
+            "text_fr": "Ensuite Nous leur Avons Tenu la promesse, Nous les Sauvâmes avec ceux que Nous Voulons, Nous Fimes périr les abuseurs."
+        },
+        {
+            "index": 2493,
+            "sura": 21,
+            "aya": 10,
+            "text": "لَقَدْ أَنْزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ",
+            "text_fr": "Nous vous Révélâmes, en fait, un Livre contenant votre apogée, ne raisonnez-vous donc pas ?"
+        },
+        {
+            "index": 2494,
+            "sura": 21,
+            "aya": 11,
+            "text": "وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنْشَأْنَا بَعْدَهَا قَوْمًا آخَرِينَ",
+            "text_fr": "Et combien (de fois) n'Avons-Nous Brisé une Cité qui était injuste, et Nous Formâmes après elle d'autres gens !"
+        },
+        {
+            "index": 2495,
+            "sura": 21,
+            "aya": 12,
+            "text": "فَلَمَّا أَحَسُّوا بَأْسَنَا إِذَا هُمْ مِنْهَا يَرْكُضُونَ",
+            "text_fr": "Quand ils sentirent Notre Rigueur, les voilà qui s'enfuient au galop."
+        },
+        {
+            "index": 2496,
+            "sura": 21,
+            "aya": 13,
+            "text": "لَا تَرْكُضُوا وَارْجِعُوا إِلَىٰ مَا أُتْرِفْتُمْ فِيهِ وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ",
+            "text_fr": "Ne fuyez pas au galop et revenez au faste où vous vous trouviez, et à vos demeures; vous serez sûrement interrogés!"
+        },
+        {
+            "index": 2497,
+            "sura": 21,
+            "aya": 14,
+            "text": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ",
+            "text_fr": "Ils dirent : « Malheur à nous, nous étions injustes. »"
+        },
+        {
+            "index": 2498,
+            "sura": 21,
+            "aya": 15,
+            "text": "فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّىٰ جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ",
+            "text_fr": "Leur prétention-ci continua jusqu'au moment où Nous les Rendîmes une fauchée inerte."
+        },
+        {
+            "index": 2499,
+            "sura": 21,
+            "aya": 16,
+            "text": "وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ",
+            "text_fr": "Et Nous n'Avons pas Créé le Ciel et la terre, et ce qui est entre les deux, à la légère !"
+        },
+        {
+            "index": 2500,
+            "sura": 21,
+            "aya": 17,
+            "text": "لَوْ أَرَدْنَا أَنْ نَتَّخِذَ لَهْوًا لَاتَّخَذْنَاهُ مِنْ لَدُنَّا إِنْ كُنَّا فَاعِلِينَ",
+            "text_fr": "Si Nous Désirions Prendre un divertissement, Nous l'Aurions Pris de chez Nous, si Nous Voulions le faire."
+        },
+        {
+            "index": 2501,
+            "sura": 21,
+            "aya": 18,
+            "text": "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ",
+            "text_fr": "Bien au contraire, Nous Lançons le Vrai contre le faux, en sorte qu'il l'extermine, et le voilà dissipé. Et à vous, le malheur de ce que vous décrivez."
+        },
+        {
+            "index": 2502,
+            "sura": 21,
+            "aya": 19,
+            "text": "وَلَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَمَنْ عِنْدَهُ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَلَا يَسْتَحْسِرُونَ",
+            "text_fr": "A Lui Appartiennent ceux qui sont dans les Cieux et la terre. Et ceux qui sont auprès de Lui ne s'enorgueillissent pas de Son adoration, ni ne se fatiguent."
+        },
+        {
+            "index": 2503,
+            "sura": 21,
+            "aya": 20,
+            "text": "يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ",
+            "text_fr": "Ils exaltent nuit et jour, et ne se relâchent point. —[ 404 }—"
+        },
+        {
+            "index": 2504,
+            "sura": 21,
+            "aya": 21,
+            "text": "أَمِ اتَّخَذُوا آلِهَةً مِنَ الْأَرْضِ هُمْ يُنْشِرُونَ",
+            "text_fr": "Ou bien ont-ils pris des dieux de la terre qui ressuscitent, eux ?!"
+        },
+        {
+            "index": 2505,
+            "sura": 21,
+            "aya": 22,
+            "text": "لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا ۚ فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+            "text_fr": "S'il y avait des divinités autre qu'Allah, ils seraient déjà anéantis tous deux*. Gloire à Allah, Seigneur du Trône, Il Est bien au-dessus de ce qu'ils décrivent !"
+        },
+        {
+            "index": 2506,
+            "sura": 21,
+            "aya": 23,
+            "text": "لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ",
+            "text_fr": "Il n'Est pas Interrogé sur ce qu'Il Fait, et eux sont interrogés."
+        },
+        {
+            "index": 2507,
+            "sura": 21,
+            "aya": 24,
+            "text": "أَمِ اتَّخَذُوا مِنْ دُونِهِ آلِهَةً ۖ قُلْ هَاتُوا بُرْهَانَكُمْ ۖ هَـٰذَا ذِكْرُ مَنْ مَعِيَ وَذِكْرُ مَنْ قَبْلِي ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ الْحَقَّ ۖ فَهُمْ مُعْرِضُونَ",
+            "text_fr": "Ou bien ont-ils pris des divinités à l'exclusion de Lui ? Dis : « Apportez votre preuve ! Ceci est le Rappel de ceux qui sont avec moi et le Rappel de ceux qui furent avant moi ». Bien plus, la plupart d'entre eux ne savent pas la Vérité, c'est pourquoi ils s'en détournent."
+        },
+        {
+            "index": 2508,
+            "sura": 21,
+            "aya": 25,
+            "text": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَـٰهَ إِلَّا أَنَا فَاعْبُدُونِ",
+            "text_fr": "Et Nous n'Avons Envoyé nul Messager, avant toi, sans lui avoir Inspiré : «I1 n'y a_ vraiment de Dieu que Moi, adorez-Moi donc. »"
+        },
+        {
+            "index": 2509,
+            "sura": 21,
+            "aya": 26,
+            "text": "وَقَالُوا اتَّخَذَ الرَّحْمَـٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُكْرَمُونَ",
+            "text_fr": "Et ils disent: « Le Miséricordeur adopta un fils ! » Gloire à Lui ! Bien au contraire ce sont des serviteurs honorés."
+        },
+        {
+            "index": 2510,
+            "sura": 21,
+            "aya": 27,
+            "text": "لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ",
+            "text_fr": "Ils ne parlent pas sans Sa permission, et ils agissent, eux, sous Ses Ordres."
+        },
+        {
+            "index": 2511,
+            "sura": 21,
+            "aya": 28,
+            "text": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ وَهُمْ مِنْ خَشْيَتِهِ مُشْفِقُونَ",
+            "text_fr": "1l Sait tout ce qui les concerne et ils n'intercèdent que pour celui qu'IIl Agrée, et de Sa Crainte, eux prennent garde."
+        },
+        {
+            "index": 2512,
+            "sura": 21,
+            "aya": 29,
+            "text": "وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَـٰهٌ مِنْ دُونِهِ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+            "text_fr": "Et quiconque d'entre eux dit: «Je suis un dieu, à l'exclusion de Lui », celui-là alors Nous le Punirons de la Géhenne. Ainsi Nous Punissons les injustes. *22 Allusion faite aux Cieux et à la terre. —— 105 H—"
+        },
+        {
+            "index": 2513,
+            "sura": 21,
+            "aya": 30,
+            "text": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا ۖ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+            "text_fr": "N'ont-ils donc pas vu, ceux qui devinrent mécréants, que les Cieux et la terre étaient soudés*, tous deux, et que Nous les Séparâmes, et Fîmes de l'eau tout ce qui est vivant ?* Ne croient-ils donc pas ? ** Il est admis, de nos jours, que la vie est née, sur terre, de l'évolution chimique et que l'eau a été son berceau. Les premières étapes de l'évolution chimique eurent lieu, non dans l'atmosphère, mais directement dans l'eau, au voisinage des sources chaudes sous-marines. On a découvert, en effet, que les sources hydrothermales des milieux abyssaux offraient des conditions favorables pour la chimie prébiotique. —[ 406 ]— Miséricordeur !"
+        },
+        {
+            "index": 2514,
+            "sura": 21,
+            "aya": 31,
+            "text": "وَجَعَلْنَا فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا لَعَلَّهُمْ يَهْتَدُونَ",
+            "text_fr": "Et Nous Implantâmes sur la terre des montagnes solidement fixées, afin qu'elle ne se balance en les portant, et Nous y Fîmes des ravins de vastes sentiers, afin qu'ils soient guidés."
+        },
+        {
+            "index": 2515,
+            "sura": 21,
+            "aya": 32,
+            "text": "وَجَعَلْنَا السَّمَاءَ سَقْفًا مَحْفُوظًا ۖ وَهُمْ عَنْ آيَاتِهَا مُعْرِضُونَ",
+            "text_fr": "Et Nous Fimes le ciel un toit bien conservé, et eux se détournent de ses Signes !"
+        },
+        {
+            "index": 2516,
+            "sura": 21,
+            "aya": 33,
+            "text": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+            "text_fr": "Et c'est Lui qui A Créé la nuit, le jour, le soleil, et la lune. Chacun d'entre eux dans un orbite : ils voguent."
+        },
+        {
+            "index": 2517,
+            "sura": 21,
+            "aya": 34,
+            "text": "وَمَا جَعَلْنَا لِبَشَرٍ مِنْ قَبْلِكَ الْخُلْدَ ۖ أَفَإِنْ مِتَّ فَهُمُ الْخَالِدُونَ",
+            "text_fr": "Et jamais Nous n'Accordâmes l'éternité à un être humain avant toi. Est-ce que si tu meurs ils seront, eux, éternels ?!"
+        },
+        {
+            "index": 2518,
+            "sura": 21,
+            "aya": 35,
+            "text": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+            "text_fr": "Tout être subira la mort. Et Nous vous Éprouvons par le mal et par le bien pour vous tenter. Et c'est vers Nous que vous serez ramenés."
+        },
+        {
+            "index": 2519,
+            "sura": 21,
+            "aya": 36,
+            "text": "وَإِذَا رَآكَ الَّذِينَ كَفَرُوا إِنْ يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا الَّذِي يَذْكُرُ آلِهَتَكُمْ وَهُمْ بِذِكْرِ الرَّحْمَـٰنِ هُمْ كَافِرُونَ",
+            "text_fr": "Et quand ceux qui devinrent mécréants te voient, ils ne te tournent qu'en dérision : « Est-ce celui-là qui médit de vos dieux?» Et eux mécroient au Rappel du * 30 La séparation de la matière et des radiations fait date dans la formation de lUnivers. Les radiations donnèrent lieu au domaine des cieux, et la matière donna lieu à celui de la terre, des planètes, etc"
+        },
+        {
+            "index": 2520,
+            "sura": 21,
+            "aya": 37,
+            "text": "خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ ۚ سَأُرِيكُمْ آيَاتِي فَلَا تَسْتَعْجِلُونِ",
+            "text_fr": "L'être humain a été marqué de hâte ! Je vous Montrerai Mes Signes, ne Me hâtez donc pas."
+        },
+        {
+            "index": 2521,
+            "sura": 21,
+            "aya": 38,
+            "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+            "text_fr": "Et ils disent: « A quand cette menace, si vous êtes véridiques ? »"
+        },
+        {
+            "index": 2522,
+            "sura": 21,
+            "aya": 39,
+            "text": "لَوْ يَعْلَمُ الَّذِينَ كَفَرُوا حِينَ لَا يَكُفُّونَ عَنْ وُجُوهِهِمُ النَّارَ وَلَا عَنْ ظُهُورِهِمْ وَلَا هُمْ يُنْصَرُونَ",
+            "text_fr": "Si ceux qui devinrent mécréants savaient, quand ils ne sauront éloigner le Feu de leurs visages, ni de leurs dos ! Et ils ne triompheront point !"
+        },
+        {
+            "index": 2523,
+            "sura": 21,
+            "aya": 40,
+            "text": "بَلْ تَأْتِيهِمْ بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنْظَرُونَ",
+            "text_fr": "Qui plus est, il les surprendra à l'improviste en les stupéfiant, au point qu'ils ne pourront le repousser, et ils ne seront point épargnés."
+        },
+        {
+            "index": 2524,
+            "sura": 21,
+            "aya": 41,
+            "text": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+            "text_fr": "Nombre de Messagers, avant toi, ont été tournés en dérision, mais ceux qui se moquèrent d'eux furent poursuivis par ce dont ils se moquaient."
+        },
+        {
+            "index": 2525,
+            "sura": 21,
+            "aya": 42,
+            "text": "قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَـٰنِ ۗ بَلْ هُمْ عَنْ ذِكْرِ رَبِّهِمْ مُعْرِضُونَ",
+            "text_fr": "Dis : « Qui vous garde du Miséricordeur pendant la nuit et le jour ? » Bien plus, ils se détournent de psalmodier le nom de leur Seigneur."
+        },
+        {
+            "index": 2526,
+            "sura": 21,
+            "aya": 43,
+            "text": "أَمْ لَهُمْ آلِهَةٌ تَمْنَعُهُمْ مِنْ دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنْفُسِهِمْ وَلَا هُمْ مِنَّا يُصْحَبُونَ",
+            "text_fr": "Ou bien ont-ils des divinités qui les protègent, à l'exclusion de Nous ? Ils ne peuvent se faire triompher eux-mêmes, ni ils seront soutenus contre Nous-même."
+        },
+        {
+            "index": 2527,
+            "sura": 21,
+            "aya": 44,
+            "text": "بَلْ مَتَّعْنَا هَـٰؤُلَاءِ وَآبَاءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ الْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِي الْأَرْضَ نَنْقُصُهَا مِنْ أَطْرَافِهَا ۚ أَفَهُمُ الْغَالِبُونَ",
+            "text_fr": "Bien plus, Nous Fîmes jouir ceux-ci et leurs ancêtres jusqu'à ce qu'ils crurent que c'est un droit acquis ! Ne voient-ils donc pas que Nous Envahissons le pays et le Réduisons par ses frontières ? Sont-ils donc, eux, les vainqueurs ?!"
+        },
+        {
+            "index": 2528,
+            "sura": 21,
+            "aya": 45,
+            "text": "قُلْ إِنَّمَا أُنْذِرُكُمْ بِالْوَحْيِ ۚ وَلَا يَسْمَعُ الصُّمُّ الدُّعَاءَ إِذَا مَا يُنْذَرُونَ",
+            "text_fr": "Dis: «Je ne fais que vous avertir par la Révélation ». Mais les sourds n'entendent pas l'Appel quand on les avertit."
+        },
+        {
+            "index": 2529,
+            "sura": 21,
+            "aya": 46,
+            "text": "وَلَئِنْ مَسَّتْهُمْ نَفْحَةٌ مِنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ",
+            "text_fr": "Et si jamais une bouffée du châtiment de ton Seigneur les touche, ils diront, certes : « Malheur à nous, nous étions —— 107 H— sûrement injustes. »"
+        },
+        {
+            "index": 2530,
+            "sura": 21,
+            "aya": 47,
+            "text": "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ",
+            "text_fr": "Et Nous Posons les justes balances pour le Jour du Jugement. Nulle personne ne subira la moindre injustice, même si son action était du poids d'un grain de sénevé : Nous l'Apporterons. Et qu'il suffise de Nous Compensateur."
+        },
+        {
+            "index": 2531,
+            "sura": 21,
+            "aya": 48,
+            "text": "وَلَقَدْ آتَيْنَا مُوسَىٰ وَهَارُونَ الْفُرْقَانَ وَضِيَاءً وَذِكْرًا لِلْمُتَّقِينَ",
+            "text_fr": "Et Nous Donnâmes, en fait, à Moïse et à Aaron le Critère comme Lumière et Rappel pour les pieux :"
+        },
+        {
+            "index": 2532,
+            "sura": 21,
+            "aya": 49,
+            "text": "الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَهُمْ مِنَ السَّاعَةِ مُشْفِقُونَ",
+            "text_fr": "ceux qui craignent leur Seigneur en conscience et prennent garde de l'Heure."
+        },
+        {
+            "index": 2533,
+            "sura": 21,
+            "aya": 50,
+            "text": "وَهَـٰذَا ذِكْرٌ مُبَارَكٌ أَنْزَلْنَاهُ ۚ أَفَأَنْتُمْ لَهُ مُنْكِرُونَ",
+            "text_fr": "Ceci est un Rappel béni que Nous Révélâmes. Allez- vous donc le méconnaître ?!"
+        },
+        {
+            "index": 2534,
+            "sura": 21,
+            "aya": 51,
+            "text": "وَلَقَدْ آتَيْنَا إِبْرَاهِيمَ رُشْدَهُ مِنْ قَبْلُ وَكُنَّا بِهِ عَالِمِينَ",
+            "text_fr": "Et Nous Accordâmes en fait à Abraham sa droiture, auparavant, et Nous le Savions."
+        },
+        {
+            "index": 2535,
+            "sura": 21,
+            "aya": 52,
+            "text": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا هَـٰذِهِ التَّمَاثِيلُ الَّتِي أَنْتُمْ لَهَا عَاكِفُونَ",
+            "text_fr": "Lorsqu'il dit à son père et à ses gens : « Que sont ces statues auxquelles vous vous adonnez ?! »"
+        },
+        {
+            "index": 2536,
+            "sura": 21,
+            "aya": 53,
+            "text": "قَالُوا وَجَدْنَا آبَاءَنَا لَهَا عَابِدِينَ",
+            "text_fr": "Ils dirent : « Nous avons trouvé que nos ancêtres les adoraient. »"
+        },
+        {
+            "index": 2537,
+            "sura": 21,
+            "aya": 54,
+            "text": "قَالَ لَقَدْ كُنْتُمْ أَنْتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ مُبِينٍ",
+            "text_fr": "Il dit: « Vous étiez, vous et vos ancêtres, dans un fourvoiement évident. »"
+        },
+        {
+            "index": 2538,
+            "sura": 21,
+            "aya": 55,
+            "text": "قَالُوا أَجِئْتَنَا بِالْحَقِّ أَمْ أَنْتَ مِنَ اللَّاعِبِينَ",
+            "text_fr": "Ils dirent : « Nous apportes-tu la Vérité ou bien es-tu de ceux qui badinent ? »"
+        },
+        {
+            "index": 2539,
+            "sura": 21,
+            "aya": 56,
+            "text": "قَالَ بَلْ رَبُّكُمْ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ الَّذِي فَطَرَهُنَّ وَأَنَا عَلَىٰ ذَٰلِكُمْ مِنَ الشَّاهِدِينَ",
+            "text_fr": "1l dit : « Bien plus, votre Seigneur Est le Seigneur des Cieux et de la terre, Celui qui Les Initia, et moi je suis de ceux qui en témoignent."
+        },
+        {
+            "index": 2540,
+            "sura": 21,
+            "aya": 57,
+            "text": "وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَامَكُمْ بَعْدَ أَنْ تُوَلُّوا مُدْبِرِينَ",
+            "text_fr": "Par Allah, je briserai sûrement vos idoles dès que vous tournerez le dos pour partir. »"
+        },
+        {
+            "index": 2541,
+            "sura": 21,
+            "aya": 58,
+            "text": "فَجَعَلَهُمْ جُذَاذًا إِلَّا كَبِيرًا لَهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+            "text_fr": "Puis il les brisa en morceaux, sauf une grande d'entre elles, peut-être s'adresseraient-ils à elle."
+        },
+        {
+            "index": 2542,
+            "sura": 21,
+            "aya": 59,
+            "text": "قَالُوا مَنْ فَعَلَ هَـٰذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ",
+            "text_fr": "Ils dirent : « Qui a fait cela de nos dieux ? Il est sûrement —[ 408 }— du nombre des injustes ! »"
+        },
+        {
+            "index": 2543,
+            "sura": 21,
+            "aya": 60,
+            "text": "قَالُوا سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ",
+            "text_fr": "Ils dirent: « Nous avons entendu un jeune homme médire d'eux, on l'appelle Abraham. »"
+        },
+        {
+            "index": 2544,
+            "sura": 21,
+            "aya": 61,
+            "text": "قَالُوا فَأْتُوا بِهِ عَلَىٰ أَعْيُنِ النَّاسِ لَعَلَّهُمْ يَشْهَدُونَ",
+            "text_fr": "Ils dirent: «Amenez-le en public, peut-être témoigneraient-ils »."
+        },
+        {
+            "index": 2545,
+            "sura": 21,
+            "aya": 62,
+            "text": "قَالُوا أَأَنْتَ فَعَلْتَ هَـٰذَا بِآلِهَتِنَا يَا إِبْرَاهِيمُ",
+            "text_fr": "Ils dirent: « Est-ce toi qui as fait cela de nos dieux, Abraham ? »"
+        },
+        {
+            "index": 2546,
+            "sura": 21,
+            "aya": 63,
+            "text": "قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَـٰذَا فَاسْأَلُوهُمْ إِنْ كَانُوا يَنْطِقُونَ",
+            "text_fr": "Il dit : « Bien au contraire, c'est leur grand, celui qui l'a fait, demandez-leur donc, s'ils sont capables de parler ! »"
+        },
+        {
+            "index": 2547,
+            "sura": 21,
+            "aya": 64,
+            "text": "فَرَجَعُوا إِلَىٰ أَنْفُسِهِمْ فَقَالُوا إِنَّكُمْ أَنْتُمُ الظَّالِمُونَ",
+            "text_fr": "Alors ils revinrent à eux-mêmes et se dirent : « Vous êtes, vous, les injustes. »"
+        },
+        {
+            "index": 2548,
+            "sura": 21,
+            "aya": 65,
+            "text": "ثُمَّ نُكِسُوا عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَـٰؤُلَاءِ يَنْطِقُونَ",
+            "text_fr": "Puis ils revinrent à leur mécréance : « Tu sais bien que ceux-là ne parlent point ! »"
+        },
+        {
+            "index": 2549,
+            "sura": 21,
+            "aya": 66,
+            "text": "قَالَ أَفَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُكُمْ شَيْئًا وَلَا يَضُرُّكُمْ",
+            "text_fr": "1l dit : « Adorerez-vous donc, à l'exclusion d'Allah, ce qui ne peut vous être utile en rien ni vous nuire ?"
+        },
+        {
+            "index": 2550,
+            "sura": 21,
+            "aya": 67,
+            "text": "أُفٍّ لَكُمْ وَلِمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ ۖ أَفَلَا تَعْقِلُونَ",
+            "text_fr": "Quelle honte, vous et ce que vous adorez, à l'exclusion d'Allah ! Ne raisonnez-vous donc pas ?! »"
+        },
+        {
+            "index": 2551,
+            "sura": 21,
+            "aya": 68,
+            "text": "قَالُوا حَرِّقُوهُ وَانْصُرُوا آلِهَتَكُمْ إِنْ كُنْتُمْ فَاعِلِينَ",
+            "text_fr": "IIs dirent : « Brûlez-le tout vif et venez au secours de vos dieux, si vous voulez agir. »"
+        },
+        {
+            "index": 2552,
+            "sura": 21,
+            "aya": 69,
+            "text": "قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ",
+            "text_fr": "Nous Dîmes : « O Feu, sois fraîcheur et inoffensivité pour Abraham. »"
+        },
+        {
+            "index": 2553,
+            "sura": 21,
+            "aya": 70,
+            "text": "وَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَخْسَرِينَ",
+            "text_fr": "Ils lui voulurent une ruse, alors Nous les Fîmes les plus perdus."
+        },
+        {
+            "index": 2554,
+            "sura": 21,
+            "aya": 71,
+            "text": "وَنَجَّيْنَاهُ وَلُوطًا إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا لِلْعَالَمِينَ",
+            "text_fr": "Et Nous le Sauvâmes avec Loth en la terre que Nous Bénîmes pour les Univers."
+        },
+        {
+            "index": 2555,
+            "sura": 21,
+            "aya": 72,
+            "text": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا صَالِحِينَ",
+            "text_fr": "Et en plus, Nous lui Fîmes don d'Isaac et de Jacob. Et chacun Nous le Fîimes du nombre des vertueux."
+        },
+        {
+            "index": 2556,
+            "sura": 21,
+            "aya": 73,
+            "text": "وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَا إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاءَ الزَّكَاةِ ۖ وَكَانُوا لَنَا عَابِدِينَ",
+            "text_fr": "Et Nous Fîmes d'eux des Modèles qui guident selon Nos Ordres, et Nous leur Inspirâmes de faire les œuvres de bienfaisance, d'accomplir la prière et d'acquitter la œ 109 H— Zäkät. Et ils étaient pour Nous des adorateurs."
+        },
+        {
+            "index": 2557,
+            "sura": 21,
+            "aya": 74,
+            "text": "وَلُوطًا آتَيْنَاهُ حُكْمًا وَعِلْمًا وَنَجَّيْنَاهُ مِنَ الْقَرْيَةِ الَّتِي كَانَتْ تَعْمَلُ الْخَبَائِثَ ۗ إِنَّهُمْ كَانُوا قَوْمَ سَوْءٍ فَاسِقِينَ",
+            "text_fr": "Et Loth, Nous lui Donnâmes sagesse et science, et Nous le Sauvâmes de la Cité qui commettait les vices. Ils étaient la mauvaiseté même, des pervers."
+        },
+        {
+            "index": 2558,
+            "sura": 21,
+            "aya": 75,
+            "text": "وَأَدْخَلْنَاهُ فِي رَحْمَتِنَا ۖ إِنَّهُ مِنَ الصَّالِحِينَ",
+            "text_fr": "Et Nous le Fimes entrer en notre Miséricorde. Il était du nombre des vertueux."
+        },
+        {
+            "index": 2559,
+            "sura": 21,
+            "aya": 76,
+            "text": "وَنُوحًا إِذْ نَادَىٰ مِنْ قَبْلُ فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+            "text_fr": "Et Noé, lorsqu'il implora auparavant, alors Nous l'Exauçâmes : Nous le Sauvâmes, lui et sa famille, de l'immense tourmente."
+        },
+        {
+            "index": 2560,
+            "sura": 21,
+            "aya": 77,
+            "text": "وَنَصَرْنَاهُ مِنَ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِنَا ۚ إِنَّهُمْ كَانُوا قَوْمَ سَوْءٍ فَأَغْرَقْنَاهُمْ أَجْمَعِينَ",
+            "text_fr": "Et Nous le Sauvâmes des gens qui avaient démenti Nos Signes. Ils étaient de mauvaises gens, alors Nous les Noyâmes en totalité."
+        },
+        {
+            "index": 2561,
+            "sura": 21,
+            "aya": 78,
+            "text": "وَدَاوُودَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي الْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَاهِدِينَ",
+            "text_fr": "Et David et Salomon, lorsqu'ils jugeaient de la récolte, lorsque les ovins des gens la saccagèrent* et Nous Étions Témoins de leur jugement."
+        },
+        {
+            "index": 2562,
+            "sura": 21,
+            "aya": 79,
+            "text": "فَفَهَّمْنَاهَا سُلَيْمَانَ ۚ وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا ۚ وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ ۚ وَكُنَّا فَاعِلِينَ",
+            "text_fr": "Nous l'Avons Fait comprendre à Salomon. Et à chacun d'entre eux Nous Donnâmes sagesse et science. Et Nous Assujettîmes à David les montagnes, qui exaltent, et les oiseaux. Et Nous le Fîmes."
+        },
+        {
+            "index": 2563,
+            "sura": 21,
+            "aya": 80,
+            "text": "وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَكُمْ لِتُحْصِنَكُمْ مِنْ بَأْسِكُمْ ۖ فَهَلْ أَنْتُمْ شَاكِرُونَ",
+            "text_fr": "Et Nous lui Apprîmes la technique des armures, pour vous, pour vous protéger de vos guerres. Avez-vous donc été reconnaissants ?!"
+        },
+        {
+            "index": 2564,
+            "sura": 21,
+            "aya": 81,
+            "text": "وَلِسُلَيْمَانَ الرِّيحَ عَاصِفَةً تَجْرِي بِأَمْرِهِ إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَيْءٍ عَالِمِينَ",
+            "text_fr": "Et à Salomon Nous Assujettîmes le vent impétueux qui court par son ordre vers la terre que Nous Bénîmes. Et Nous Avions connaissance de toute chose."
+        },
+        {
+            "index": 2565,
+            "sura": 21,
+            "aya": 82,
+            "text": "وَمِنَ الشَّيَاطِينِ مَنْ يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَافِظِينَ",
+            "text_fr": "Et de parmi les démons : ceux qui plongent pour lui et qui font un travail autre que ceci. Et Nous les Tenions *78 En allant paître de nuit sans berger. ———œ 0H— sous contrôle."
+        },
+        {
+            "index": 2566,
+            "sura": 21,
+            "aya": 83,
+            "text": "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+            "text_fr": "Et Job, lorsqu'il appela son Seigneur : « Moi, j'ai été atteint du mal, et Toi Tu Es le plus Miséricordieux des Miséricordieux »."
+        },
+        {
+            "index": 2567,
+            "sura": 21,
+            "aya": 84,
+            "text": "فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِنْ ضُرٍّ ۖ وَآتَيْنَاهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ رَحْمَةً مِنْ عِنْدِنَا وَذِكْرَىٰ لِلْعَابِدِينَ",
+            "text_fr": "Alors Nous l'Exauçâmes : Nous le Délivrâmes du mal qu'il avait, et Nous lui Rendîmes sa famille, accrue du double, par Miséricorde de Notre part et Rappel pour les adorateurs."
+        },
+        {
+            "index": 2568,
+            "sura": 21,
+            "aya": 85,
+            "text": "وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِنَ الصَّابِرِينَ",
+            "text_fr": "Et Ismaël, et Idriss, et Dul-Kifl, chacun était du nombre des persévérants."
+        },
+        {
+            "index": 2569,
+            "sura": 21,
+            "aya": 86,
+            "text": "وَأَدْخَلْنَاهُمْ فِي رَحْمَتِنَا ۖ إِنَّهُمْ مِنَ الصَّالِحِينَ",
+            "text_fr": "Et Nous les Fimes entrer en Notre Miséricorde. Ils sont du nombre des vertueux."
+        },
+        {
+            "index": 2570,
+            "sura": 21,
+            "aya": 87,
+            "text": "وَذَا النُّونِ إِذْ ذَهَبَ مُغَاضِبًا فَظَنَّ أَنْ لَنْ نَقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَنْ لَا إِلَـٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+            "text_fr": "Et l'homme du poisson, lorsqu'il partit fâché (contre ses gens), pensant que Nous n'Allions pas le Restreindre, alors il appela dans les Ténèbres : « Certes, il n'y a de Dieu que Toi, Gloire à Toi, j'ai été du nombre des injustes »."
+        },
+        {
+            "index": 2571,
+            "sura": 21,
+            "aya": 88,
+            "text": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنْجِي الْمُؤْمِنِينَ",
+            "text_fr": "Alors Nous l'Exauçâmes et le Sauvâmes du souci. Et ainsi Nous Sauvons les croyants."
+        },
+        {
+            "index": 2572,
+            "sura": 21,
+            "aya": 89,
+            "text": "وَزَكَرِيَّا إِذْ نَادَىٰ رَبَّهُ رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ",
+            "text_fr": "Et Zacharie, lorsqu'il appela son Seigneur: « Mon Seigneur, ne me laisse pas solitaire, et Toi, Tu Es le Meilleur de ceux qui demeurent. »"
+        },
+        {
+            "index": 2573,
+            "sura": 21,
+            "aya": 90,
+            "text": "فَاسْتَجَبْنَا لَهُ وَوَهَبْنَا لَهُ يَحْيَىٰ وَأَصْلَحْنَا لَهُ زَوْجَهُ ۚ إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا لَنَا خَاشِعِينَ",
+            "text_fr": "Alors Nous l'Exauçâmes et lui Fimes don de Yahyäa et lui Soignâmes la stérilité de sa femme. Ils s'empressaient à faire les œuvres de bienfaisance et Nous invoquaient avec ardeur et par crainte. Et ils étaient humbles devant Nous."
+        },
+        {
+            "index": 2574,
+            "sura": 21,
+            "aya": 91,
+            "text": "وَالَّتِي أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِنْ رُوحِنَا وَجَعَلْنَاهَا وَابْنَهَا آيَةً لِلْعَالَمِينَ",
+            "text_fr": "Et celle qui préserva sa chasteté, alors Nous y Insufflâmes de Notre Esprit, et Nous la Fimes, elle et son fils, un Signe pour les univers. ——"
+        },
+        {
+            "index": 2575,
+            "sura": 21,
+            "aya": 92,
+            "text": "إِنَّ هَـٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ فَاعْبُدُونِ",
+            "text_fr": "Certes, celle-ci est votre Communauté, une Communauté unie, et Moi Je Suis votre Seigneur, adorez-Moi."
+        },
+        {
+            "index": 2576,
+            "sura": 21,
+            "aya": 93,
+            "text": "وَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَاجِعُونَ",
+            "text_fr": "Mais ils divergèrent entre eux. Ils seront tous ramenés vers Nous."
+        },
+        {
+            "index": 2577,
+            "sura": 21,
+            "aya": 94,
+            "text": "فَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِ وَإِنَّا لَهُ كَاتِبُونَ",
+            "text_fr": "Quiconque fera des œuvres méritoires, en étant croyant, on ne méconnaîtra pas ses efforts, et Nous les lui Enregistrerons."
+        },
+        {
+            "index": 2578,
+            "sura": 21,
+            "aya": 95,
+            "text": "وَحَرَامٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْجِعُونَ",
+            "text_fr": "Et il est défendu à une Cité que Nous Fimes périr : qu'ils reviennent au repentir (après le périssement)."
+        },
+        {
+            "index": 2579,
+            "sura": 21,
+            "aya": 96,
+            "text": "حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ",
+            "text_fr": "Même jusqu'à ce que (le remblaiement) Gog et Magog s'ouvre, et qu'ils s'accélèrent de toutes parts."
+        },
+        {
+            "index": 2580,
+            "sura": 21,
+            "aya": 97,
+            "text": "وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذَا هِيَ شَاخِصَةٌ أَبْصَارُ الَّذِينَ كَفَرُوا يَا وَيْلَنَا قَدْ كُنَّا فِي غَفْلَةٍ مِنْ هَـٰذَا بَلْ كُنَّا ظَالِمِينَ",
+            "text_fr": "A ce moment, la promesse de Vérité s'approcha. Alors les regards de ceux qui devinrent mécréants furent hagards : « Malheur à nous, nous étions en fait dans l'inattention de tout cela, bien plus, nous étions injustes. »"
+        },
+        {
+            "index": 2581,
+            "sura": 21,
+            "aya": 98,
+            "text": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنْتُمْ لَهَا وَارِدُونَ",
+            "text_fr": "Vous et ce que vous adorez, à l'exclusion d'Allah, serez la proie de la Géhenne. Vous y serez sûrement conduits."
+        },
+        {
+            "index": 2582,
+            "sura": 21,
+            "aya": 99,
+            "text": "لَوْ كَانَ هَـٰؤُلَاءِ آلِهَةً مَا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَالِدُونَ",
+            "text_fr": "Si ceux-ci étaient des divinités, ils n'y seraient point conduits. Mais tous ils s'y éterniseront."
+        },
+        {
+            "index": 2583,
+            "sura": 21,
+            "aya": 100,
+            "text": "لَهُمْ فِيهَا زَفِيرٌ وَهُمْ فِيهَا لَا يَسْمَعُونَ",
+            "text_fr": "Ils y auront des râles, et ils n'y entendront point."
+        },
+        {
+            "index": 2584,
+            "sura": 21,
+            "aya": 101,
+            "text": "إِنَّ الَّذِينَ سَبَقَتْ لَهُمْ مِنَّا الْحُسْنَىٰ أُولَـٰئِكَ عَنْهَا مُبْعَدُونَ",
+            "text_fr": "Certes, ceux à qui était précédemment promis de Nous- même le meilleur, ceux-là en seront éloignés."
+        },
+        {
+            "index": 2585,
+            "sura": 21,
+            "aya": 102,
+            "text": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِي مَا اشْتَهَتْ أَنْفُسُهُمْ خَالِدُونَ",
+            "text_fr": "Ils n'entendront pas son pétillement. Et ils seront éternisés dans ce à quoi leurs âmes aspiraient."
+        },
+        {
+            "index": 2586,
+            "sura": 21,
+            "aya": 103,
+            "text": "لَا يَحْزُنُهُمُ الْفَزَعُ الْأَكْبَرُ وَتَتَلَقَّاهُمُ الْمَلَائِكَةُ هَـٰذَا يَوْمُكُمُ الَّذِي كُنْتُمْ تُوعَدُونَ",
+            "text_fr": "La grande frayeur ne les affligera point et ils seront reçus par les Anges : « C'est votre Jour, celui qu'on vous promettait. »"
+        },
+        {
+            "index": 2587,
+            "sura": 21,
+            "aya": 104,
+            "text": "يَوْمَ نَطْوِي السَّمَاءَ كَطَيِّ السِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَا أَوَّلَ خَلْقٍ نُعِيدُهُ ۚ وَعْدًا عَلَيْنَا ۚ إِنَّا كُنَّا فَاعِلِينَ",
+            "text_fr": "Le jour où Nous Plierons le ciel comme le notaire plie les livres. Tel que Nous Commençâmes la première — — créature, Nous la Recommencerons. Promesse qui Nous Incombe. Nous, Nous la Ferons sûrement."
+        },
+        {
+            "index": 2588,
+            "sura": 21,
+            "aya": 105,
+            "text": "وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ",
+            "text_fr": "Et Nous Avons Ecrit, en fait, dans le Zabür, après la Torah : « Certes, la terre sera héritée par Mes serviteurs vertueux. »"
+        },
+        {
+            "index": 2589,
+            "sura": 21,
+            "aya": 106,
+            "text": "إِنَّ فِي هَـٰذَا لَبَلَاغًا لِقَوْمٍ عَابِدِينَ",
+            "text_fr": "Certes, il y a en cela une transmission pour des gens qui adorent."
+        },
+        {
+            "index": 2590,
+            "sura": 21,
+            "aya": 107,
+            "text": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ",
+            "text_fr": "Et Nous ne t'Envoyâmes que Miséricorde pour les Univers."
+        },
+        {
+            "index": 2591,
+            "sura": 21,
+            "aya": 108,
+            "text": "قُلْ إِنَّمَا يُوحَىٰ إِلَيَّ أَنَّمَا إِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ ۖ فَهَلْ أَنْتُمْ مُسْلِمُونَ",
+            "text_fr": "Dis : « Il ne m'est sûrement inspiré que : \"Votre Dieu Est, sûrement un Dieu Unique\". Etes-vous donc des musulmans ? »"
+        },
+        {
+            "index": 2592,
+            "sura": 21,
+            "aya": 109,
+            "text": "فَإِنْ تَوَلَّوْا فَقُلْ آذَنْتُكُمْ عَلَىٰ سَوَاءٍ ۖ وَإِنْ أَدْرِي أَقَرِيبٌ أَمْ بَعِيدٌ مَا تُوعَدُونَ",
+            "text_fr": "Si alors ils se détournent, dit : « Je vous ai transmis, à tous, ce qui m'a été ordonné. Je ne sais si ce qui vous est promis est proche ou lointain."
+        },
+        {
+            "index": 2593,
+            "sura": 21,
+            "aya": 110,
+            "text": "إِنَّهُ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ",
+            "text_fr": "Il Sait le manifesté de vos paroles et Il Sait ce que vous taisez."
+        },
+        {
+            "index": 2594,
+            "sura": 21,
+            "aya": 111,
+            "text": "وَإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَكُمْ وَمَتَاعٌ إِلَىٰ حِينٍ",
+            "text_fr": "Et que sais-je, peut-être est-ce une épreuve pour vous et une jouissance pour un certain temps ? »"
+        },
+        {
+            "index": 2595,
+            "sura": 21,
+            "aya": 112,
+            "text": "قَالَ رَبِّ احْكُمْ بِالْحَقِّ ۗ وَرَبُّنَا الرَّحْمَـٰنُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+            "text_fr": "— Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux. Dis : « Mon Seigneur, Juge selon le Vrai. Notre Seigneur Est le Miséricordeur Auquel on a recours contre ce que vous décrivez ». ——"
+        }
+    ]
+}

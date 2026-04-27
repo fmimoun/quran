@@ -1,0 +1,27 @@
+{
+    "sura": 103,
+    "nombre_versets": 3,
+    "versets": [
+        {
+            "index": 6177,
+            "sura": 103,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ وَالْعَصْرِ",
+            "text_fr": "Par le temps !"
+        },
+        {
+            "index": 6178,
+            "sura": 103,
+            "aya": 2,
+            "text": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+            "text_fr": "Certes, l'être humain est sûrement en perdition :"
+        },
+        {
+            "index": 6179,
+            "sura": 103,
+            "aya": 3,
+            "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux sauf ceux qui devinrent croyants et ont fait les œuvres méritoires, et se conseillent la vérité, et se conseillent la persévérance. —\" H———Æ—<"
+        }
+    ]
+}

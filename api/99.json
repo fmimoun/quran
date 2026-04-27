@@ -1,0 +1,62 @@
+{
+    "sura": 99,
+    "nombre_versets": 8,
+    "versets": [
+        {
+            "index": 6139,
+            "sura": 99,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+            "text_fr": "Quand on fera trembler la terre son vrai tremblement,"
+        },
+        {
+            "index": 6140,
+            "sura": 99,
+            "aya": 2,
+            "text": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+            "text_fr": "et que la terre aura rejeté ses fardeaux,"
+        },
+        {
+            "index": 6141,
+            "sura": 99,
+            "aya": 3,
+            "text": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+            "text_fr": "et que l'homme dira : « Qu'a-t-elle ?! »"
+        },
+        {
+            "index": 6142,
+            "sura": 99,
+            "aya": 4,
+            "text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+            "text_fr": "Ce Jour-là, elle racontera ses nouvelles,"
+        },
+        {
+            "index": 6143,
+            "sura": 99,
+            "aya": 5,
+            "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+            "text_fr": "car c'est ton Seigneur qui le lui A Inspiré."
+        },
+        {
+            "index": 6144,
+            "sura": 99,
+            "aya": 6,
+            "text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+            "text_fr": "Ce Jour-là, les hommes surgiront, disséminés, pour qu'on leur fasse voir leurs actions."
+        },
+        {
+            "index": 6145,
+            "sura": 99,
+            "aya": 7,
+            "text": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+            "text_fr": "Quiconque fait le poids d'un atome de bien le verra,"
+        },
+        {
+            "index": 6146,
+            "sura": 99,
+            "aya": 8,
+            "text": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux et quiconque fait le poids d'un atome de mal le verra. ——"
+        }
+    ]
+}
