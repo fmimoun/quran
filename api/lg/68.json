@@ -1,0 +1,422 @@
+{
+    "sura": 68,
+    "nombre_versets": 52,
+    "versets": [
+        {
+            "index": 5272,
+            "sura": 68,
+            "aya": 1,
+            "text": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ",
+            "text_fr": "Nün. Par le Calame et par ce qu'ils tracent !",
+            "text_en": "Noon. By the pen, and by what they inscribe."
+        },
+        {
+            "index": 5273,
+            "sura": 68,
+            "aya": 2,
+            "text": "مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+            "text_fr": "Tu n'es pas un fou, par la grâce de Ton Seigneur.",
+            "text_en": "By the grace of your Lord, you are not insane."
+        },
+        {
+            "index": 5274,
+            "sura": 68,
+            "aya": 3,
+            "text": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+            "text_fr": "Et tu auras sûrement une rémunération ininterrompue,",
+            "text_en": "In fact, you will have a reward that will never end."
+        },
+        {
+            "index": 5275,
+            "sura": 68,
+            "aya": 4,
+            "text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+            "text_fr": "et tu es sûrement d'un caractère élevé.",
+            "text_en": "And you are of a great moral character."
+        },
+        {
+            "index": 5276,
+            "sura": 68,
+            "aya": 5,
+            "text": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+            "text_fr": "Tu verras alors, et ils verront,",
+            "text_en": "You will see, and they will see."
+        },
+        {
+            "index": 5277,
+            "sura": 68,
+            "aya": 6,
+            "text": "بِأَيْيِكُمُ الْمَفْتُونُ",
+            "text_fr": "lequel d'entre vous est le possédé.",
+            "text_en": "Which of you is the afflicted."
+        },
+        {
+            "index": 5278,
+            "sura": 68,
+            "aya": 7,
+            "text": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+            "text_fr": "Certes, ton Seigneur Est Plus-Scient de celui qui s'est fourvoyé de Sa voie, et Il Est Plus-Scient de ceux qui sont guidés.",
+            "text_en": "Your Lord knows best who has strayed from His path, and He knows best the well-guided."
+        },
+        {
+            "index": 5279,
+            "sura": 68,
+            "aya": 8,
+            "text": "فَلَا تُطِعِ الْمُكَذِّبِينَ",
+            "text_fr": "N'obéis donc pas aux démenteurs.",
+            "text_en": "So do not obey the deniers."
+        },
+        {
+            "index": 5280,
+            "sura": 68,
+            "aya": 9,
+            "text": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+            "text_fr": "Ils voudraient que tu sois complaisant pour qu'ils deviennent complaisants.",
+            "text_en": "They would like you to compromise, so they would compromise."
+        },
+        {
+            "index": 5281,
+            "sura": 68,
+            "aya": 10,
+            "text": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ",
+            "text_fr": "Et n'obéis pas à tout prêteur de serments, insignifiant,",
+            "text_en": "And do not obey any vile swearer."
+        },
+        {
+            "index": 5282,
+            "sura": 68,
+            "aya": 11,
+            "text": "هَمَّازٍ مَشَّاءٍ بِنَمِيمٍ",
+            "text_fr": "diffamateur, qui marche en médisant,",
+            "text_en": "Backbiter, spreader of slander."
+        },
+        {
+            "index": 5283,
+            "sura": 68,
+            "aya": 12,
+            "text": "مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+            "text_fr": "empêcheur du bien, transgresseur, qui persiste à pécher,",
+            "text_en": "Preventer of good, transgressor, sinner."
+        },
+        {
+            "index": 5284,
+            "sura": 68,
+            "aya": 13,
+            "text": "عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+            "text_fr": "obstiné, et, ce qui plus est, un intrus !",
+            "text_en": "Rude and fake besides."
+        },
+        {
+            "index": 5285,
+            "sura": 68,
+            "aya": 14,
+            "text": "أَنْ كَانَ ذَا مَالٍ وَبَنِينَ",
+            "text_fr": "Est-ce parce qu'il possède des biens et des enfants ?",
+            "text_en": "Just because he has money and children."
+        },
+        {
+            "index": 5286,
+            "sura": 68,
+            "aya": 15,
+            "text": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+            "text_fr": "Lorsqu'on lui récite Nos Versets, il dit : « Légendes des Anciens ! »",
+            "text_en": "When Our Verses are recited to him, he says, “Myths of the ancients!”"
+        },
+        {
+            "index": 5287,
+            "sura": 68,
+            "aya": 16,
+            "text": "سَنَسِمُهُ عَلَى الْخُرْطُومِ",
+            "text_fr": "Nous le Marquerons sur le nez.",
+            "text_en": "We will brand him on the muzzle."
+        },
+        {
+            "index": 5288,
+            "sura": 68,
+            "aya": 17,
+            "text": "إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+            "text_fr": "Nous les Éprouvâmes certes comme Nous Avons Éprouvé les propriétaires du jardin, lorsqu'ils jurèrent : « Nous le — c H— cueillerons sûrement le matin »,",
+            "text_en": "We tested them, as We tested the owners of the garden, when they vowed to harvest it in the morning."
+        },
+        {
+            "index": 5289,
+            "sura": 68,
+            "aya": 18,
+            "text": "وَلَا يَسْتَثْنُونَ",
+            "text_fr": "sans dire : « Si Allah Veut ».",
+            "text_en": "Without any reservation."
+        },
+        {
+            "index": 5290,
+            "sura": 68,
+            "aya": 19,
+            "text": "فَطَافَ عَلَيْهَا طَائِفٌ مِنْ رَبِّكَ وَهُمْ نَائِمُونَ",
+            "text_fr": "Alors une certaine calamité, de la part de ton Seigneur, en fit le tour pendant qu'ils dormaient,",
+            "text_en": "But a calamity from your Lord went around it while they slept."
+        },
+        {
+            "index": 5291,
+            "sura": 68,
+            "aya": 20,
+            "text": "فَأَصْبَحَتْ كَالصَّرِيمِ",
+            "text_fr": "et le lendemain, il parut comme rasé.",
+            "text_en": "And in the morning it was as if picked."
+        },
+        {
+            "index": 5292,
+            "sura": 68,
+            "aya": 21,
+            "text": "فَتَنَادَوْا مُصْبِحِينَ",
+            "text_fr": "Le matin, ils s'interpellèrent :",
+            "text_en": "In the morning, they called to one another."
+        },
+        {
+            "index": 5293,
+            "sura": 68,
+            "aya": 22,
+            "text": "أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِنْ كُنْتُمْ صَارِمِينَ",
+            "text_fr": "« Accourez au grand matin à votre récolte, si vous tenez à récolter. »",
+            "text_en": "“Go early to your plantation, if you are going to harvest.”"
+        },
+        {
+            "index": 5294,
+            "sura": 68,
+            "aya": 23,
+            "text": "فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَ",
+            "text_fr": "Puis ils s'élancèrent en chuchotant :",
+            "text_en": "So off they went, murmuring to one another."
+        },
+        {
+            "index": 5295,
+            "sura": 68,
+            "aya": 24,
+            "text": "أَنْ لَا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِسْكِينٌ",
+            "text_fr": "« Aucun miséreux ne doit sûrement y mettre le pied aujourd'hui ! »",
+            "text_en": "“No poor person is to enter it upon you today.”"
+        },
+        {
+            "index": 5296,
+            "sura": 68,
+            "aya": 25,
+            "text": "وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ",
+            "text_fr": "Et ils accoururent au grand matin avec préméditation.",
+            "text_en": "And early they went, resolved in intent."
+        },
+        {
+            "index": 5297,
+            "sura": 68,
+            "aya": 26,
+            "text": "فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ",
+            "text_fr": "Mais quand ils le virent, ils dirent : « Nous nous sommes sûrement égarés !",
+            "text_en": "But when they saw it, they said, “We were wrong."
+        },
+        {
+            "index": 5298,
+            "sura": 68,
+            "aya": 27,
+            "text": "بَلْ نَحْنُ مَحْرُومُونَ",
+            "text_fr": "Plutôt, nous sommes ruinés ! »",
+            "text_en": "We are now deprived.”"
+        },
+        {
+            "index": 5299,
+            "sura": 68,
+            "aya": 28,
+            "text": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُلْ لَكُمْ لَوْلَا تُسَبِّحُونَ",
+            "text_fr": "Le cadet d'entre eux dit: « Ne vous ai-je pas dit, que n'exaltez-vous le Nom d'Allah ? »",
+            "text_en": "The most reasonable of them said, “Did I not say to you, ‘if only you would glorify?’”"
+        },
+        {
+            "index": 5300,
+            "sura": 68,
+            "aya": 29,
+            "text": "قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ",
+            "text_fr": "Ils dirent: « Gloire à notre Seigneur ! nous avons été vraiment injustes ».",
+            "text_en": "They said, “Glory to our Lord—We were indeed in the wrong.”"
+        },
+        {
+            "index": 5301,
+            "sura": 68,
+            "aya": 30,
+            "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ",
+            "text_fr": "Alors ils s'approchèrent les uns vers les autres en se blämant mutuellement :",
+            "text_en": "Then they turned to one another, blaming one another."
+        },
+        {
+            "index": 5302,
+            "sura": 68,
+            "aya": 31,
+            "text": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ",
+            "text_fr": "Ils dirent : « Malheur à nous, nous étions transgresseurs;",
+            "text_en": "They said, “Woe to us—we were indeed domineering."
+        },
+        {
+            "index": 5303,
+            "sura": 68,
+            "aya": 32,
+            "text": "عَسَىٰ رَبُّنَا أَنْ يُبْدِلَنَا خَيْرًا مِنْهَا إِنَّا إِلَىٰ رَبِّنَا رَاغِبُونَ",
+            "text_fr": "notre Seigneur nous Donnera peut-être, en échange, un meilleur que celui-ci. Nous espérons en notre Seigneur».",
+            "text_en": "Perhaps our Lord will give us a better substitute for it. We are turning to our Lord.”"
+        },
+        {
+            "index": 5304,
+            "sura": 68,
+            "aya": 33,
+            "text": "كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+            "text_fr": "Ainsi est le châtiment. Et le châtiment de la vie Future est sûrement plus grand, s'ils savaient !",
+            "text_en": "Such is the punishment; but the punishment of the Hereafter is greater, if they only knew."
+        },
+        {
+            "index": 5305,
+            "sura": 68,
+            "aya": 34,
+            "text": "إِنَّ لِلْمُتَّقِينَ عِنْدَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ",
+            "text_fr": "Certes, les pieux auront, auprès de leur Seigneur, les Paradis de Félicité.",
+            "text_en": "For the righteous are Gardens of Delight with their Lord."
+        },
+        {
+            "index": 5306,
+            "sura": 68,
+            "aya": 35,
+            "text": "أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ",
+            "text_fr": "Traiterons-Nous donc les musulmans comme les malfaiteurs ? Ç 697 H—",
+            "text_en": "Shall We treat the Muslims like the villains?"
+        },
+        {
+            "index": 5307,
+            "sura": 68,
+            "aya": 36,
+            "text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+            "text_fr": "Qu'avez-vous donc, comment jugez-vous ?",
+            "text_en": "What is the matter with you? How do you judge?"
+        },
+        {
+            "index": 5308,
+            "sura": 68,
+            "aya": 37,
+            "text": "أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ",
+            "text_fr": "Ou bien avez-vous un Livre dans lequel vous apprenez,",
+            "text_en": "Or do you have a scripture in which you study."
+        },
+        {
+            "index": 5309,
+            "sura": 68,
+            "aya": 38,
+            "text": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
+            "text_fr": "et où vous trouverez sûrement ce que vous choisirez ?",
+            "text_en": "Wherein there is whatever you choose?"
+        },
+        {
+            "index": 5310,
+            "sura": 68,
+            "aya": 39,
+            "text": "أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+            "text_fr": "Ou bien Nous avez-vous engagé, par des serments, jusqu'au Jour de la Résurrection, que vous aurez ce que vous déciderez ?",
+            "text_en": "Or do you have oaths from Us, binding until the Day of Resurrection, that you will have whatever you demand?"
+        },
+        {
+            "index": 5311,
+            "sura": 68,
+            "aya": 40,
+            "text": "سَلْهُمْ أَيُّهُمْ بِذَٰلِكَ زَعِيمٌ",
+            "text_fr": "Demande-leur lequel d'entre eux prétend cela ?",
+            "text_en": "Ask them, which of them will guarantee that."
+        },
+        {
+            "index": 5312,
+            "sura": 68,
+            "aya": 41,
+            "text": "أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِنْ كَانُوا صَادِقِينَ",
+            "text_fr": "Ou bien ont-ils des associés ? Qu'ils apportent alors leurs associés, s'ils sont véridiques,",
+            "text_en": "Or do they have partners? Then let them produce their partners, if they are truthful."
+        },
+        {
+            "index": 5313,
+            "sura": 68,
+            "aya": 42,
+            "text": "يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ",
+            "text_fr": "le Jour où la terreur battra son plein, où on leur demandera de se prosterner et ils ne pourront point,",
+            "text_en": "On the Day when the Shin will be exposed, and they will be called to bow down, but they will be unable."
+        },
+        {
+            "index": 5314,
+            "sura": 68,
+            "aya": 43,
+            "text": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ",
+            "text_fr": "les regards baissés, accablés par une ignominie. Et on les incitait à la prosternation alors qu'ils étaient en bon état.",
+            "text_en": "Their eyes subdued, shame will cover them. They were invited to bow down when they were sound."
+        },
+        {
+            "index": 5315,
+            "sura": 68,
+            "aya": 44,
+            "text": "فَذَرْنِي وَمَنْ يُكَذِّبُ بِهَـٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ",
+            "text_fr": "Laisse-moi donc avec ceux qui démentent ce Qur'än, Nous Allons les Appâter par où ils ne se rendront pas compte.",
+            "text_en": "So leave Me to those who reject this discourse; We will proceed against them gradually, from where they do not know."
+        },
+        {
+            "index": 5316,
+            "sura": 68,
+            "aya": 45,
+            "text": "وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ",
+            "text_fr": "Et Je leur Laisserai un délai. Certes, Ma Manœuvre est solide.",
+            "text_en": "And I will give them respite. My plan is firm."
+        },
+        {
+            "index": 5317,
+            "sura": 68,
+            "aya": 46,
+            "text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+            "text_fr": "Ou bien leur demandes-tu un profit, et ils sont dans la gêne â cause de quelque dette ?",
+            "text_en": "Or do you ask them for a fee, so they are burdened with debt?"
+        },
+        {
+            "index": 5318,
+            "sura": 68,
+            "aya": 47,
+            "text": "أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+            "text_fr": "Ou bien possêdent-ils l'Occulte de sorte qu'ils écrivent ?",
+            "text_en": "Or do they know the future, and so they write it down?"
+        },
+        {
+            "index": 5319,
+            "sura": 68,
+            "aya": 48,
+            "text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+            "text_fr": "Persévère donc jusqu'au jugement de ton Seigneur et ne sois pas comme l'homme au poisson, lorsqu'il appela en étant en colère.",
+            "text_en": "So wait patiently for the Decision of your Lord, and do not be like the Fellow of the Fish who cried out in despair."
+        },
+        {
+            "index": 5320,
+            "sura": 68,
+            "aya": 49,
+            "text": "لَوْلَا أَنْ تَدَارَكَهُ نِعْمَةٌ مِنْ رَبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ",
+            "text_fr": "S'il n'eut été sauvé par une Grâce de son Seigneur, il aurait été rejeté sur la côte aride en étant méprisé.",
+            "text_en": "Were it not for his Lord’s favor that reached him, he would have been thrown into the wilderness, fully despised."
+        },
+        {
+            "index": 5321,
+            "sura": 68,
+            "aya": 50,
+            "text": "فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ",
+            "text_fr": "Alors son Seigneur l'A Élu et le Fit du nombre des vertueux. —— 695 H—",
+            "text_en": "But his Lord chose him, and made him one of the righteous."
+        },
+        {
+            "index": 5322,
+            "sura": 68,
+            "aya": 51,
+            "text": "وَإِنْ يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ",
+            "text_fr": "Quoique ceux qui devinrent mécréants ont failli te percer de leurs regards, quand ils entendirent le Qur'än, et ils dirent : « Il est sûrement fou ! »",
+            "text_en": "Those who disbelieve almost stab you with their glances when they hear the message, and say, “He is crazy!”"
+        },
+        {
+            "index": 5323,
+            "sura": 68,
+            "aya": 52,
+            "text": "وَمَا هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+            "text_fr": "Versets Au Nom d'Allah, le Miséricordeur, le Miséricordieux Et ce n'est qu'un Rappel aux Univers. ——",
+            "text_en": "But it is no less than a reminder to all the Worlds."
+        }
+    ]
+}
